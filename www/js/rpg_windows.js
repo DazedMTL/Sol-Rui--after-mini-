@@ -2869,8 +2869,8 @@ Window_SavefileList.prototype.drawPartyCharacters = function(info, x, y) {
 
 Window_SavefileList.prototype.drawPlaytime = function(info, x, y, width) {
     if (info.playtime) {
-        this.drawText("保存日時：" + new Date(info.timestamp).toLocaleString('ja-JP', {era:'long'}).replace("西暦" , ""), x, y - 40, width, 'right');
-        this.drawText("プレイ時間：" + info.playtime, x, y, width, 'right');
+        this.drawText("Date:" + new Date(info.timestamp).toLocaleString('en-US', {era:'long'}).replace("西暦" , ""), x, y - 40, width, 'right');
+        this.drawText("Playtime:" + info.playtime, x, y, width, 'right');
     }
 };
 

@@ -10,7 +10,7 @@
  */
 (function() {
     var parameters = PluginManager.parameters('LoadComSim');
-    var LCSloadtext = String(parameters['loadtext'] || 'ロード');
+    var LCSloadtext = String(parameters['loadtext'] || 'Load');
     var _Scene_Menu_createCommandWindow = Scene_Menu.prototype.createCommandWindow;
     Scene_Menu.prototype.createCommandWindow = function() {
         _Scene_Menu_createCommandWindow.call(this);

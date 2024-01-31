@@ -48,7 +48,7 @@ var $plugins =
 {"name":"JsScript28Set","status":true,"description":"","parameters":{}},
 {"name":"JsScript33Set","status":true,"description":"","parameters":{}},
 {"name":"JsScript6Set","status":true,"description":"","parameters":{"常時ダッシュ":"ON","コマンド記憶":"OFF","BGM音量":"100","BGS音量":"100","ME音量":"100","SE音量":"100","常時ダッシュ消去":"OFF","コマンド記憶消去":"ON","BGM音量消去":"OFF","BGS音量消去":"OFF","ME音量消去":"OFF","SE音量消去":"OFF"}},
-{"name":"JsScript15Set","status":true,"description":"","parameters":{"loadtext":"ロード","testenable":"false"}},
+{"name":"JsScript15Set","status":true,"description":"","parameters":{"loadtext":"Load","testenable":"false"}},
 {"name":"JsScript43Set","status":true,"description":"","parameters":{}},
 {"name":"JsScript3Set","status":true,"description":"","parameters":{}},
 {"name":"JsScript49Set","status":true,"description":"","parameters":{}},
@@ -61,5 +61,5 @@ var $plugins =
 {"name":"JsScript38Set","status":true,"description":"","parameters":{}},
 {"name":"JsScript11Set","status":true,"description":"","parameters":{"--初期設定--":"","Create ExWindow Number":"2","--シーン開始時--":"","Scene Start Terminate":"1","--イベント終了時--":"","Reset Window Id":"0"}},
 {"name":"JsScript29Set","status":false,"description":"","parameters":{}},
-{"name":"JsScript42Set","status":true,"description":"","parameters":{"fpsHalfDisabledWhenDashing":"false","configTextHelp":"描画FPSの設定","configTextOn":"FPS30","configTextOff":"FPS60(標準)"}}
+{"name":"JsScript42Set","status":true,"description":"","parameters":{"fpsHalfDisabledWhenDashing":"false","configTextHelp":"Draw FPS","configTextOn":"FPS30","configTextOff":"FPS60(Default)"}}
 ];
