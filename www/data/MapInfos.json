@@ -1,0 +1,858 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "ぬぷテスト",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 1042,
+        "scrollY": 657.3333333333334
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "★パーティクルテスト",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 1300.2857142857142,
+        "scrollY": 858.8571428571428
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "主の館・書斎",
+        "order": 80,
+        "parentId": 76,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1845.818181818182
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "BAD・優樹部屋",
+        "order": 81,
+        "parentId": 0,
+        "scrollX": 1622,
+        "scrollY": 922
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 82,
+        "parentId": 0,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "魔狩りの森・回想",
+        "order": 83,
+        "parentId": 5,
+        "scrollX": 1584,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "ゴブリンの巣・回想",
+        "order": 84,
+        "parentId": 5,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1267.7142857142856
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "リターン時",
+        "order": 85,
+        "parentId": 7,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1267.7142857142856
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "ゴブ回想・ボスの間",
+        "order": 86,
+        "parentId": 7,
+        "scrollX": 1738.2857142857142,
+        "scrollY": 1434
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "バニーハウス・回想",
+        "order": 87,
+        "parentId": 5,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "処刑室・回想",
+        "order": 88,
+        "parentId": 10,
+        "scrollX": 1584,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "MAP012",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1584,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "ルイOP",
+        "order": 6,
+        "parentId": 0,
+        "scrollX": 1622,
+        "scrollY": 950
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "婬獄OP",
+        "order": 7,
+        "parentId": 0,
+        "scrollX": 1584,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "婬獄",
+        "order": 8,
+        "parentId": 0,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "ラビットハウス・ダンスホール",
+        "order": 11,
+        "parentId": 0,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "エスケープ",
+        "order": 21,
+        "parentId": 0,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "婬獄、失敗帰還時",
+        "order": 9,
+        "parentId": 15,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "探索機能:0521",
+        "order": 3,
+        "parentId": 1,
+        "scrollX": 1584,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "処刑室",
+        "order": 12,
+        "parentId": 16,
+        "scrollX": 1622,
+        "scrollY": 1142
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "マッドスクール",
+        "order": 22,
+        "parentId": 0,
+        "scrollX": 1770.8571428571427,
+        "scrollY": 1166.5714285714284
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "校舎2階",
+        "order": 24,
+        "parentId": 21,
+        "scrollX": 7696,
+        "scrollY": 4436
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "保健室",
+        "order": 23,
+        "parentId": 21,
+        "scrollX": 2544,
+        "scrollY": 1478.6666666666667
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "マッドスクール・校舎2階バックアップ",
+        "order": 27,
+        "parentId": 21,
+        "scrollX": 7696,
+        "scrollY": 4436
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "校舎1階・プール更衣室",
+        "order": 39,
+        "parentId": 21,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1555.6363636363637
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "校舎1階・廊下",
+        "order": 35,
+        "parentId": 21,
+        "scrollX": 2565.3333333333335,
+        "scrollY": 1457.3333333333333
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "校舎3階踊り場",
+        "order": 28,
+        "parentId": 21,
+        "scrollX": 1427.3333333333333,
+        "scrollY": 646.6666666666666
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "校舎3階Aフロアback",
+        "order": 30,
+        "parentId": 21,
+        "scrollX": 7696,
+        "scrollY": 4436
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "校舎3階Bフロア",
+        "order": 32,
+        "parentId": 21,
+        "scrollX": 7696,
+        "scrollY": 4436
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "校舎1階・玄関",
+        "order": 36,
+        "parentId": 21,
+        "scrollX": 1770,
+        "scrollY": 1154.7272727272727
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "校舎1階・◆※",
+        "order": 38,
+        "parentId": 21,
+        "scrollX": 1622,
+        "scrollY": 922
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "校舎1階・プール",
+        "order": 40,
+        "parentId": 21,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1317.818181818182
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "校舎1階・プールイベント中",
+        "order": 41,
+        "parentId": 32,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1282.909090909091
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "校舎1階・◆※％",
+        "order": 43,
+        "parentId": 21,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "校舎1階・◆※％▼",
+        "order": 44,
+        "parentId": 21,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1555.6363636363637
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "校舎3階Aフロア",
+        "order": 31,
+        "parentId": 28,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1219.7142857142856
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "校舎3階＿ばっくあっぷ",
+        "order": 25,
+        "parentId": 22,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1322.5714285714284
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "校舎鬼ごっこ失敗フロア",
+        "order": 45,
+        "parentId": 21,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1555.6363636363637
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "校舎1階・プール",
+        "order": 42,
+        "parentId": 32,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1481.4545454545455
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "校舎1階・クリア玄関",
+        "order": 37,
+        "parentId": 30,
+        "scrollX": 1737.4285714285713,
+        "scrollY": 1153.7142857142856
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "ファン部屋",
+        "order": 46,
+        "parentId": 21,
+        "scrollX": 2467.6363636363635,
+        "scrollY": 1555.6363636363637
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "玄関のハザマ通路・◆※％▼●",
+        "order": 47,
+        "parentId": 21,
+        "scrollX": 1861.5,
+        "scrollY": 2164.5
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "玄関のハザマ・◆※％▼●",
+        "order": 48,
+        "parentId": 42,
+        "scrollX": 1998,
+        "scrollY": 2304
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "婬獄・扉クリア帰還時",
+        "order": 10,
+        "parentId": 15,
+        "scrollX": 1508,
+        "scrollY": 873.3333333333334
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "魔狩りの森・入り口",
+        "order": 56,
+        "parentId": 0,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "魔狩りの森・ダンジョン",
+        "order": 57,
+        "parentId": 45,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 692
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "魔狩りの森・入り口テスト",
+        "order": 58,
+        "parentId": 45,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1113.3333333333333
+    },
+    {
+        "id": 48,
+        "expanded": false,
+        "name": "玄関の挟間・◆※％",
+        "order": 51,
+        "parentId": 42,
+        "scrollX": 2179.6363636363635,
+        "scrollY": 1468.3636363636365
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "玄関の挟間階段・◆※％",
+        "order": 52,
+        "parentId": 42,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1555.6363636363637
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "あな",
+        "order": 53,
+        "parentId": 42,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1411.6363636363637
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "つかまりんご",
+        "order": 54,
+        "parentId": 42,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "エレベーター",
+        "order": 55,
+        "parentId": 42,
+        "scrollX": 1622.6666666666667,
+        "scrollY": 946.6666666666666
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "バニーハウスbackup",
+        "order": 13,
+        "parentId": 16,
+        "scrollX": 1622,
+        "scrollY": 1002
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "バニーハウス",
+        "order": 14,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "ラビットハウス・バーフロア",
+        "order": 15,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 3026.1818181818185
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "ラビットハウス・プレイフロア",
+        "order": 16,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1874.1818181818182
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "ラビットハウス・VIPフロア",
+        "order": 17,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1507.6363636363637
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "ラビットハウス・控室",
+        "order": 18,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "タイトル",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1042,
+        "scrollY": 657.3333333333334
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "ラビットハウス・オーナールーム",
+        "order": 19,
+        "parentId": 16,
+        "scrollX": 1622,
+        "scrollY": 922
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "白",
+        "order": 59,
+        "parentId": 0,
+        "scrollX": 2162.1818181818185,
+        "scrollY": 988.3636363636364
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "ゴブリンの巣・上層",
+        "order": 61,
+        "parentId": 0,
+        "scrollX": 1622,
+        "scrollY": 1006
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "白",
+        "order": 60,
+        "parentId": 61,
+        "scrollX": 1769.3333333333333,
+        "scrollY": 1776
+    },
+    {
+        "id": 64,
+        "expanded": false,
+        "name": "ゴブリンの巣・入り口",
+        "order": 62,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "ゴブリンの巣・中層",
+        "order": 63,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1180.3636363636365
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "ゴブリンの巣・下層",
+        "order": 64,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1354.909090909091
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "ゴブリンの巣・繁殖場",
+        "order": 65,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1018.909090909091
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "ゴブリンの巣・深層",
+        "order": 68,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1049.4545454545455
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "ゴブリンの巣・最深層A",
+        "order": 69,
+        "parentId": 62,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1459.6363636363637
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "ゴブリンの巣・ボスの間",
+        "order": 71,
+        "parentId": 62,
+        "scrollX": 1738,
+        "scrollY": 1434
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "ラビットハウス・ダンスホール帰還専用",
+        "order": 20,
+        "parentId": 16,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "一般繁殖場BAD",
+        "order": 72,
+        "parentId": 62,
+        "scrollX": 1622,
+        "scrollY": 1430
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "ゴブリンの巣・繁殖場A",
+        "order": 66,
+        "parentId": 67,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1230.5454545454545
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "ゴブリンの巣・繁殖場B",
+        "order": 67,
+        "parentId": 67,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1184.7272727272727
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "ゴブリンの巣・最深層B",
+        "order": 70,
+        "parentId": 69,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1027.6363636363637
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "主の館・エントランス",
+        "order": 73,
+        "parentId": 0,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1254.5454545454545
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "主の館・廊下",
+        "order": 74,
+        "parentId": 76,
+        "scrollX": 1622,
+        "scrollY": 1230
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "主の館・西個室A",
+        "order": 75,
+        "parentId": 76,
+        "scrollX": 1622,
+        "scrollY": 922
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "主の館・西個室B",
+        "order": 76,
+        "parentId": 76,
+        "scrollX": 1622,
+        "scrollY": 1266
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "主の館・西個室C",
+        "order": 77,
+        "parentId": 76,
+        "scrollX": 1622,
+        "scrollY": 922
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "主の館・西物置",
+        "order": 78,
+        "parentId": 76,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "主の館・リビング",
+        "order": 79,
+        "parentId": 76,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1180.2857142857142
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "マッドスクール・回想",
+        "order": 89,
+        "parentId": 5,
+        "scrollX": 2070.8571428571427,
+        "scrollY": 1166.5714285714284
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "プール回想",
+        "order": 90,
+        "parentId": 83,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1470
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "主の館・回想",
+        "order": 91,
+        "parentId": 5,
+        "scrollX": 1570.2857142857142,
+        "scrollY": 1315.7142857142856
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "ED工場",
+        "order": 92,
+        "parentId": 0,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "NormalEnd部屋",
+        "order": 93,
+        "parentId": 86,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1250.1818181818182
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "校舎1階・クリア玄関",
+        "order": 95,
+        "parentId": 0,
+        "scrollX": 1738,
+        "scrollY": 1154
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "TrueEnd部屋",
+        "order": 94,
+        "parentId": 86,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "【BackUp】玄関のハザマ・◆※％▼●",
+        "order": 49,
+        "parentId": 43,
+        "scrollX": 1861.5,
+        "scrollY": 2022
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "【B2】玄関のハザマ・◆※％▼●",
+        "order": 50,
+        "parentId": 43,
+        "scrollX": 1861.5,
+        "scrollY": 2428.5
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "校舎3階踊り場back",
+        "order": 29,
+        "parentId": 27,
+        "scrollX": 2565.3333333333335,
+        "scrollY": 1478.6666666666667
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "校舎3階Bフロアback",
+        "order": 33,
+        "parentId": 29,
+        "scrollX": 7696,
+        "scrollY": 4436
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "校舎3階Bフロアtest",
+        "order": 34,
+        "parentId": 29,
+        "scrollX": 7632,
+        "scrollY": 4436
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "校舎2階Back",
+        "order": 26,
+        "parentId": 22,
+        "scrollX": 2565.3333333333335,
+        "scrollY": 1478.6666666666667
+    }
+]

@@ -1,0 +1,844 @@
+﻿{
+    "ptc_Syuruis": [
+        {
+            "Name": "character",
+            "ptc_Datas": []
+        },
+        {
+            "Name": "weather",
+            "ptc_Datas": []
+        },
+        {
+            "Name": "screen",
+            "ptc_Datas": []
+        },
+        {
+            "Name": "region",
+            "ptc_Datas": []
+        },
+        {
+            "Name": "---",
+            "ptc_Datas": [
+                {
+                    "Name": "hart",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kigae",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kassei",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "item_D2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "tokeru",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "zettyou",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "akume",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "aegiA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "aegiB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "aegiC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "aegiD",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "akume1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "akume2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senou",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "JK_G",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "JK_P",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "JK_C",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "JK_N",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kaifukuA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kaifukuB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kaifukuC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "yobidasi",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kigaeA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kigaeB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kigaeC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senou2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senouT",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senouT2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senou3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "senou2b",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "suiA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "suiB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "meosiA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "meosiB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "hensinA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "hensinB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "hensinC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "hensinD",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuLA",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuLB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuLC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "kattou1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "yukiT1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "yukiT2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "parin",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "buwaa",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "parin2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awa",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awa2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awa3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "maya1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "maya2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "maya3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "maya4",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awaB1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awaB2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awaB3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "awaB4",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "blow",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "meosiC",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "dame",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill4",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill5",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill6",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill7",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "blow2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill4",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill5",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "biri1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "biri2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill6",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill7",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill8",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "skill8",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill9",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill10",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill11",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill12",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill13",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill14",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill15",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill16",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "biri3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill17",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill18",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill19",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill20",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "E_skill21",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "blow3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuD",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "noizuE",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "snow",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "gurd",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "QTEB",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "samon",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "inmo1",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "inmo2",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "inmo3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "hatena",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "deru",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "sinu",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "parin3",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "o-ra",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "jyu20",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "jyu40",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "jyu60",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "jyu80",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                },
+                {
+                    "Name": "jyu100",
+                    "Setumei": "",
+                    "ZureX": 0,
+                    "ZureY": 0,
+                    "ptc_Ses": []
+                }
+            ]
+        }
+    ]
+}
