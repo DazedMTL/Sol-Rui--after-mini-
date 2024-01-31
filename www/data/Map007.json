@@ -20154,7 +20154,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -20221,7 +20221,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -20288,7 +20288,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -20356,7 +20356,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -21884,7 +21884,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -21951,7 +21951,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"鳴子のトラップだ！\");"
+                                "this.BLogAdd(200 , \"Naruko's trap!\");"
                             ]
                         },
                         {
@@ -23636,7 +23636,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -25164,7 +25164,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -25231,7 +25231,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -45986,7 +45986,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"ルイに似た女性が息絶えている……。\");"
+                                "this.BLogAdd(200 , \"A woman resembling Rui is lying breathless\");"
                             ]
                         },
                         {
@@ -46580,7 +46580,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"左の部屋からイヤな予感がする……。\");"
+                                "this.BLogAdd(200 , \"I have a bad feeling about the room on the left\");"
                             ]
                         },
                         {

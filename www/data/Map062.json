@@ -31406,7 +31406,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -31473,7 +31473,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"鳴子のトラップだ！\");"
+                                "this.BLogAdd(200 , \"It's Naruko's trap!\");"
                             ]
                         },
                         {
@@ -31697,7 +31697,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"既に息絶えている……。\");"
+                                "this.BLogAdd(200 , \"Already breathless\");"
                             ]
                         },
                         {
@@ -31764,7 +31764,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"鳴子のトラップだ！\");"
+                                "this.BLogAdd(200 , \"Naruko's Trap!\");"
                             ]
                         },
                         {
@@ -37631,14 +37631,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"箱の中身は薬草だった！\");"
+                                "this.BLogAdd(200 , \"The contents of the box were herbs!\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"\\\\C[6]ルイの\\\\I[32]体力が2回復した！\");"
+                                "this.BLogAdd(200 , \"Rui's HP has been restored by 2!\");"
                             ]
                         },
                         {
