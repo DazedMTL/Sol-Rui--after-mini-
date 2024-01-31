@@ -21706,7 +21706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電動扉の反応がない。"
+                                "The electric door isn't responding."
                             ]
                         },
                         {
@@ -21810,7 +21810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電動扉の反応がない。"
+                                "The electric door isn't responding."
                             ]
                         },
                         {
@@ -25791,14 +25791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "扉はびくともしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "The door won't budge. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -25847,14 +25840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>この更衣室……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の通っていた学校と似てる。"
+                                "\\n<Rui>This changing room... it's similar to the one at\nthe school I attended."
                             ]
                         },
                         {
@@ -25903,21 +25889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>この扉の先がプールのはずだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにかプールに入るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "条件があるのかしら？"
+                                "\\n<Rui>The pool should be beyond this door... I wonder if\nthere's some condition that needs to be met to\nenter the pool?"
                             ]
                         },
                         {
@@ -26023,14 +25995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "It's impossible to touch the door. It seems to be\nsealed by some mysterious force."
                             ]
                         },
                         {
@@ -26079,7 +26044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>この更衣室は私の通っていた学校と似てるわね。"
+                                "\\n<Rui>This changing room is similar to the one at my\nschool, isn't it?"
                             ]
                         },
                         {
@@ -26128,14 +26093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>この扉の先がプールのはずだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにかプールに入るために条件があるのかしら？"
+                                "\\n<Rui>The pool should be beyond this door... I wonder if\nthere's some condition that needs to be met to\nenter the pool?"
                             ]
                         },
                         {
@@ -26335,14 +26293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "I can't touch the door. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -26418,14 +26369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "I can't touch the door. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -26618,14 +26562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "扉はびくともしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "The door won't budge. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -26674,14 +26611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>この更衣室……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の通っていた学校と似てる。"
+                                "\\n<Rui>This changing room... it's similar to the one at\nthe school I used to attend."
                             ]
                         },
                         {
@@ -26730,21 +26660,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>この扉の先がプールのはずだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにかプールに入るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "条件があるのかしら？"
+                                "\\n<Rui>The pool should be beyond this door... I wonder if\nthere's a condition that needs to be met to enter\nthe pool?"
                             ]
                         },
                         {
@@ -26850,14 +26766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "It's impossible to touch the door. It seems to be\nsealed by some mysterious force."
                             ]
                         },
                         {
@@ -26906,7 +26815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>この更衣室は私の通っていた学校と似てるわね。"
+                                "\\n<Rui>This changing room is similar to the one at my old\nschool, isn't it?"
                             ]
                         },
                         {
@@ -26955,14 +26864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>この扉の先がプールのはずだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにかプールに入るために条件があるのかしら？"
+                                "\\n<Rui>The pool is supposed to be beyond this door...\nCould there be some condition to enter the pool, I\nwonder?"
                             ]
                         },
                         {
@@ -27162,14 +27064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "I can't touch the door. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -27245,14 +27140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "扉にふれることができない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不思議な力で塞がれているようだ。"
+                                "I can't touch the door. It seems to be sealed by\nsome mysterious force."
                             ]
                         },
                         {
@@ -27350,14 +27238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　「水泳部より」>一般開放の時も水着は来てください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水着以外での入場は禁止です！"
+                                "\\n<\"From The Swimming Club\">Please wear your swimsuit even during open hours!\nEntry in anything other than a swimsuit is\nprohibited!"
                             ]
                         },
                         {
@@ -27445,14 +27326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　「水泳部より」>一般開放の時も水着は来てください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水着以外での入場は禁止です！"
+                                "\\n<\"From The Swimming Club\">Please wear a swimsuit even during public hours!\nEntry in anything other than a swimsuit is\nprohibited!"
                             ]
                         },
                         {
@@ -27829,7 +27703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロッカーの中に水着が入っている。"
+                                "There's a swimsuit inside the locker."
                             ]
                         },
                         {
@@ -27837,8 +27711,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "着替える",
-                                    "着替えない"
+                                    "Change clothes",
+                                    "I won't change"
                                 ],
                                 1,
                                 0,
@@ -28057,7 +27931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>んっ……食い込むわね……"
+                                "\\n<Rui>Mmm... It's digging in..."
                             ]
                         },
                         {
@@ -28108,7 +27982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -28173,14 +28047,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>それにしても白色ってだけならまだしも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "少し透けてるじゃない……。"
+                                "\\n<Rui>But even if it's just white, isn't it a bit see-\nthrough..."
                             ]
                         },
                         {
@@ -28225,14 +28092,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>あのバニーのお店以外でも着ることを考えると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちゃんとプールで着れるだけマシね。"
+                                "\\n<Rui>Considering I might wear it somewhere other than\nthat bunny shop, it's good enough that I can\nactually wear it to the pool."
                             ]
                         },
                         {
@@ -28298,7 +28158,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -28347,7 +28207,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>扉をクリアしたら……あの目玉しばく。"
+                                "\\n<Rui>Once we clear the door... I'll smack that eyeball."
                             ]
                         },
                         {
@@ -28399,7 +28259,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>相変わらず……変態っぽいわね。"
+                                "\\n<Rui>As usual... It seems perverted."
                             ]
                         },
                         {
@@ -28457,7 +28317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今はいいかな……。"
+                                "\\n<Rui>Maybe now's not the time..."
                             ]
                         },
                         {
@@ -28546,7 +28406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロッカーの中に脱いだモノが入っている。"
+                                "There are things I took off inside the locker."
                             ]
                         },
                         {
@@ -28554,8 +28414,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "着替える",
-                                    "着替えない"
+                                    "Change clothes",
+                                    "I won't change clothes"
                                 ],
                                 1,
                                 0,
@@ -29225,7 +29085,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>よし。"
+                                "\\n<Rui>Alright."
                             ]
                         },
                         {
@@ -29293,7 +29153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今はいいかな……。"
+                                "\\n<Rui>Maybe that's enough for now..."
                             ]
                         },
                         {
@@ -30008,7 +29868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {
@@ -30016,8 +29876,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "していく。",
-                                    "先を急ぐ。"
+                                    "I'll do it",
+                                    "Let's hurry ahead"
                                 ],
                                 1,
                                 0,
@@ -30079,7 +29939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……使っちゃっても大丈夫よね？"
+                                "\\n<Rui>...It's okay to use it, right?"
                             ]
                         },
                         {
@@ -30629,7 +30489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今は別にいいかな。"
+                                "\\n<Rui>I guess it doesn't matter right now."
                             ]
                         },
                         {
@@ -30760,7 +30620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今すぐは大丈夫ね。"
+                                "\\n<Rui>I'm fine right now."
                             ]
                         },
                         {
@@ -30911,7 +30771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {
@@ -30919,8 +30779,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "していく。",
-                                    "先を急ぐ。"
+                                    "Let's do it",
+                                    "Hurry ahead"
                                 ],
                                 1,
                                 0,
@@ -30982,7 +30842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……使っちゃっても大丈夫よね？"
+                                "\\n<Rui>...It's okay to use it, right?"
                             ]
                         },
                         {
@@ -31532,7 +31392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今は別にいいかな。"
+                                "\\n<Rui>I guess it doesn't matter right now."
                             ]
                         },
                         {
@@ -31663,7 +31523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今すぐは大丈夫ね。"
+                                "\\n<Rui>I'm fine right now."
                             ]
                         },
                         {
@@ -31814,7 +31674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {
@@ -31822,8 +31682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "していく。",
-                                    "先を急ぐ。"
+                                    "Let's do it",
+                                    "Let's hurry ahead"
                                 ],
                                 1,
                                 0,
@@ -31885,7 +31745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……使っちゃっても大丈夫よね？"
+                                "\\n<Rui>...It's okay to use it, right?"
                             ]
                         },
                         {
@@ -32435,7 +32295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今は別にいいかな。"
+                                "\\n<Rui>I guess it doesn't matter right now."
                             ]
                         },
                         {
@@ -32566,7 +32426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今すぐは大丈夫ね。"
+                                "\\n<Rui>I'm fine right now."
                             ]
                         },
                         {
@@ -32717,7 +32577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {
@@ -32725,8 +32585,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "していく。",
-                                    "先を急ぐ。"
+                                    "Let's do it",
+                                    "Let's hurry ahead"
                                 ],
                                 1,
                                 0,
@@ -32788,7 +32648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……使っちゃっても大丈夫よね？"
+                                "\\n<Rui>...It's okay to use it, right?"
                             ]
                         },
                         {
@@ -33338,7 +33198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今は別にいいかな。"
+                                "\\n<Rui>I guess it doesn't matter right now."
                             ]
                         },
                         {
@@ -33469,7 +33329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今すぐは大丈夫ね。"
+                                "\\n<Rui>I'm fine right now."
                             ]
                         },
                         {
@@ -33592,7 +33452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {
@@ -33687,7 +33547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>普通のトイレね……。"
+                                "\\n<Rui>Just a normal toilet..."
                             ]
                         },
                         {

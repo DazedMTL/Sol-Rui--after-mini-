@@ -26375,7 +26375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "VDから抜け出しますか？"
+                                "Do you want to exit from VD?"
                             ]
                         },
                         {
@@ -26383,8 +26383,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27503,14 +27503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -27598,14 +27591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -27909,14 +27895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -28816,14 +28795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -28911,14 +28883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29006,14 +28971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29101,14 +29059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29196,14 +29147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29291,14 +29235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29386,14 +29323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of what seems like a joyful life can be\nheard from beyond the door. However, the door\nappears to be firmly shut and unlikely to open."
                             ]
                         },
                         {
@@ -29481,14 +29411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29576,14 +29499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29671,14 +29587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29766,14 +29675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -29861,14 +29763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of what seems like a joyful life can be\nheard from beyond the door. However, the door\nappears to be firmly shut and unlikely to open."
                             ]
                         },
                         {
@@ -29956,14 +29851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30051,14 +29939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30146,14 +30027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30241,14 +30115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of what seems like a joyful life can be\nheard from beyond the door. However, the door\nappears to be firmly shut and unlikely to open."
                             ]
                         },
                         {
@@ -30336,14 +30203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30431,14 +30291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30526,14 +30379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30621,14 +30467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of cheerful daily life can be heard from\nbeyond the door. However, the door seems firmly\nshut and unlikely to open."
                             ]
                         },
                         {
@@ -30716,14 +30555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30811,14 +30643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -30906,14 +30731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31001,14 +30819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31096,14 +30907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31191,14 +30995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31286,14 +31083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31381,14 +31171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31476,14 +31259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of cheerful daily life can be heard from\nbeyond the door. However, the door seems firmly\nshut and unlikely to open."
                             ]
                         },
                         {
@@ -31571,14 +31347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31666,14 +31435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31761,14 +31523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31856,14 +31611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -31951,14 +31699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -32046,14 +31787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -32141,14 +31875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の奥から楽しそうな生活音が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、扉は硬く開きそうもない。"
+                                "Sounds of joyful living can be heard from beyond\nthe door. However, the door seems firmly shut and\nunlikely to open."
                             ]
                         },
                         {
@@ -32934,7 +32661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……雪？"
+                                "\\n<Rui>...Snow?"
                             ]
                         },
                         {
@@ -32962,7 +32689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──聞こえるか──？"
+                                "\\n<Golb>──Can you hear me──?"
                             ]
                         },
                         {
@@ -33004,14 +32731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ゴルブさん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにいるの？"
+                                "\\n<Rui>Golb-san? Where are you?"
                             ]
                         },
                         {
@@ -33039,14 +32759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──ルイさんは呼んだ場所と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うところに飛ばされたようだ。"
+                                "\\n<Golb>──It seems Rui-san has been transported to a\ndifferent location than the intended one."
                             ]
                         },
                         {
@@ -33102,21 +32815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>違うところ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか、雪が降ってて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "路地裏みたいな場所なんだけど。"
+                                "\\n<Rui>A different location? It's... snowing and looks\nlike a back alley."
                             ]
                         },
                         {
@@ -33144,14 +32843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──ふむ、辺りに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリスタルの端末はないかい？"
+                                "\\n<Golb>──Hmm, is there a crystal terminal nearby?"
                             ]
                         },
                         {
@@ -33315,7 +33007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あ、なんかキラキラしてるのがあるよ。"
+                                "\\n<Rui>Oh, there's something sparkling over there."
                             ]
                         },
                         {
@@ -33343,14 +33035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──なら戻ることはできそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰還するときはそのクリスタルに触れてくれ。"
+                                "\\n<Golb>──Then it seems possible to return. When you want\nto come back, touch that crystal."
                             ]
                         },
                         {
@@ -33378,14 +33063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──ナノが言うには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず調べてみて欲しいってことらしい。"
+                                "\\n<Golb>──Nano says to check it out for now, it seems."
                             ]
                         },
                         {
@@ -33434,7 +33112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>解った、行ってくる。"
+                                "\\n<Rui>Understood, I'll go have a look."
                             ]
                         },
                         {
@@ -34254,7 +33932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心の扉はまだ全て溶けていない。"
+                                "The doors of the heart have not all melted away\nyet."
                             ]
                         },
                         {
@@ -34303,7 +33981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>扉はまだすべて……？"
+                                "\\n<Rui>The doors haven't all...?"
                             ]
                         },
                         {
@@ -34331,7 +34009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──何かあったか？"
+                                "\\n<Golb>──Something happened?"
                             ]
                         },
                         {
@@ -34380,21 +34058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>鉄格子の前に行くとなんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉が脳裏に浮かんだの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「心の扉はまだ全て溶けていない」って。"
+                                "\\n<Rui>When I went in front of the iron bars, some words\ncame to mind. \"The doors of the heart have not all\nmelted away yet.\""
                             ]
                         },
                         {
@@ -34422,21 +34086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──心の扉？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、ナノ、どうした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え？そうなのか？"
+                                "\\n<Golb>──Doors of the heart? Oh, Nano, what's up. Eh? Is\nthat so?"
                             ]
                         },
                         {
@@ -34453,21 +34103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──なんか、ナノがいうには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほにゃらら遊戯とリンクしてるかもしれない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言ってる。"
+                                "\\n<Golb>──Nano seems to be saying it might be linked to\nsome kind of game."
                             ]
                         },
                         {
@@ -34516,14 +34152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あ、確かにこの場所……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し似てるかも。"
+                                "\\n<Rui>Ah, indeed this place... might look a bit similar."
                             ]
                         },
                         {
@@ -34551,21 +34180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>──そうなると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今できることはねぇかもしれねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また改めてくるしかないかもしれねぇな。"
+                                "\\n<Golb>──If that's the case, there might be nothing we\ncan do now. We might have to come back again\nlater."
                             ]
                         },
                         {
@@ -34607,14 +34222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>解った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず扉をクリアしてくるわ。"
+                                "\\n<Rui>Understood. For now, I'll go clear the door."
                             ]
                         },
                         {
@@ -34708,7 +34316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心の扉はまだ全て溶けていない。"
+                                "The doors of the heart have not yet fully melted\naway."
                             ]
                         },
                         {
@@ -34787,7 +34395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉に触れますか？"
+                                "Will you touch the door?"
                             ]
                         },
                         {
@@ -34795,8 +34403,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

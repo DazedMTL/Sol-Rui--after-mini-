@@ -33109,7 +33109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>はぁ……あっ……"
+                                "\\n<Rui>Haa... Ahh..."
                             ]
                         },
                         {
@@ -33164,7 +33164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>も……う……"
+                                "\\n<Rui>Mo... re..."
                             ]
                         },
                         {
@@ -33212,7 +33212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ダ……メ……"
+                                "\\n<Rui>No... more..."
                             ]
                         },
                         {
@@ -33341,7 +33341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -33358,7 +33358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -33375,7 +33375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -33762,14 +33762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>せめてあの子のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か飲み物とかあったら……。"
+                                "\\n<Rui>If only there was something to drink for that\nchild..."
                             ]
                         },
                         {
@@ -33797,14 +33790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ある程度お店でお客さんの相手をしてたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの人たちもいなくならないかな？"
+                                "\\n<Rui>If I entertain the customers at the shop to some\nextent, maybe those people will leave?"
                             ]
                         },
                         {
@@ -36450,7 +36436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……戻ってきたのね。"
+                                "\\n<Rui>...I've returned."
                             ]
                         },
                         {
@@ -36599,14 +36585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>お帰りルイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだった？"
+                                "\\n<Nano>Welcome back, Rui. How did it go?"
                             ]
                         },
                         {
@@ -36669,14 +36648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ありがとうナノちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分、収穫はあったんだと思う。"
+                                "\\n<Rui>Thank you, Nano-chan. I think there might have\nbeen some gains."
                             ]
                         },
                         {
@@ -36739,7 +36711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>ん。よかった。"
+                                "\\n<Nano>Hmm. That's good."
                             ]
                         },
                         {
@@ -36767,21 +36739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>おおん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきまでルイさんがいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮想空間が消えてるな……。"
+                                "\\n<Golb>Huh? The virtual space where Rui-san was just now\nhas disappeared..."
                             ]
                         },
                         {
@@ -36798,14 +36756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>結局何だったんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過ぎちまえばただのバグだった気すらするぜ。"
+                                "\\n<Golb>What was that all about in the end? Now that it's\nover, it feels like it was just a bug."
                             ]
                         },
                         {
@@ -36868,7 +36819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>フッ、それを聞くのは野暮。"
+                                "\\n<Nano>Heh, asking that is rather tactless."
                             ]
                         },
                         {
@@ -36896,7 +36847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>お、おう。"
+                                "\\n<Golb>Oh, right."
                             ]
                         },
                         {
@@ -36952,14 +36903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>私達の仕事は終わった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後はこんな船さっさと脱出するだけ。"
+                                "\\n<Nano>Our job here is done. All that's left is to\nquickly escape from this ship."
                             ]
                         },
                         {
@@ -37008,7 +36952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そう、ナノちゃん達も行くのね。"
+                                "\\n<Rui>I see, so you and Nano-chan are leaving too."
                             ]
                         },
                         {
@@ -37064,7 +37008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>ん。これでお別れ。"
+                                "\\n<Nano>Yes. This is goodbye."
                             ]
                         },
                         {
@@ -37127,21 +37071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>気を付けてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴルブさんも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかりナノちゃんを守ってね。"
+                                "\\n<Rui>Take care. And Golb-san, make sure to protect\nNano-chan properly."
                             ]
                         },
                         {
@@ -37169,21 +37099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>当然だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度とぶちぎれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オーバーヒートなんてしねぇ。"
+                                "\\n<Golb>Of course. I won't ever lose it and go berserk\nagain."
                             ]
                         },
                         {
@@ -37232,7 +37148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>ルイ、改めて言わせて。"
+                                "\\n<Nano>Rui, let me say this again."
                             ]
                         },
                         {
@@ -37295,7 +37211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>何？"
+                                "\\n<Rui>What is it?"
                             ]
                         },
                         {
@@ -37358,7 +37274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ナノ>私とゴルブを助けてくれてありがとう。"
+                                "\\n<Nano>Thank you for saving me and Golb."
                             ]
                         },
                         {
@@ -37442,21 +37358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こちらこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナノちゃんみたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい子に出会えてよかったわ。"
+                                "\\n<Rui>Likewise. I'm glad I met a nice girl like you,\nNano-chan."
                             ]
                         },
                         {
@@ -37484,14 +37386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>じゃぁなルイさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目玉の魔族って奴に負けるんじゃねぇぞ！"
+                                "\\n<Golb>See ya, Rui-san. Don't lose to that eyeball demon!"
                             ]
                         },
                         {
@@ -37758,14 +37653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>話し込んでるわね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "左から行こう。"
+                                "\\n<Rui>They seem to be deep in conversation... Let's go\nfrom the left."
                             ]
                         },
                         {
@@ -38003,7 +37891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ひゃい！？"
+                                "\\n<Rui>Eek!?"
                             ]
                         },
                         {
@@ -38047,7 +37935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>……"
+                                "\\n<Customer>..."
                             ]
                         },
                         {
@@ -38096,7 +37984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -38489,7 +38377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>きゃ！？"
+                                "\\n<Rui>Kyaa!?"
                             ]
                         },
                         {
@@ -38573,7 +38461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>へへへ……"
+                                "\\n<Customer>Hehehe..."
                             ]
                         },
                         {
@@ -38629,7 +38517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……また触られた。"
+                                "\\n<Rui>...I've been touched again."
                             ]
                         },
                         {
@@ -39008,7 +38896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>っ！？"
+                                "\\n<Rui>Huh!? What?"
                             ]
                         },
                         {
@@ -39092,7 +38980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>ん～？流石にもうびっくりしないか。"
+                                "\\n<Customer>Hmm? I guess you're not surprised anymore."
                             ]
                         },
                         {
@@ -39148,7 +39036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……なにかごようですか？"
+                                "\\n<Rui>...Do you need something?"
                             ]
                         },
                         {
@@ -39176,7 +39064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>い～や？べつにぃ？"
+                                "\\n<Customer>Nah, not really?"
                             ]
                         },
                         {
@@ -39232,7 +39120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……遊ばれてる。"
+                                "\\n<Rui>...I'm being toyed with."
                             ]
                         },
                         {
@@ -39708,7 +39596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -39792,7 +39680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>へへへ……"
+                                "\\n<Customer>Hehehe..."
                             ]
                         },
                         {
@@ -39848,7 +39736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……エスカレートしてるわね。"
+                                "\\n<Rui>...Things are escalating, aren't they."
                             ]
                         },
                         {
@@ -40345,7 +40233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>へへへ……"
+                                "\\n<Customer>Hehehe..."
                             ]
                         },
                         {
@@ -40408,7 +40296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……あの"
+                                "\\n<Rui>...Um"
                             ]
                         },
                         {
@@ -40436,7 +40324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>ん～？なにか用？"
+                                "\\n<Customer>Hmm? Do you need something?"
                             ]
                         },
                         {
@@ -40499,7 +40387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……別に、やっぱいいです。"
+                                "\\n<Rui>...No, never mind, it's okay."
                             ]
                         },
                         {
@@ -40555,14 +40443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……ココを通るときは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覚悟したほうがいいわね。"
+                                "\\n<Rui>...You better be prepared when you pass through\nhere."
                             ]
                         },
                         {
@@ -41579,7 +41460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -41610,7 +41491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……扉を……クリアしなきゃ。"
+                                "\\n<Rui>...I have to clear... the door."
                             ]
                         },
                         {
@@ -43283,7 +43164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -43375,7 +43256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>みんなあっちこっちでエッチな事シてる……。"
+                                "\\n<Rui>Everyone's doing lewd things here and there..."
                             ]
                         },
                         {
@@ -43438,7 +43319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>私もあの中にまざれってことよね……。"
+                                "\\n<Rui>So I'm supposed to join in with them, huh..."
                             ]
                         },
                         {
@@ -43556,7 +43437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>お、ちょうどいい所に。"
+                                "\\n<Customer>Oh, you're just in the right place."
                             ]
                         },
                         {
@@ -43619,7 +43500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと……？"
+                                "\\n<Rui>Um...?"
                             ]
                         },
                         {
@@ -43647,7 +43528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>よっと。"
+                                "\\n<Customer>Here we go."
                             ]
                         },
                         {
@@ -43743,7 +43624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひっ！？"
+                                "\\n<Rui>Ah!?"
                             ]
                         },
                         {
@@ -43810,7 +43691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ちょっと、何すんのよ！！"
+                                "\\n<Rui>Hey, what are you doing?!!"
                             ]
                         },
                         {
@@ -43848,7 +43729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>っ……何するの！"
+                                "\\n<Rui>...What are you doing!"
                             ]
                         },
                         {
@@ -43886,7 +43767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>おっぱい触ってるんだけど？"
+                                "\\n<Customer>I'm touching your breasts, you see?"
                             ]
                         },
                         {
@@ -43942,7 +43823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>触ってるんだけど？じゃないわよ！"
+                                "\\n<Rui>\"You see?\" is not the point!"
                             ]
                         },
                         {
@@ -44048,7 +43929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>おっとっと……元気だね。"
+                                "\\n<Customer>Whoops... You're quite spirited."
                             ]
                         },
                         {
@@ -44090,7 +43971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いきなり何するのよ！"
+                                "\\n<Rui>What are you doing all of a sudden!"
                             ]
                         },
                         {
@@ -44118,14 +43999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>君、新人さんかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはそういうお店だよ？"
+                                "\\n<Customer>Are you new here? This is that kind of\nestablishment, you know?"
                             ]
                         },
                         {
@@ -44188,7 +44062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そ、そうかもしれないけど……。"
+                                "\\n<Rui>Th-that might be true but..."
                             ]
                         },
                         {
@@ -44216,7 +44090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>ま、他の子いじってくるか。"
+                                "\\n<Customer>Well, I'll go play with another girl then."
                             ]
                         },
                         {
@@ -44265,7 +44139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -44404,7 +44278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>本当にエッチなお店なんだ。"
+                                "\\n<Rui>This really is a lewd establishment."
                             ]
                         },
                         {
@@ -44435,7 +44309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>覚悟を……決めるしか無いわ。"
+                                "\\n<Rui>I have no choice but to... brace myself."
                             ]
                         },
                         {
@@ -44521,7 +44395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……でもあの目玉は後で殴る。"
+                                "\\n<Rui>...But I'll punch that eyeball later."
                             ]
                         },
                         {
@@ -44780,7 +44654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>俺らの相手はしなくていいよ？なぁ？"
+                                "\\n<Customer>You don't have to bother with us, right? Eh?"
                             ]
                         },
                         {
@@ -44808,7 +44682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<向かいの客>へへ、そうそう。"
+                                "\\n<The Customer Across>Hehe, exactly."
                             ]
                         },
                         {
@@ -44875,7 +44749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……はぁ。"
+                                "\\n<Rui>...Sigh."
                             ]
                         },
                         {
@@ -44938,14 +44812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>つまり、一方的にセクハラしたい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ってことなのかしら？"
+                                "\\n<Rui>So basically, you just want to sexually harass\nme... is that it?"
                             ]
                         },
                         {
@@ -45094,7 +44961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>ん？別に呼んでないぞ～？"
+                                "\\n<Customer>Hm? I didn't call for anyone though~?"
                             ]
                         },
                         {
@@ -45161,7 +45028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……はぁ。"
+                                "\\n<Rui>...Sigh."
                             ]
                         },
                         {
@@ -45224,21 +45091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よくわかんないけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無防備に通り過ぎるところを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セクハラしたいってこと？"
+                                "\\n<Rui>I don't really get it... but are you saying you\nwant to sexually harass someone who's just passing\nby without a care?"
                             ]
                         },
                         {
@@ -45642,7 +45495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>……。"
+                                "\\n<Customer>..."
                             ]
                         },
                         {
@@ -45752,7 +45605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>……　……。"
+                                "\\n<Customer>......"
                             ]
                         },
                         {
@@ -45948,7 +45801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>ん、シャワーを浴びにきたのか？"
+                                "\\n<Customer>Hmm, did you come to take a shower?"
                             ]
                         },
                         {
@@ -46011,7 +45864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっ"
+                                "\\n<Rui>Eh?"
                             ]
                         },
                         {
@@ -46039,7 +45892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>あ、俺のことは気にせず浴びていいよ。"
+                                "\\n<Customer>Ah, don't mind me, go ahead and shower."
                             ]
                         },
                         {
@@ -46095,7 +45948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと……ちがいます。"
+                                "\\n<Rui>Um... that's not it."
                             ]
                         },
                         {
@@ -46165,7 +46018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>汗を流すにしても別の場所がいいわね。"
+                                "\\n<Rui>Even if I wanted to wash off sweat, I'd prefer a\ndifferent place."
                             ]
                         },
                         {
@@ -47051,7 +46904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男はルイへと手を伸ばす……！"
+                                "The man reaches out towards Rui...!"
                             ]
                         },
                         {
@@ -47059,8 +46912,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "逃げる【\\I[155]交渉力使用】",
-                                    "何もしない"
+                                    "Escape [Use Negotiation Skill]",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -47129,14 +46982,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "交渉力の使用を確認。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の残高と行動履歴をスキャン━━"
+                                "Confirming the use of negotiation skills. Scanning\nthe man's balance and transaction history━"
                             ]
                         },
                         {
@@ -47167,21 +47013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メリットに対しデメリットが大きいと判断。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この場からの撤退するため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "プレイヤー・ルイの発言機能を掌握します。"
+                                "Assessing that the disadvantages outweigh the\nadvantages. Taking control of player Rui's speech\nfunction to retreat from this situation."
                             ]
                         },
                         {
@@ -47228,14 +47060,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルイは自分でも驚くほど口が回り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男から逃れることが出来た。"
+                                "Rui was able to escape from the man, her words\nflowing more smoothly than she expected."
                             ]
                         },
                         {
@@ -47347,7 +47172,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -47413,7 +47238,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男はルイへと手を伸ばす……！"
+                                "The man reaches out towards Rui...!"
                             ]
                         },
                         {
@@ -48398,7 +48223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男はルイへと手を伸ばす……！"
+                                "The man reaches out towards Rui...!"
                             ]
                         },
                         {
@@ -48406,8 +48231,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "逃げる【\\I[155]交渉力使用】",
-                                    "何もしない"
+                                    "Escape [Use Negotiation Skill]",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -48476,14 +48301,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "交渉力の使用を確認。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の残高と行動履歴をスキャン━━"
+                                "Confirming the use of negotiation skills. Scanning\nthe man's balance and action history━"
                             ]
                         },
                         {
@@ -48514,21 +48332,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メリットに対しデメリットが大きいと判断。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この場からの撤退するため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "プレイヤー・ルイの発言機能を掌握します。"
+                                "Assessing that the disadvantages outweigh the\nadvantages. Taking control of player Rui's speech\nfunction to retreat from this situation."
                             ]
                         },
                         {
@@ -48575,14 +48379,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルイは自分でも驚くほど口が回り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男から逃れることが出来た。"
+                                "Rui was able to escape from the man, much to her\nown surprise, with her smooth talking."
                             ]
                         },
                         {
@@ -48694,7 +48491,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -48760,7 +48557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男はルイへと手を伸ばす……！"
+                                "The man reaches out towards Rui...!"
                             ]
                         },
                         {
@@ -48994,7 +48791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>ん、シャワーを浴びにきたのか？"
+                                "\\n<Customer>Hmm, did you come to take a shower?"
                             ]
                         },
                         {
@@ -49069,7 +48866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっ"
+                                "\\n<Rui>Eh?"
                             ]
                         },
                         {
@@ -49125,21 +48922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>もしかしてこの人、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココでずっとシャワーを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浴びるのを待ってるの？"
+                                "\\n<Rui>Could it be that this person has been waiting here\nall this time just to take a shower?"
                             ]
                         },
                         {
@@ -49167,7 +48950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>あぁ、俺のことは気にせず浴びていいよ。"
+                                "\\n<Customer>Ah, don't mind me, go ahead and shower."
                             ]
                         },
                         {
@@ -49223,7 +49006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと……ちがいます。"
+                                "\\n<Rui>Um... that's not it."
                             ]
                         },
                         {
@@ -49293,7 +49076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>汗を流すにしても別の場所がいいわね。"
+                                "\\n<Rui>Even if I wanted to wash off sweat, I'd prefer a\ndifferent place."
                             ]
                         },
                         {
@@ -49470,14 +49253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっちこっちでエッチな事シてる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭がおかしくなりそうな光景ね……"
+                                "\\n<Rui>Doing lewd things here and there... It's a scene\nthat could drive you crazy..."
                             ]
                         },
                         {
@@ -49595,7 +49371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>お、君。見ない顔だね。"
+                                "\\n<Customer>Oh, you. I haven't seen your face around here."
                             ]
                         },
                         {
@@ -49658,7 +49434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと……アナタは？"
+                                "\\n<Rui>Um... Who are you?"
                             ]
                         },
                         {
@@ -49686,7 +49462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>この店の常連さ。"
+                                "\\n<Customer>I'm a regular at this shop."
                             ]
                         },
                         {
@@ -49735,7 +49511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こんなところの常連って……"
+                                "\\n<Rui>A regular at a place like this..."
                             ]
                         },
                         {
@@ -49763,7 +49539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>よっと。"
+                                "\\n<Customer>Here we go."
                             ]
                         },
                         {
@@ -49859,7 +49635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひゃい！？"
+                                "\\n<Rui>Eek!?"
                             ]
                         },
                         {
@@ -49926,7 +49702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ちょっと、何すんのよ！！"
+                                "\\n<Rui>Hey, what are you doing?!"
                             ]
                         },
                         {
@@ -49964,7 +49740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>っ……何するの！"
+                                "\\n<Rui>...What are you doing!"
                             ]
                         },
                         {
@@ -50002,14 +49778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっぱい触ってるんだけど？"
+                                "\\n<Customer>Eh? I'm touching your breasts, what does it look\nlike?"
                             ]
                         },
                         {
@@ -50065,7 +49834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>くっ、このっ！"
+                                "\\n<Rui>Ugh, you...!"
                             ]
                         },
                         {
@@ -50100,7 +49869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あれ……？このっ！"
+                                "\\n<Rui>What the...? You...!"
                             ]
                         },
                         {
@@ -50128,14 +49897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>あれれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして僕を突き飛ばそうとしてる？"
+                                "\\n<Customer>Oh? Are you trying to push me away?"
                             ]
                         },
                         {
@@ -50163,21 +49925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>無駄だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バニーは囚人チップを埋められているからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他人に危害を加える行動は抑制されるんだ。"
+                                "\\n<Customer>It's futile. Bunny girls have prisoner chips\nimplanted in them. Any harmful actions towards\nothers are suppressed."
                             ]
                         },
                         {
@@ -50226,14 +49974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>囚人チップってなによそのSF！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルールの暴力禁止ってそういうこと！？"
+                                "\\n<Rui>Prisoner chip? What kind of sci-fi is that?! Is\nthat why violence is prohibited for Bunny girls?!"
                             ]
                         },
                         {
@@ -50261,7 +50002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>それじゃ揉ませてもらうね？"
+                                "\\n<Customer>Then, I'll take the liberty to fondle them, okay?"
                             ]
                         },
                         {
@@ -50324,7 +50065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>んっ……やめてっ"
+                                "\\n<Rui>Nngh... Stop it..."
                             ]
                         },
                         {
@@ -50380,7 +50121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっ……んっ"
+                                "\\n<Rui>Ah... Mmm..."
                             ]
                         },
                         {
@@ -50408,7 +50149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>お、感度いいねぇ？"
+                                "\\n<Customer>Oh, you're quite sensitive, aren't you?"
                             ]
                         },
                         {
@@ -50464,7 +50205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>～～～っ"
+                                "\\n<Rui>~~~~"
                             ]
                         },
                         {
@@ -50492,7 +50233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>どうする？続ける？"
+                                "\\n<Customer>What do you want to do? Should I continue?"
                             ]
                         },
                         {
@@ -50548,7 +50289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>続けるも何も……ココで犯されるんでしょ……"
+                                "\\n<Rui>Continue or not... I'm going to be violated here\nanyway..."
                             ]
                         },
                         {
@@ -50576,14 +50317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりいいや。見逃してあげる。"
+                                "\\n<Customer>...Actually, never mind. I'll let you off this\ntime."
                             ]
                         },
                         {
@@ -50646,7 +50380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……え？"
+                                "\\n<Rui>...Huh?"
                             ]
                         },
                         {
@@ -50745,7 +50479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>んっ"
+                                "\\n<Rui>Mmm"
                             ]
                         },
                         {
@@ -50801,7 +50535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -50829,21 +50563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>後で自分から売りに来てよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、他の客4.5人の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手をした後ならいつでもいいよ。"
+                                "\\n<Customer>Come back later and offer yourself. After all,\nit's fine anytime after you've taken care of 4 or\n5 other customers."
                             ]
                         },
                         {
@@ -50885,7 +50605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……どういうこと？"
+                                "\\n<Rui>...What do you mean?"
                             ]
                         },
                         {
@@ -50913,14 +50633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>いやぁ、僕は紳士だから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理はねぇ？"
+                                "\\n<Customer>Well, I am a gentleman after all. I don't do\nthings by force."
                             ]
                         },
                         {
@@ -50976,21 +50689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……このお店の常連で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人を出待ちしているのが紳士？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少しまともな嘘を付きなさいよ。"
+                                "\\n<Rui>...A gentleman who's a regular here, waiting for\nnew girls? Come up with a better lie."
                             ]
                         },
                         {
@@ -51018,7 +50717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>あ？バレた？"
+                                "\\n<Customer>Ah? You caught on?"
                             ]
                         },
                         {
@@ -51053,7 +50752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……で、どういうつもり？"
+                                "\\n<Rui>...So, what's your intention?"
                             ]
                         },
                         {
@@ -51081,14 +50780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>汚される覚悟決まってます……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……って顔してたでしょ？"
+                                "\\n<Customer>You had the look of someone who's resigned to\nbeing defiled, didn't you?"
                             ]
                         },
                         {
@@ -51105,21 +50797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>それに乗っかるのが嫌だっただけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってなんかつまらないじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は主導権を握りたいのさ。"
+                                "\\n<Customer>I just didn't like the idea of taking advantage of\nthat. It's kind of boring, isn't it? I want to be\nin control."
                             ]
                         },
                         {
@@ -51175,7 +50853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>人の覚悟に乗っかるのが、つまらない？"
+                                "\\n<Rui>Taking advantage of someone's resignation is\nboring to you?"
                             ]
                         },
                         {
@@ -51224,14 +50902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……吐き気がするわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度と声かけないから。"
+                                "\\n<Rui>...You make me sick. Don't ever talk to me again."
                             ]
                         },
                         {
@@ -51259,14 +50930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕から君に迫らない。"
+                                "\\n<Customer>Understood. I won't approach you anymore."
                             ]
                         },
                         {
@@ -51294,21 +50958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>その代わり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君から股を開きに来たら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬チップは相場の30倍だそう。"
+                                "\\n<Customer>But in return, if you come to spread your legs for\nme, the reward chip will be thirty times the going\nrate."
                             ]
                         },
                         {
@@ -51364,7 +51014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -51392,21 +51042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>お、迷った？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コレは嘘じゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが嘘だとつまらないからね。"
+                                "\\n<Customer>Oh, hesitating? This is no lie. It would be boring\nif it were."
                             ]
                         },
                         {
@@ -51434,7 +51070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>後さっきの乳揉みのチップだよ。"
+                                "\\n<Customer>Here's the tip for the boob fondling earlier."
                             ]
                         },
                         {
@@ -51522,14 +51158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……フン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず私から言えることは。"
+                                "\\n<Rui>...Hmph. The only thing I can say to you is..."
                             ]
                         },
                         {
@@ -51592,7 +51221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>くそくらえよ！"
+                                "\\n<Rui>Go to hell!"
                             ]
                         },
                         {
@@ -51876,7 +51505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あんなやつがいるなんて……"
+                                "\\n<Rui>To think there are such guys..."
                             ]
                         },
                         {
@@ -51907,21 +51536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ううん、ココが異常なんだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手目玉が女の人を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陥れるための場所なんだから……"
+                                "\\n<Rui>No, it's this place that's abnormal. It's a den\nfor tentacle-eyed monsters to prey on women..."
                             ]
                         },
                         {
@@ -51938,14 +51553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>だからと言って普通の感覚でいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちのメンタルが持たない。"
+                                "\\n<Rui>But if I keep a normal mindset, I won't be able to\nmaintain my sanity."
                             ]
                         },
                         {
@@ -51987,7 +51595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -52079,21 +51687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ああもうヤケよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいわ、やってやろうじゃない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "媚びればいいんでしょ！！？"
+                                "\\n<Rui>Ah, screw it! Fine, I'll do it!! Is groveling what\nyou want, huh?!"
                             ]
                         },
                         {
@@ -52142,14 +51736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>でもさっきのヤツにだけは頼らない！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のお客を相手してクリアしてやるわ！！！"
+                                "\\n<Rui>But I won't rely on that guy from earlier!!! I'll\nclear this by dealing with other customers!!!"
                             ]
                         },
                         {
@@ -54248,14 +53835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　逃走失敗……！"
+                                "Escape failed...!"
                             ]
                         },
                         {
@@ -54283,7 +53863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<客>ヒヒッ、続き…しよっか。"
+                                "\\n<Customer>Heheh, shall we continue...?"
                             ]
                         },
                         {
@@ -54346,7 +53926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>やっ、やめて……"
+                                "\\n<Rui>No, stop..."
                             ]
                         },
                         {
@@ -54598,14 +54178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>おいおい、素っ裸でうろつきやがって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誘ってんのかぁ？"
+                                "\\n<Rui>Hey, hey, wandering around naked... are you\ninviting me?"
                             ]
                         },
                         {
@@ -54640,7 +54213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {

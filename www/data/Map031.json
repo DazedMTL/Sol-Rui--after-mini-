@@ -19905,14 +19905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「振り返るな」と書かれている。"
+                                "\"Do not look back,\" it says."
                             ]
                         },
                         {
@@ -19978,7 +19971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... Don't look behind?"
                             ]
                         },
                         {
@@ -20188,7 +20181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -20335,7 +20328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……文面が「ようこそ」に変わってる。"
+                                "\\n<Rui>...The message has changed to \"Welcome\"."
                             ]
                         },
                         {
@@ -20373,21 +20366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あの化け物がいる場所は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校の空間と別のところってことなの……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして私はまんまとソコに迷い込んだ……？"
+                                "\\n<Rui>Does that mean the place where that monster is, is\nseparate from the school's space...? And I've\nunwittingly wandered into it...?"
                             ]
                         },
                         {
@@ -20425,14 +20404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ううん、考えてもやることは変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は急ぎましょう。"
+                                "\\n<Rui>No, thinking about it won't change what I have to\ndo. Let's hurry for now."
                             ]
                         },
                         {
@@ -21053,14 +21025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「振り返るな」と書かれている。"
+                                "\"Do not look back,\" it says."
                             ]
                         },
                         {
@@ -21126,7 +21091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... Don't look behind?"
                             ]
                         },
                         {
@@ -21336,7 +21301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -21483,7 +21448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……文面が「ようこそ」に変わってる。"
+                                "\\n<Rui>...The message has changed to \"Welcome\"."
                             ]
                         },
                         {
@@ -21521,21 +21486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あの化け物がいる場所は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校の空間と別のところってことなの……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして私はまんまとソコに迷い込んだ……？"
+                                "\\n<Rui>Does that mean the place where that monster is, is\nseparate from the school's space...? And I've\nunwittingly wandered into THERE...?"
                             ]
                         },
                         {
@@ -21573,14 +21524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ううん、考えてもやることは変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は急ぎましょう。"
+                                "\\n<Rui>No, thinking about it won't change what I have to\ndo. Let's hurry for now."
                             ]
                         },
                         {
@@ -21742,14 +21686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「振り返るな」と書かれている。"
+                                "\"Do not look back,\" it says."
                             ]
                         },
                         {
@@ -21815,7 +21752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... Don't look behind?"
                             ]
                         },
                         {
@@ -22025,7 +21962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -22172,7 +22109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……文面が「ようこそ」に変わってる。"
+                                "\\n<Rui>...The message has changed to \"Welcome\"."
                             ]
                         },
                         {
@@ -22210,21 +22147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あの化け物がいる場所は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校の空間と別のところってことなの……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして私はまんまとソコに迷い込んだ……？"
+                                "\\n<Rui>Does that mean the place where that monster is, is\nseparate from the school's space...? And I've\nunwittingly wandered in there...?"
                             ]
                         },
                         {
@@ -22262,14 +22185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ううん、考えてもやることは変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は急ぎましょう。"
+                                "\\n<Rui>No, thinking about it won't change what I have to\ndo. Let's hurry for now."
                             ]
                         },
                         {
@@ -22991,7 +22907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... don't look behind?"
                             ]
                         },
                         {
@@ -23066,7 +22982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -23274,7 +23190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……へ？"
+                                "\\n<Rui>...Huh?"
                             ]
                         },
                         {
@@ -23323,7 +23239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……なにが……起こったの？"
+                                "\\n<Rui>...What just... happened?"
                             ]
                         },
                         {
@@ -23351,14 +23267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　ミツケタ"
+                                "Found you."
                             ]
                         },
                         {
@@ -23428,7 +23337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ヒッ！？"
+                                "\\n<Rui>Eek!?"
                             ]
                         },
                         {
@@ -23470,7 +23379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>は、早くプールにいかなきゃ……！"
+                                "\\n<Rui>I-I need to get to the pool quickly...!"
                             ]
                         },
                         {
@@ -23743,7 +23652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... don't look behind?"
                             ]
                         },
                         {
@@ -23818,7 +23727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -24026,7 +23935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……へ？"
+                                "\\n<Rui>...Huh?"
                             ]
                         },
                         {
@@ -24075,7 +23984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……なにが……起こったの？"
+                                "\\n<Rui>...What... happened?"
                             ]
                         },
                         {
@@ -24103,14 +24012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　ミツケタ"
+                                "Found you."
                             ]
                         },
                         {
@@ -24180,7 +24082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ヒッ！？"
+                                "\\n<Rui>Eek!?"
                             ]
                         },
                         {
@@ -24222,7 +24124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>は、早くプールにいかなきゃ……！"
+                                "\\n<Rui>I-I need to get to the pool quickly...!"
                             ]
                         },
                         {

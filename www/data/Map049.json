@@ -21863,14 +21863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>この穴は……ごみ捨てダクトかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……あとは上に大型ファンか。"
+                                "\\n<Rui>Is this hole... a garbage chute? And there's a\nlarge fan above it."
                             ]
                         },
                         {
@@ -21922,14 +21915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>電源を止めてファンを通る……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にしてはスイッチもないし位置が高いわね。"
+                                "\\n<Rui>To stop the power and go through the fan...? But\nthere's no switch, and it's too high up."
                             ]
                         },
                         {
@@ -21957,14 +21943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　ダヨ"
+                                "????: Over here."
                             ]
                         },
                         {
@@ -22020,7 +21999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -22048,14 +22027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　ダヨ"
+                                "????: Over here."
                             ]
                         },
                         {
@@ -22139,7 +22111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……マジ？"
+                                "\\n<Rui>...Seriously?"
                             ]
                         },
                         {
@@ -22538,14 +22510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ええい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで死んだらあの目玉魔族一生恨む！！！"
+                                "\\n<Rui>...Damn it! If I die here, I'll curse that eyeball\ndemon for the rest of my life!!!"
                             ]
                         },
                         {
@@ -22833,13 +22798,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　キタ　オカワリ　キタ"
-                            ]
-                        },
-                        {
                             "code": 213,
                             "indent": 0,
                             "parameters": [
@@ -22901,7 +22859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ッ！"
+                                "\\n<Rui>...!"
                             ]
                         },
                         {
@@ -22953,7 +22911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今度こそ、逃げ切って見せる！"
+                                "\\n<Rui>This time, I'll make sure to escape!"
                             ]
                         },
                         {
@@ -23258,14 +23216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>この穴は……ごみ捨てダクトかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……あとは上に大型ファンか。"
+                                "\\n<Rui>Is this hole... a garbage chute? And there's a\nlarge fan above it."
                             ]
                         },
                         {
@@ -23317,14 +23268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>電源を止めてファンを通る……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にしてはスイッチもないし位置が高いわね。"
+                                "\\n<Rui>Turn off the power and go through the fan...? But\nthere's no switch, and it's positioned too high."
                             ]
                         },
                         {
@@ -23352,14 +23296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　ダヨ"
+                                "????: Over here!"
                             ]
                         },
                         {
@@ -23415,7 +23352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -23443,14 +23380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　ダヨ"
+                                "????: Over here!"
                             ]
                         },
                         {
@@ -23534,7 +23464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……マジ？"
+                                "\\n<Rui>...Seriously?"
                             ]
                         },
                         {
@@ -23933,14 +23863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ええい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで死んだらあの目玉魔族一生恨む！！！"
+                                "\\n<Rui>...Damn it! If I die here, I'll curse that eyeball\ndemon for the rest of my life!!!"
                             ]
                         },
                         {
@@ -24228,13 +24151,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　キタ　オカワリ　キタ"
-                            ]
-                        },
-                        {
                             "code": 213,
                             "indent": 0,
                             "parameters": [
@@ -24296,7 +24212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ッ！"
+                                "\\n<Rui>...!"
                             ]
                         },
                         {
@@ -24348,7 +24264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今度こそ、逃げ切って見せる！"
+                                "\\n<Rui>This time, I'll make sure to escape!"
                             ]
                         },
                         {

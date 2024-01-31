@@ -17158,14 +17158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気味の悪い魔物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "執拗にクローゼットを叩いている。"
+                                "A creepy monster is persistently banging on the\ncloset."
                             ]
                         },
                         {
@@ -17232,7 +17225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>これが絶望かしら？"
+                                "\\n<Rui>Is this what despair feels like?"
                             ]
                         },
                         {
@@ -17281,7 +17274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>さっきのとは別の奴？"
+                                "\\n<Rui>Is it different from the one before?"
                             ]
                         },
                         {
@@ -17319,7 +17312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>これもしゃべるのかしら……。"
+                                "\\n<Rui>I wonder if this one can talk too..."
                             ]
                         },
                         {
@@ -17486,7 +17479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>………？　………？？？"
+                                "\\n<Monster>...?...???"
                             ]
                         },
                         {
@@ -17556,7 +17549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>キレイナカオ　キレイナカラダ"
+                                "\\n<Monster>Beautiful face, beautiful body."
                             ]
                         },
                         {
@@ -17584,7 +17577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>キレイナハダ　キレイナカミ"
+                                "\\n<Monster>Beautiful skin, beautiful hair."
                             ]
                         },
                         {
@@ -17652,7 +17645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>グチャグチャニ　グチャグチャニナレ"
+                                "\\n<Monster>Become a mess, a sloppy mess."
                             ]
                         },
                         {
@@ -17691,7 +17684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　\\^"
+                                ""
                             ]
                         },
                         {
@@ -17756,7 +17749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　\\^"
+                                ""
                             ]
                         },
                         {
@@ -17913,7 +17906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>追いかけなきゃ……！"
+                                "\\n<Rui>I must chase after it...!"
                             ]
                         },
                         {
@@ -17999,7 +17992,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>また、ろくに戦えない相手だった……。"
+                                "\\n<Rui>Again, an opponent I can't properly fight..."
                             ]
                         },
                         {
@@ -18037,7 +18030,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -18079,7 +18072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>ここ……女性の部屋よね。"
+                                "\\n<Rui>This place... it's a woman's room, isn't it."
                             ]
                         },
                         {
@@ -18124,7 +18117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>あれは、本当に化け物なのかしら。"
+                                "\\n<Rui>Was that really a monster, I wonder."
                             ]
                         },
                         {
@@ -18197,7 +18190,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>追いかけなきゃ！"
+                                "\\n<Rui>I have to chase it!"
                             ]
                         },
                         {
@@ -18275,7 +18268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>逃げられたわね……。"
+                                "\\n<Rui>It got away, didn't it..."
                             ]
                         },
                         {
@@ -18320,7 +18313,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -18379,7 +18372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>追いかけましょう。"
+                                "\\n<Rui>Let's chase after it."
                             ]
                         },
                         {
@@ -18452,7 +18445,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>ああもう、すばしこいわね！"
+                                "\\n<Rui>Ah, so nimble!"
                             ]
                         },
                         {

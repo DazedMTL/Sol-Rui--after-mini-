@@ -17770,7 +17770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>何も見えない……ここはどこ？"
+                                "\\n<Rui>I can't see anything... Where am I?"
                             ]
                         },
                         {
@@ -17896,7 +17896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ。"
+                                "Welcome."
                             ]
                         },
                         {
@@ -17959,7 +17959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……誰？"
+                                "\\n<Rui>...Who are you?"
                             ]
                         },
                         {
@@ -17987,21 +17987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>私は案内人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイ殿にはこれから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらの世界に降りてもらいます。"
+                                "\\n<Guide>I am a guide. Lady Rui, you will be descending\ninto this world shortly."
                             ]
                         },
                         {
@@ -18064,7 +18050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……世界に降りる？"
+                                "\\n<Rui>...Descend into a world?"
                             ]
                         },
                         {
@@ -18092,21 +18078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>此処では無い別の世界。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人々が日々を積み重ね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きているごく普通の世界です。"
+                                "\\n<Guide>A different world from here. A very ordinary world\nwhere people live their daily lives, accumulating\ndays."
                             ]
                         },
                         {
@@ -18169,14 +18141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……まるで神様ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタは何者なの？"
+                                "\\n<Rui>...Like a god. Who are you?"
                             ]
                         },
                         {
@@ -18204,21 +18169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>私は案内人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイ殿を案内するだけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も力のない存在です。"
+                                "\\n<Guide>I am a guide. A powerless being whose only role is\nto guide Lady Rui."
                             ]
                         },
                         {
@@ -18253,21 +18204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>貴女が今から入れ替わる人物はギルドマン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界で魔物を討伐し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日銭を稼ぐ傭兵の女性です。"
+                                "\\n<Guide>The person you will be replacing is a guild\nmember. She is a mercenary woman in this world who\nhunts monsters and earns her daily bread."
                             ]
                         },
                         {
@@ -18284,21 +18221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>魔法の使えない彼女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイさんと同じように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "双剣で舞うように戦うのが特徴です。"
+                                "\\n<Guide>She cannot use magic and fights with dual swords,\ndancing through battle just like you, Rui-san."
                             ]
                         },
                         {
@@ -18315,14 +18238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>彼女と入れ替わるルイさんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じように魔法が使えなくなります。"
+                                "\\n<Guide>Like her, you, Rui-san, will also be unable to use\nmagic once you switch places."
                             ]
                         },
                         {
@@ -18378,21 +18294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あくまでその女の人の変わりとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その世界に行く……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロールプレイって感じね。"
+                                "\\n<Rui>So I'm going to that world as a substitute for\nthat woman... It's like role-playing."
                             ]
                         },
                         {
@@ -18420,14 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>そして彼女が今回受けた依頼の内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴブリンの巣穴の殲滅」。"
+                                "\\n<Guide>And the task she has taken on this time is the\n\"extermination of a goblin den.\""
                             ]
                         },
                         {
@@ -18455,21 +18350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>女性が一人で受ける依頼ではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、貴女は同業者たちの煽りを受けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この依頼を受けることとなりました。"
+                                "\\n<Guide>It's not a job for a woman to take on alone.\nHowever, you have accepted this request due to the\nprovocation of your fellow mercenaries."
                             ]
                         },
                         {
@@ -18486,14 +18367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>今頃ギルドでは貴女が何匹のゴブリンを産むか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "賭けで盛り上がっていることでしょう。"
+                                "\\n<Guide>By now, the guild is probably buzzing with bets on\nhow many goblins you will give birth to."
                             ]
                         },
                         {
@@ -18563,7 +18437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ひどい話ね。"
+                                "\\n<Rui>...That's a terrible story."
                             ]
                         },
                         {
@@ -18591,7 +18465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>さて、そろそろ世界が近づいてきました。"
+                                "\\n<Guide>Now, the world is drawing near."
                             ]
                         },
                         {
@@ -18619,14 +18493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>改めてこの扉のクリア条件は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]【ゴブリンの巣穴を崩壊させる事】\\C[0]です。"
+                                "\\n<Guide>Once again, the clear condition for this door is\n\\C[1]【to collapse the goblin den】\\C[0]."
                             ]
                         },
                         {
@@ -18689,7 +18556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……虐殺しろってこと？"
+                                "\\n<Rui>...You're telling me to commit a massacre?"
                             ]
                         },
                         {
@@ -18717,21 +18584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>虐殺。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ややズレがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女にお願いするのは駆逐。"
+                                "\\n<Guide>Massacre. That's slightly off. What we ask of you\nis extermination."
                             ]
                         },
                         {
@@ -18748,14 +18601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>この世界のゴブリンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人と分かり合えぬ畜生の類。"
+                                "\\n<Guide>The goblins of this world are beasts that cannot\nunderstand humans."
                             ]
                         },
                         {
@@ -18772,21 +18618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>個々は弱いですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間を陥れる事を行動原理とする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "醜悪な存在です。"
+                                "\\n<Guide>Individually weak, but they are vile beings whose\nprinciple of action is to ensnare humans."
                             ]
                         },
                         {
@@ -18814,21 +18646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>特に若い女性が惨い目にあいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンにとって人間の女性は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繁殖する上で最も適した家畜なのですから。"
+                                "\\n<Guide>Especially young women suffer terribly. To\ngoblins, human women are the most suitable\nlivestock for breeding."
                             ]
                         },
                         {
@@ -18884,7 +18702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -18912,14 +18730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>なので奴らは本能で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間の女性を執拗に狙います。"
+                                "\\n<Guide>Therefore, they instinctively target human women\nrelentlessly."
                             ]
                         },
                         {
@@ -18936,21 +18747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>そしてとらえた女性を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死ぬまで孕ませ続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後には無残に殺し捕食する。"
+                                "\\n<Guide>And once they capture a woman, they continue to\nimpregnate her until death, and finally kill and\nconsume her in a gruesome manner."
                             ]
                         },
                         {
@@ -18978,7 +18775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>まさに人類の敵。"
+                                "\\n<Guide>They are truly the enemies of mankind."
                             ]
                         },
                         {
@@ -18995,14 +18792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>今の話を聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良心はまだ残っていますか？"
+                                "\\n<Guide>Having heard this story, do you still have your\nconscience?"
                             ]
                         },
                         {
@@ -19072,7 +18862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……そんなの許しておけないわ。"
+                                "\\n<Rui>...I can't let that stand."
                             ]
                         },
                         {
@@ -19100,21 +18890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>それがよいでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "純粋な悪意に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "善意はあまりに無力なのですから。"
+                                "\\n<Guide>That's good to hear. Good intentions are far too\npowerless against pure malice."
                             ]
                         },
                         {
@@ -19184,21 +18960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……いいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その世界の人のためになる事みたいだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとクリアしてあげる。"
+                                "\\n<Rui>...Alright. It seems like it will be for the good\nof the people in that world, so I'll clear it\nquickly for them."
                             ]
                         },
                         {
@@ -19226,7 +18988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>準備が整ったようです。"
+                                "\\n<Guide>It seems you are ready."
                             ]
                         },
                         {
@@ -19243,7 +19005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<案内人>では、良い旅を。"
+                                "\\n<Guide>Then, have a good journey."
                             ]
                         },
                         {
@@ -19383,7 +19145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ここが別の世界？"
+                                "\\n<Rui>...Is this the other world?"
                             ]
                         },
                         {
@@ -19432,14 +19194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あれがゴブリンの巣……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言う事でいいのよね。"
+                                "\\n<Rui>That must be the goblin den... that's what you\nmean, right?"
                             ]
                         },
                         {
@@ -19481,7 +19236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>さっさとクリアしちゃいましょう。"
+                                "\\n<Rui>Let's clear it quickly."
                             ]
                         },
                         {

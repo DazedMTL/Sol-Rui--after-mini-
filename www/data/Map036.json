@@ -21555,21 +21555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　　　　　\\C[2]注意\\C[0]>最近不審な集団が校内に侵入し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女生徒を狙った暴行・淫行が多発しています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常に危険ですので校舎から出ることを禁じます。"
+                                "\\n<\\C[2]Attention\\C[0]>Recently, a suspicious group has infiltrated the\nschool and there have been multiple assaults and\nlewd acts targeting female students. It is\nextremely dangerous, so leaving the school\nbuilding is prohibited."
                             ]
                         },
                         {
@@ -21586,21 +21572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　　　　　\\C[2]警告\\C[0]>それに差し当たって警備員を増員しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備員には女生徒の保護を依頼しています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "保護上の問題において当校は一切責を負いません。"
+                                "\\n<\\C[2]Warning\\C[0]>In response to this, we have increased the number\nof security guards. We have tasked the security\nguards with the protection of female students. The\nschool will not take any responsibility for issues\nrelated to protection."
                             ]
                         },
                         {
@@ -28515,14 +28487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>警報……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの監視カメラで見られてる？"
+                                "\\n<Rui>An alarm...? Are we being watched by that\nsurveillance camera?"
                             ]
                         },
                         {

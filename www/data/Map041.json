@@ -33833,14 +33833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【電力不足】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とモニターに表示されている。"
+                                "\"Power Shortage\" is displayed on the monitor."
                             ]
                         },
                         {
@@ -38323,7 +38316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉はびくともしない。"
+                                "The door doesn't budge an inch."
                             ]
                         },
                         {
@@ -38617,7 +38610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>このレバーは大型換気扇のスイッチなのね。"
+                                "\\n<Rui>So this lever is the switch for the large\nventilation fan."
                             ]
                         },
                         {
@@ -38724,14 +38717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロック解除】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とモニターに表示されている。"
+                                "[Unlock] is displayed on the monitor."
                             ]
                         },
                         {
@@ -38768,14 +38754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……このパネル学校の玄関にもついていたわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、玄関を出るためには"
+                                "\\n<Rui>...This panel was also at the school entrance.\nThat means, to get out of the entrance..."
                             ]
                         },
                         {
@@ -39057,14 +39036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【電力不足】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とモニターに表示されている。"
+                                "\"Power Shortage\" is displayed on the monitor."
                             ]
                         },
                         {
@@ -39143,14 +39115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロック解除】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とモニターに表示されている。"
+                                "\"Unlock\" is displayed on the monitor."
                             ]
                         },
                         {
@@ -39295,7 +39260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉はびくともしない。"
+                                "The door doesn't budge an inch."
                             ]
                         },
                         {

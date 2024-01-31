@@ -25019,7 +25019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ゲヒャヒャヒャ！"
+                                "\\n<Goblin>Gehyahyahya!"
                             ]
                         },
                         {
@@ -25103,14 +25103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者を狩るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンの族長は粗忽なドラを叩いた。"
+                                "The goblin chieftain struck the careless drum to\nhunt the intruder."
                             ]
                         },
                         {
@@ -25180,7 +25173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ッ！？"
+                                "\\n<Rui>Ah!?"
                             ]
                         },
                         {
@@ -25208,14 +25201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者が来たぞ間抜けども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この無礼な雌を痛めつけろ！！！"
+                                "Goblin Chieftain: The intruder has come, you\nfools! Punish this insolent female!!!"
                             ]
                         },
                         {
@@ -25223,8 +25209,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "初回イベント",
-                                    "2回目以降"
+                                    "First-time event",
+                                    "Second time and beyond"
                                 ],
                                 1,
                                 0,
@@ -25902,14 +25888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……う、うそ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだこんなにゴブリンが……。"
+                                "\\n<Rui>...No, this can't be... There are still so many\ngoblins..."
                             ]
                         },
                         {
@@ -25937,21 +25916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、気分のいい光景だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つい先ほどまでこちらを睨んでいた雌が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現実を知って混乱している。"
+                                "Ah, what a pleasant sight. The female who was\nglaring at us until just a moment ago is now\nconfused by reality."
                             ]
                         },
                         {
@@ -26007,21 +25972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ううん、落ち着かなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手はザコなんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一匹ずつ確実に倒せばまだ……！"
+                                "\\n<Rui>...No, I need to calm down. They're just small\nfry. If I take them down one by one, there's still\na chance...!"
                             ]
                         },
                         {
@@ -26049,14 +26000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてなんて間抜けな雌だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "増援に気を取られてこちらに背を向けるとは。"
+                                "And what a foolish female. To turn her back on us\nbecause she's distracted by reinforcements."
                             ]
                         },
                         {
@@ -26212,7 +26156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あぐぅ！？"
+                                "\\n<Rui>Aguu!?"
                             ]
                         },
                         {
@@ -26424,7 +26368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>この！"
+                                "\\n<Rui>You!"
                             ]
                         },
                         {
@@ -26452,7 +26396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲヒヒヒヒ！"
+                                "Goblin: Gehihihihi!"
                             ]
                         },
                         {
@@ -26480,14 +26424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隙だらけだぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってしまえ間抜けども！！！"
+                                "Full of openings! Finish off the fools!!!"
                             ]
                         },
                         {
@@ -26752,7 +26689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やめ……"
+                                "\\n<Rui>Stop..."
                             ]
                         },
                         {
@@ -26896,7 +26833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>離し……ッて"
+                                "\\n<Rui>Let go...!"
                             ]
                         },
                         {
@@ -27040,7 +26977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>い、イヤッ……"
+                                "\\n<Rui>N-No..."
                             ]
                         },
                         {
@@ -27206,7 +27143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>イヤァァァ！！！"
+                                "\\n<Rui>Nooooo!!!"
                             ]
                         },
                         {
@@ -27246,7 +27183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -27274,7 +27211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──こうしてあっけないほどに"
+                                "──And so, all too easily,"
                             ]
                         },
                         {
@@ -27291,7 +27228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイのゴブリン討伐は失敗に終わった。"
+                                "Rui's goblin extermination ended in failure."
                             ]
                         },
                         {
@@ -27317,7 +27254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリンの長討伐失敗シーンをスキップしますか？"
+                                "Would you like to skip the Goblin Chief defeat\nscene?"
                             ]
                         },
                         {
@@ -27325,8 +27262,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27576,7 +27513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして待ち受けるのは……。"
+                                "And what awaits her is..."
                             ]
                         },
                         {
@@ -27593,14 +27530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "醜悪なゴブリンに捕まった女性に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例外なく起こる、悲劇。"
+                                "The tragedy that invariably befalls a woman\ncaptured by vile goblins."
                             ]
                         },
                         {
@@ -27642,7 +27572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ぉ”……"
+                                "\\n<Rui>...Ah”..."
                             ]
                         },
                         {
@@ -27659,7 +27589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ひ”……ぉ”……♥"
+                                "\\n<Rui>...Hi”...Ah”...♥"
                             ]
                         },
                         {
@@ -27726,14 +27656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイは人殺しの化け物を増やすための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繁殖道具として使われていた。"
+                                "Rui was being used as a breeding tool to increase\nthe number of murderous monsters."
                             ]
                         },
                         {
@@ -27761,7 +27684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……あ”……ゆる”してぇ……♥"
+                                "\\n<Rui>...Ah”...please...forgive me...♥"
                             ]
                         },
                         {
@@ -27789,21 +27712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きれいだったルイの身体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗と精液でどろどろになり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや汚れていないところがないほどだ。"
+                                "The once beautiful Rui's body is now drenched in\nsweat and semen, so filthy that there isn't a\nclean spot left."
                             ]
                         },
                         {
@@ -27820,7 +27729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、汚されたのは体の外だけではない。"
+                                "And it wasn't just the outside of her body that\nwas defiled."
                             ]
                         },
                         {
@@ -27844,21 +27753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乙女の秘めた場所だった生殖穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むわっとむせかえるほどの淫臭をはなち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンのチンポに屈服したように痙攣を繰り返す。"
+                                "The reproductive hole that was once a maiden's\nsecret place now emits an intoxicating stench of\nlewdness, convulsing as if it has surrendered to\nthe goblin's cock."
                             ]
                         },
                         {
@@ -27907,7 +27802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ぉ”ん……ん”ひぁ……♥"
+                                "\\n<Rui>...Ah”n...Nn”hiya...♥"
                             ]
                         },
                         {
@@ -27935,21 +27830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漏れ出す喘ぎは弱弱しく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮を突きあげられる衝撃で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空気が漏れ出る程度のものだ。"
+                                "The moans that leak out are feeble. They're merely\nthe result of air escaping due to the impact of\nher womb being thrust into."
                             ]
                         },
                         {
@@ -27966,21 +27847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だというのに、生き物の本能だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しでも自分を貪る雄の攻撃性を抑えるため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘く媚びた色が常に混ざっている。"
+                                "Yet, perhaps it's an instinct of living creatures.\nA sweetly seductive tone is always mixed in, in an\nattempt to suppress the aggressiveness of the male\nravishing her."
                             ]
                         },
                         {
@@ -28043,7 +27910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>んっ、ゆるし、てぇ”……"
+                                "\\n<Rui>Nn, forgive...me”..."
                             ]
                         },
                         {
@@ -28139,7 +28006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ん”ぎっ♥お”っ、ひぃぃ”！♥"
+                                "\\n<Rui>Nn”gih♥Ah”h, hiiii”！♥"
                             ]
                         },
                         {
@@ -28167,7 +28034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ギャヒヒヒ！ゲハハハ！"
+                                "\\n<Goblin>Gyahahaha! Gehahaha!"
                             ]
                         },
                         {
@@ -28195,21 +28062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愛液を垂れ流し、膣内を締めながら許しを請うルイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プライドのかけらもない弱弱しい懇願に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンたちは興奮する一方だ。"
+                                "As Rui begs for forgiveness while dripping love\njuices and clenching her vaginal walls, the\ngoblins only grow more excited by her weak and\nprideless pleas."
                             ]
                         },
                         {
@@ -28237,21 +28090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンは母体が衰弱しているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事もお構いなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力強くルイを突き揺らす。"
+                                "The goblins continue to thrust powerfully into\nRui, unconcerned that their host body is\nweakening."
                             ]
                         },
                         {
@@ -28321,7 +28160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひぐっ♥ゆるひっ、おまんこっ、ゆるひてっ♥"
+                                "\\n<Rui>Higu♥Forgive, my pussy, forgive it♥"
                             ]
                         },
                         {
@@ -28349,14 +28188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、巣の深部まで侵入する強大な存在を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポ一本で制圧している。"
+                                "Now, a mighty presence that has penetrated deep\ninto the nest is being subdued by a single cock."
                             ]
                         },
                         {
@@ -28373,21 +28205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな畜生以下の自尊心を満たしてくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高の獲物にゴブリンたちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度目かの限界が近づいてくる。"
+                                "Such a prey satisfies the goblins' less-than-\nbeastly pride, and they approach their limit for\nwho knows which time."
                             ]
                         },
                         {
@@ -28483,7 +28301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっんっ♥や……だっ♥んんんっ♥"
+                                "\\n<Rui>Ahnn♥No...stop♥Nnnn♥"
                             ]
                         },
                         {
@@ -28511,21 +28329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンの限界が近づきペースが速くなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無遠慮にえぐられた膣の裏側を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強すぎず弱すぎずな力加減で細かくこすり上げられる。"
+                                "As the goblins' climax approaches, their pace\nquickens. The roughly ravaged inner walls of her\nvagina are finely scraped with just the right\namount of force, neither too strong nor too weak."
                             ]
                         },
                         {
@@ -28574,7 +28378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やだっ♥やめっ、んくぅッ♥"
+                                "\\n<Rui>No♥Stop it, nkuu♥"
                             ]
                         },
                         {
@@ -28602,21 +28406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精が近づいている。化け物の子を仕込まれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうわかっているのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の体は雌の反応をしてしまう。"
+                                "The ejaculation is imminent. She will be\nimpregnated with the monster's offspring. Even\nthough she knows this, her female body still\nreacts instinctively."
                             ]
                         },
                         {
@@ -28686,14 +28476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひっ、はひィっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、イクッ、イッちゃうッ♥"
+                                "\\n<Rui>Hih, hahi♥ Ah, I'm cumming, I'm gonna cum♥"
                             ]
                         },
                         {
@@ -28728,21 +28511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既に満身創痍だというのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オーガニズムに近づく痺れは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイに雄を受け入れるための媚びた反応を引き出す。"
+                                "Despite being battered and bruised, the numbness\napproaching orgasm draws out Rui's ingratiating\nresponse to accept the male."
                             ]
                         },
                         {
@@ -28770,7 +28539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ギハハ！ギヒィァ！！！"
+                                "\\n<Goblin>Gyahahaha! Gihyaaa!!!"
                             ]
                         },
                         {
@@ -28798,14 +28567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雄と雌の本能がぶつかり合い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてついに限界が訪れる。"
+                                "The instincts of male and female collide, and\nfinally, the limit is reached."
                             ]
                         },
                         {
@@ -29100,7 +28862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひぐぅぅぅ”ぅ”ッ！！♥"
+                                "\\n<Rui>Higuuuu”u”♥"
                             ]
                         },
                         {
@@ -29135,21 +28897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "潮を吹き膣道は限界までうるおい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮口は絶頂によって開き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より多くの薄汚い精液を受け入れる。"
+                                "As she squirts, her vaginal canal is moisturized\nto its limit, and the mouth of her womb opens with\nthe climax, ready to accept even more filthy\nsemen."
                             ]
                         },
                         {
@@ -29173,7 +28921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、ゴブリンを孕むための一匹の雌が出来上がった。"
+                                "Now, a female has been made solely for the purpose\nof bearing goblin offspring."
                             ]
                         },
                         {
@@ -29201,14 +28949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これがゴブリンに敗北した女の末路。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも惨めで淫乱で、浅はかな姿。"
+                                "This is the fate of a woman defeated by goblins. A\nsight so miserable, lewd, and foolish."
                             ]
                         },
                         {
@@ -29264,7 +29005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あははは……はひぁ♥"
+                                "\\n<Rui>Ahahaha... hahi♥"
                             ]
                         },
                         {
@@ -29327,7 +29068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>もう……らへぇ……♥"
+                                "\\n<Rui>No more... I can't...♥"
                             ]
                         },
                         {
@@ -29355,21 +29096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アクメによって快楽に脳を染められ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胎の奥ににじむ熱い精液を感じながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイは意識を失うのだった──"
+                                "Stained by pleasure through orgasm, Rui loses\nconsciousness while feeling the hot semen seeping\ndeep into her womb."
                             ]
                         },
                         {
@@ -29446,7 +29173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -29463,7 +29190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -29480,7 +29207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -30789,7 +30516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こいつら、どこから……ッ"
+                                "\\n<Rui>Where did these guys come from...!"
                             ]
                         },
                         {
@@ -30817,7 +30544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やってしまえ間抜けども！！！"
+                                "Finish them off, you fools!!!"
                             ]
                         },
                         {
@@ -31082,7 +30809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やめ……"
+                                "\\n<Rui>Stop..."
                             ]
                         },
                         {
@@ -31226,7 +30953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>離し……ッて"
+                                "\\n<Rui>Let go...!"
                             ]
                         },
                         {
@@ -31370,7 +31097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>い、イヤッ……"
+                                "\\n<Rui>N-No..."
                             ]
                         },
                         {
@@ -31536,7 +31263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>イヤァァァ！！！"
+                                "\\n<Rui>Noooooo!!!"
                             ]
                         },
                         {
@@ -31576,7 +31303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -31604,7 +31331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──こうしてあっけないほどに"
+                                "──And so, all too easily,"
                             ]
                         },
                         {
@@ -31621,7 +31348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイのゴブリン討伐は失敗に終わった。"
+                                "Rui's goblin extermination ended in failure."
                             ]
                         },
                         {
@@ -31647,7 +31374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリンの長討伐失敗シーンをスキップしますか？"
+                                "Would you like to skip the goblin chief defeat\nscene?"
                             ]
                         },
                         {
@@ -31655,8 +31382,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31906,7 +31633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして待ち受けるのは……。"
+                                "And what awaits her is..."
                             ]
                         },
                         {
@@ -31923,14 +31650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "醜悪なゴブリンに捕まった女性に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例外なく起こる、悲劇。"
+                                "The tragedy that invariably befalls women captured\nby vile goblins."
                             ]
                         },
                         {
@@ -31972,7 +31692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ぉ”……"
+                                "\\n<Rui>...ah”..."
                             ]
                         },
                         {
@@ -31989,7 +31709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ひ”……ぉ”……♥"
+                                "\\n<Rui>...heh”...ah”...♥"
                             ]
                         },
                         {
@@ -32056,14 +31776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイは人殺しの化け物を増やすための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繁殖道具として使われていた。"
+                                "Rui was being used as a breeding tool to increase\nthe number of murderous monsters."
                             ]
                         },
                         {
@@ -32091,7 +31804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……あ”……ゆる”してぇ……♥"
+                                "\\n<Rui>...ah”...forgive me...♥"
                             ]
                         },
                         {
@@ -32119,21 +31832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きれいだったルイの身体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗と精液でどろどろになり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや汚れていないところがないほどだ。"
+                                "Rui's once beautiful body is now drenched in sweat\nand semen, with not a single spot left clean."
                             ]
                         },
                         {
@@ -32150,7 +31849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、汚されたのは体の外だけではない。"
+                                "And it wasn't just the outside of her body that\nwas defiled."
                             ]
                         },
                         {
@@ -32174,21 +31873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乙女の秘めた場所だった生殖穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むわっとむせかえるほどの淫臭をはなち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンのチンポに屈服したように痙攣を繰り返す。"
+                                "The reproductive hole that was once a maiden's\nsecret place now emits an intoxicating stench of\nlewdness, convulsing as if it had surrendered to\nthe goblin's cock."
                             ]
                         },
                         {
@@ -32237,7 +31922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ぉ”ん……ん”ひぁ……♥"
+                                "\\n<Rui>...ah”n...nhia...♥"
                             ]
                         },
                         {
@@ -32265,21 +31950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漏れ出す喘ぎは弱弱しく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮を突きあげられる衝撃で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空気が漏れ出る程度のものだ。"
+                                "The moans that leak out are feeble. They are\nmerely the result of air escaping due to the\nimpact of her womb being thrust upward."
                             ]
                         },
                         {
@@ -32296,21 +31967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だというのに、生き物の本能だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しでも自分を貪る雄の攻撃性を抑えるため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘く媚びた色が常に混ざっている。"
+                                "Yet, perhaps it's an instinct of living creatures.\nA sweetly seductive tone is always mixed in, in an\nattempt to suppress the aggressiveness of the male\nravaging her."
                             ]
                         },
                         {
@@ -32373,7 +32030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>んっ、ゆるし、てぇ”……"
+                                "\\n<Rui>Mmm, forgive, meee”..."
                             ]
                         },
                         {
@@ -32469,7 +32126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ん”ぎっ♥お”っ、ひぃぃ”！♥"
+                                "\\n<Rui>Ngh”it♥ Ah”h, hiii”!♥"
                             ]
                         },
                         {
@@ -32497,7 +32154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ギャヒヒヒ！ゲハハハ！"
+                                "\\n<Goblin>Gyahahaha! Gehahaha!"
                             ]
                         },
                         {
@@ -32525,21 +32182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愛液を垂れ流し、膣内を締めながら許しを請うルイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プライドのかけらもない弱弱しい懇願に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンたちは興奮する一方だ。"
+                                "As Rui begs for mercy while clenching her dripping\nwet vagina, the goblins only grow more excited by\nher feeble and prideless pleas."
                             ]
                         },
                         {
@@ -32567,21 +32210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンは母体が衰弱しているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事もお構いなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力強くルイを突き揺らす。"
+                                "The goblins continue to thrust into Rui\npowerfully, uncaring that their host body is\nweakening."
                             ]
                         },
                         {
@@ -32651,7 +32280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひぐっ♥ゆるひっ、おまんこっ、ゆるひてっ♥"
+                                "\\n<Rui>Higuu♥ Forgive, my pussy, forgive it♥"
                             ]
                         },
                         {
@@ -32679,14 +32308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、巣の深部まで侵入する強大な存在を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポ一本で制圧している。"
+                                "Now, a mighty presence that has penetrated deep\ninto the nest is being subdued by a single cock."
                             ]
                         },
                         {
@@ -32703,21 +32325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな畜生以下の自尊心を満たしてくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高の獲物にゴブリンたちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度目かの限界が近づいてくる。"
+                                "Such a prey, satisfying even the lowest self-\nesteem, brings the goblins closer to their\numpteenth limit."
                             ]
                         },
                         {
@@ -32813,7 +32421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっんっ♥や……だっ♥んんんっ♥"
+                                "\\n<Rui>Ahnn♥ No... please♥ Nnnnn♥"
                             ]
                         },
                         {
@@ -32841,21 +32449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンの限界が近づきペースが速くなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無遠慮にえぐられた膣の裏側を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強すぎず弱すぎずな力加減で細かくこすり上げられる。"
+                                "As the goblins' climax approaches, their pace\nquickens. The backside of the roughly ravaged\nvagina is finely stroked with just the right\namount of force."
                             ]
                         },
                         {
@@ -32904,7 +32498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やだっ♥やめっ、んくぅッ♥"
+                                "\\n<Rui>No♥ Stop it, nghuu♥"
                             ]
                         },
                         {
@@ -32932,21 +32526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精が近づいている。化け物の子を仕込まれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうわかっているのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の体は雌の反応をしてしまう。"
+                                "Ejaculation is imminent. She will be impregnated\nwith a monster's offspring. Despite knowing this,\nher female body reacts instinctively."
                             ]
                         },
                         {
@@ -33016,14 +32596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひっ、はひィっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、イクッ、イッちゃうッ♥"
+                                "\\n<Rui>Hih, hahi♥ Ah, I'm cumming, I'm gonna cum♥"
                             ]
                         },
                         {
@@ -33058,21 +32631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既に満身創痍だというのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オーガニズムに近づく痺れは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイに雄を受け入れるための媚びた反応を引き出す。"
+                                "Even though she's already battered and bruised,\nthe tingling sensation drawing near orgasm elicits\na seductive response from Rui to accept the male."
                             ]
                         },
                         {
@@ -33100,7 +32659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ギハハ！ギヒィァ！！！"
+                                "\\n<Goblin>Gihaha! Ghiyaa!!!"
                             ]
                         },
                         {
@@ -33128,14 +32687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雄と雌の本能がぶつかり合い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてついに限界が訪れる。"
+                                "The instincts of male and female collide, and\nfinally, the limit is reached."
                             ]
                         },
                         {
@@ -33430,7 +32982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひぐぅぅぅ”ぅ”ッ！！♥"
+                                "\\n<Rui>Higuuuu”u”h!!♥"
                             ]
                         },
                         {
@@ -33465,21 +33017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "潮を吹き膣道は限界までうるおい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮口は絶頂によって開き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より多くの薄汚い精液を受け入れる。"
+                                "The tide is squirted and the vaginal canal is\nmoistened to its limit; the cervix opens due to\nclimax, ready to accept even more filthy semen."
                             ]
                         },
                         {
@@ -33503,7 +33041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、ゴブリンを孕むための一匹の雌が出来上がった。"
+                                "Now, a female has been made ready to bear a\ngoblin's offspring."
                             ]
                         },
                         {
@@ -33531,14 +33069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これがゴブリンに敗北した女の末路。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも惨めで淫乱で、浅はかな姿。"
+                                "This is the fate of a woman defeated by goblins. A\nsight so miserable, lewd, and foolish."
                             ]
                         },
                         {
@@ -33594,7 +33125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あははは……はひぁ♥"
+                                "\\n<Rui>Ahahaha... hahi♥"
                             ]
                         },
                         {
@@ -33657,7 +33188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>もう……らへぇ……♥"
+                                "\\n<Rui>No more... I can't...♥"
                             ]
                         },
                         {
@@ -33685,21 +33216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アクメによって快楽に脳を染められ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胎の奥ににじむ熱い精液を感じながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイは意識を失うのだった──"
+                                "Stained with pleasure by the climax, Rui loses\nconsciousness while feeling the hot semen seeping\ndeep into her womb──"
                             ]
                         },
                         {
@@ -33776,7 +33293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -33793,7 +33310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -33810,7 +33327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {

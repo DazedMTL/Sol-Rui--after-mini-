@@ -13546,14 +13546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>クリアおめでとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてここまでプレイしてくれてありがとう！"
+                                "\\n<Yuuki>Congratulations on clearing the game! And thank\nyou for playing this far!"
                             ]
                         },
                         {
@@ -13602,7 +13595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ここはNormalEND専用の小部屋だよ。"
+                                "\\n<Yuuki>This is a special little room just for the\nNormalEND."
                             ]
                         },
                         {
@@ -13619,21 +13612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>特に隠し要素もない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一息スポットって感じかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想部屋に行きたかったら下の玄関に行ってね。"
+                                "\\n<Yuuki>It's kind of a breather spot without any hidden\nelements, huh? If you want to go to the\nrecollection room, please head down to the\nentrance below."
                             ]
                         },
                         {
@@ -13668,14 +13647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>でも、せっかくだし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トゥルーエンドへたどり着く方法聞いていく？"
+                                "\\n<Yuuki>But since you've made it this far... would you\nlike to hear how to reach the True End?"
                             ]
                         },
                         {
@@ -13683,8 +13655,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聞く",
-                                    "聞かない"
+                                    "I'll ask",
+                                    "I won't ask"
                                 ],
                                 1,
                                 0,
@@ -13725,14 +13697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "トルゥーエンドへの条件は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ラビットハウスに隠されてあります。"
+                                "The condition for the True End is hidden in the\nRabbit House."
                             ]
                         },
                         {
@@ -13760,14 +13725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<始めに>強姦されている少女と出会う必要があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少女はダンスフロアの左下の通路の奥にいます。"
+                                "\\n<To Begin With>You need to encounter a girl who is being raped.\nThe girl is located at the back of the lower left\npassage of the dance floor."
                             ]
                         },
                         {
@@ -13784,21 +13742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<始めに>ルイの抵抗値が2以下の状態だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少女を犯している男たちがいなくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずはルイに少女を知ってもらってください。"
+                                "\\n<To Begin With>If Rui's resistance value is 2 or less, the men\nraping the girl will disappear. First, let Rui get\nto know the girl."
                             ]
                         },
                         {
@@ -13815,21 +13759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<精力剤を手に入れる>バーテンがいるバーフロアにて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "フロア右下のおっぱいおじさんの下にいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タバコを切らしている客に話してから、"
+                                "\\n<Acquired The Aphrodisiac!>Talk to the customer who's run out of cigarettes\nunder the boob-loving old man at the bottom right\nof the bar floor where the bartender is,"
                             ]
                         },
                         {
@@ -13846,21 +13776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<精力剤を手に入れる>ダンスフロアのトイレ左下にある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ガラスのテーブルに置かれている電子端末を入手し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バーフロアの男に渡し、精力剤を手に入れます。"
+                                "\\n<Acquired The Aphrodisiac!>then obtain the electronic device placed on the\nglass table at the bottom left of the dance floor\ntoilet, give it to a man on the bar floor, and get\nan aphrodisiac."
                             ]
                         },
                         {
@@ -13877,21 +13793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヤク抜きを手に入れる>そのままバーフロア右のプレイフロアにいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抜き過ぎて死にそうになってる男に精力剤を渡し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お礼にヤク抜きを入手します。"
+                                "\\n<Acquired The Detoxifier!>Continue to the play floor on the right side of\nthe bar floor and give the aphrodisiac to a man\nwho looks like he's about to die from pulling out\ntoo much, and in return, you'll receive a\ndetoxifier."
                             ]
                         },
                         {
@@ -13908,14 +13810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<お水を手に入れる>着替えができる控室にもどり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冷蔵庫からお水を入手します。"
+                                "\\n<Obtain Water>Return to the dressing room where you can change\nclothes and obtain water from the refrigerator."
                             ]
                         },
                         {
@@ -13932,14 +13827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<少女を助ける>ルイの抵抗力を2以下にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少女が一人の時に入手したヤク抜きと水を飲ませます。"
+                                "\\n<Save The Girl>With Rui's resistance at 2 or below and when the\ngirl is alone, make her drink the detoxifier and\nwater you've obtained."
                             ]
                         },
                         {
@@ -13956,14 +13844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<VD端末を手に入れる>少女が意識を取り戻したら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "VIPフロアの右下、VDルームから端末を入手します。"
+                                "\\n<Acquire The Vd Terminal>Once the girl regains consciousness, acquire a\nterminal from the VD Room at the bottom right of\nthe VIP floor."
                             ]
                         },
                         {
@@ -13980,21 +13861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バグに挟まれた世界へ>ヴァーチャルダイブ空間へ行き。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ある人物と出会って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルイに”大事な事”を知ってもらいます。"
+                                "\\n<To The World Caught In A Bug>Go to the Virtual Dive space and meet a certain\nperson to let Rui know \"something important.\""
                             ]
                         },
                         {
@@ -14011,14 +13878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "長くなりましたが、以上です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お時間がありましたらチェックしてみてください。"
+                                "It's been a long explanation, but that's all.\nPlease check it out if you have time."
                             ]
                         },
                         {
@@ -14074,7 +13934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>頑張ってね！"
+                                "\\n<Yuuki>Good luck!"
                             ]
                         },
                         {
@@ -14157,14 +14017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>そっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "改めてここまでプレイしてくれてありがとうね！"
+                                "\\n<Yuuki>I see! Once again, thank you so much for playing\nthis far!"
                             ]
                         },
                         {
@@ -14276,21 +14129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋に向かいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※\\C[10]回想部屋はルイがチュベロスに敗北した世界線です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\C[10]強制的に淫紋の侵食度が100になります。"
+                                "Would you like to head to the Reminiscence\nRoom?※\\C[10]The Reminiscence Room is a timeline\nwhere Rui has been defeated by Tuberose.\\C[10] The\ncorruption level of the lewd crest will forcibly\nbecome 100."
                             ]
                         },
                         {
@@ -14298,8 +14137,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

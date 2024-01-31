@@ -19037,7 +19037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>鎖に南京錠……。"
+                                "\\n<Rui>A padlock on the chain..."
                             ]
                         },
                         {
@@ -19261,7 +19261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>鍵を探せってことかしら……？"
+                                "\\n<Rui>Does this mean I have to find the key...?"
                             ]
                         },
                         {
@@ -19345,21 +19345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<校内放送>3年A組　神田瑠唯さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "3年A組　神田瑠唯さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "至急プールまできてください。"
+                                "\\n<School Broadcast>Kanda Rui of Class 3-A, Kanda Rui of Class 3-A,\nplease come to the pool immediately."
                             ]
                         },
                         {
@@ -19443,7 +19429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>プール……？"
+                                "\\n<Rui>The pool...?"
                             ]
                         },
                         {
@@ -19513,14 +19499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こんな事してる間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの化け物に追いつかれたら……。"
+                                "\\n<Rui>If we don't do something soon, that monster from\nbefore will catch up to us..."
                             ]
                         },
                         {
@@ -19569,14 +19548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>行くしか無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "玄関も目の前だしゴールは近いはず！"
+                                "\\n<Rui>I have no choice but to go. The entrance is right\nin front of us, and the goal must be close!"
                             ]
                         },
                         {
@@ -19632,7 +19604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>西の廊下に行ってみましょう。"
+                                "\\n<Rui>Let's try going to the west corridor."
                             ]
                         },
                         {
@@ -19746,14 +19718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プールに鍵があるらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "玄関から西へ進んでみよう。"
+                                "It seems there's a key in the pool. Let's try\nheading west from the entrance."
                             ]
                         },
                         {
@@ -19979,7 +19944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>よし！"
+                                "\\n<Rui>Alright!"
                             ]
                         },
                         {
@@ -20768,7 +20733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は厳重に封鎖されている。"
+                                "The door is heavily sealed."
                             ]
                         },
                         {
@@ -20875,7 +20840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は厳重に封鎖されている。"
+                                "The door is securely sealed."
                             ]
                         },
                         {
@@ -22206,7 +22171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>玄関はあっちね"
+                                "\\n<Rui>The entrance is over there, right?"
                             ]
                         },
                         {
@@ -22880,7 +22845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>玄関はあっちね"
+                                "\\n<Rui>The entrance is over there, huh?"
                             ]
                         },
                         {

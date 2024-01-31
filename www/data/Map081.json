@@ -16688,14 +16688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物>……まだ立ち向かってくるんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恐ろしくタフな人ですね。"
+                                "\\n<Monster>\"Are you still going to face me? You're\nterrifyingly tough.\""
                             ]
                         },
                         {
@@ -16765,7 +16758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>行くわよ！"
+                                "\\n<Rui>\"Let's go!\""
                             ]
                         },
                         {
@@ -16821,7 +16814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　\\^"
+                                ""
                             ]
                         },
                         {
@@ -16973,7 +16966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -16990,7 +16983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -17007,7 +17000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -17662,7 +17655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>倒した……わね。"
+                                "\\n<Rui>\"We've defeated it... haven't we.\""
                             ]
                         },
                         {
@@ -17798,7 +17791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>これで二つ。"
+                                "\\n<Rui>\"That makes two.\""
                             ]
                         },
                         {
@@ -17871,7 +17864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>あともう一つね。"
+                                "\\n<Rui>\"Just one more to go.\""
                             ]
                         },
                         {
@@ -17967,7 +17960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -18016,7 +18009,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>人殺し、か。"
+                                "\\n<Rui>\"A murderer, huh.\""
                             ]
                         },
                         {
@@ -18323,7 +18316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -18372,7 +18365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -18435,7 +18428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……そうね。"
+                                "\\n<Rui>\"...Right.\""
                             ]
                         },
                         {
@@ -18480,7 +18473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>先に進みましょう。"
+                                "\\n<Rui>\"Let's move on.\""
                             ]
                         },
                         {
@@ -18623,21 +18616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……やっぱり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今の化け物たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目玉に捕まった女性じゃ……。"
+                                "\\n<Rui>\"...After all, those monsters were the women\ncaught by the eyeball creature...\""
                             ]
                         },
                         {
@@ -18689,7 +18668,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -18738,7 +18717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……先を、急ぎましょう。"
+                                "\\n<Rui>\"...Let's hurry on ahead.\""
                             ]
                         },
                         {

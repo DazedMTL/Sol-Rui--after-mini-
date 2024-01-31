@@ -21797,21 +21797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の悲鳴とゴブリンの薄汚い笑いが反響し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れた鼻ですら壊れてしまいそうな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひどい獣臭さと淫臭がただよってくる。"
+                                "The screams of women and the filthy laughter of\ngoblins echo through the air, accompanied by a\nbeastly stench and the smell of lewdness that\ncould even break a seasoned nose."
                             ]
                         },
                         {
@@ -22036,7 +22022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>多いわね……。"
+                                "\\n<Rui>There are so many of them..."
                             ]
                         },
                         {
@@ -22044,9 +22030,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いったん引き返す。",
-                                    "強行突破する。",
-                                    "策を考える。"
+                                    "Let's turn back for now",
+                                    "Force our way through",
+                                    "Let's think of a strategy"
                                 ],
                                 0,
                                 0,
@@ -22150,7 +22136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>とりあえずここにいたら危険ね。"
+                                "\\n<Rui>We're in danger if we stay here."
                             ]
                         },
                         {
@@ -22295,21 +22281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>強行突破を選ぶなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1対1で戦える場所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目星をつけといたほうがいいわね。"
+                                "\\n<Rui>If we're going for a breakthrough, we should find\na place where we can fight them one-on-one."
                             ]
                         },
                         {
@@ -22333,21 +22305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>策だとしたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "油断を誘って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "各個撃破する事ができれば……。"
+                                "\\n<Rui>As for a strategy... if we can lure them into\nletting their guard down, we can take them out one\nby one..."
                             ]
                         },
                         {
@@ -22480,7 +22438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>早くあの女性たちを助けないと……！"
+                                "\\n<Rui>We need to hurry and save those women...!"
                             ]
                         },
                         {
@@ -22631,7 +22589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グフャ？"
+                                "\\n<Goblin>Gufah?"
                             ]
                         },
                         {
@@ -22694,14 +22652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>アンタたちその汚い行為をすぐやめなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が全員相手してやるわ！！！"
+                                "\\n<Rui>Stop your filthy acts at once! I'll take on all of\nyou!!!"
                             ]
                         },
                         {
@@ -22749,14 +22700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイが侵入者だと理解した一匹のゴブリンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "粗忽なドラを叩いた。"
+                                "A goblin, realizing Rui is an intruder, clumsily\nbanged a drum."
                             ]
                         },
                         {
@@ -22993,7 +22937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……え？な、なんなの？"
+                                "\\n<Rui>...Eh? Wh-what's this?"
                             ]
                         },
                         {
@@ -23045,7 +22989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "足跡が部屋に押し寄せる！"
+                                "Footsteps surge into the room!"
                             ]
                         },
                         {
@@ -23172,21 +23116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>確か案内人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンは人間の女性に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "異常な執着があるって話をしてたわね。"
+                                "\\n<Rui>If I remember correctly, the guide said goblins\nhave an abnormal obsession with human women."
                             ]
                         },
                         {
@@ -23203,7 +23133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>私が裸で奴らの前に出て……"
+                                "\\n<Rui>If I were to appear before them naked..."
                             ]
                         },
                         {
@@ -23266,7 +23196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>いやいやいやいや、それは自殺行為よ。"
+                                "\\n<Rui>No, no, no, no, that would be suicidal."
                             ]
                         },
                         {
@@ -23297,14 +23227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>裸……か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女性……裸……。"
+                                "\\n<Rui>Naked... right... a woman... naked..."
                             ]
                         },
                         {
@@ -23360,21 +23283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あ！衣類！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "脱いだスカートで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンを一匹ずつ釣りだすのよ！"
+                                "\\n<Rui>Ah! Clothes! I can lure the goblins out one by one\nwith my discarded skirt!"
                             ]
                         },
                         {
@@ -23419,7 +23328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>やってみましょう。"
+                                "\\n<Rui>Let's give it a try."
                             ]
                         },
                         {
@@ -23559,7 +23468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よいしょ。"
+                                "\\n<Rui>Here goes."
                             ]
                         },
                         {
@@ -23672,14 +23581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイはかすかな音が鳴るように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スカートを広場から見える位置に投げ捨てた。"
+                                "Rui tossed her skirt to a spot visible from the\nsquare, making only the faintest sound."
                             ]
                         },
                         {
@@ -23735,7 +23637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よし。"
+                                "\\n<Rui>Alright."
                             ]
                         },
                         {
@@ -23763,7 +23665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -23826,14 +23728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よし。じゃないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなのスカートが汚れるだけじゃない。"
+                                "\\n<Rui>Alright is not the word. This will just get my\nskirt dirty."
                             ]
                         },
                         {
@@ -23913,7 +23808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グフャ？"
+                                "\\n<Goblin>Gufah?"
                             ]
                         },
                         {
@@ -24145,7 +24040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>スンスンスンスン"
+                                "\\n<Goblin>Sniff sniff sniff sniff"
                             ]
                         },
                         {
@@ -24194,7 +24089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>マジか。"
+                                "\\n<Rui>Seriously?"
                             ]
                         },
                         {
@@ -24222,21 +24117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイは知る由もないが、ここはゴブリンの繁殖所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに運び込まれるのは恐怖と暴力によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無力化された女性のみだ。"
+                                "Unbeknownst to Rui, this place is a goblin\nbreeding ground. Only women who have been rendered\npowerless by fear and violence are brought here."
                             ]
                         },
                         {
@@ -24253,7 +24134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまりはゴブリンたちにとっての安全地帯なのである。"
+                                "In other words, it's a safe zone for the goblins."
                             ]
                         },
                         {
@@ -24354,7 +24235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あ。"
+                                "\\n<Rui>Ah."
                             ]
                         },
                         {
@@ -24394,7 +24275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グギャ？"
+                                "\\n<Goblin>Gugyah?"
                             ]
                         },
                         {
@@ -24535,7 +24416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グヒュッゲヒヒヒッ♥"
+                                "\\n<Goblin>Guhyuggehihihi♥"
                             ]
                         },
                         {
@@ -24584,21 +24465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな安全地帯で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下着をむき出しにした人間の女がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンはルイを捕らえた女性だと勘違いしていた。"
+                                "In such a safe zone, there stands a human woman\nwith her underwear exposed. The goblins mistook\nRui for one of the captured women."
                             ]
                         },
                         {
@@ -24615,14 +24482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなゴブリンは彼女のスカートに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男根をこすりつけあざけわらう。"
+                                "The goblin rubbed its cock against her skirt and\nlaughed mockingly. It probably did the same to\nfrightened women before."
                             ]
                         },
                         {
@@ -24639,14 +24499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おそらく怯える女性を相手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までもそうしてきたのであろう。"
+                                "That's likely what it had always done to its\nterrified female victims."
                             ]
                         },
                         {
@@ -24796,7 +24649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なにすんのよ！"
+                                "\\n<Rui>What do you think you're doing?!"
                             ]
                         },
                         {
@@ -24892,7 +24745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>ギエピッ！！？"
+                                "\\n<Goblin>Gyepit!!?"
                             ]
                         },
                         {
@@ -24962,7 +24815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>びっくりするほど釣れたわね……。"
+                                "\\n<Rui>Surprisingly effective..."
                             ]
                         },
                         {
@@ -25014,14 +24867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>効果はあるけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度か使えばぼろぼろにされそうね。"
+                                "\\n<Rui>It works, but if I use it too many times, it'll be\ntorn to shreds."
                             ]
                         },
                         {
@@ -25066,14 +24912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ん～……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どれくらい衣服を使おうかしら。"
+                                "\\n<Rui>Hmm... I wonder how much clothing I should use."
                             ]
                         },
                         {
@@ -25081,9 +24920,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スカートだけ【ゴブリン減少・小】",
-                                    "外着すべて【ゴブリン減少大】",
-                                    "裸になるまで【ゴブリン減少特大】"
+                                    "Just the skirt [Minor Goblin Reduction]",
+                                    "Remove all outerwear [Major Goblin Reduction]",
+                                    "Strip down completely【Goblin Reduction Mega】"
                                 ],
                                 1,
                                 0,
@@ -25152,21 +24991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>よし……とりあえず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あのスカートは履きたくないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これで頑張ってみましょう。"
+                                "\\n<Rui>Alright... I definitely don't want to wear that\nskirt again, so let's keep going with this plan."
                             ]
                         },
                         {
@@ -25247,14 +25072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数分後。"
+                                "──A few minutes later."
                             ]
                         },
                         {
@@ -25431,14 +25249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイのスカートは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぼろぼろの汚い布切れになってしまった。"
+                                "Rui's skirt has become a tattered and dirty rag."
                             ]
                         },
                         {
@@ -25480,7 +25291,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……近場のゴブリンは大体やったわね。"
+                                "\\n<Rui>...I've dealt with most of the nearby goblins."
                             ]
                         },
                         {
@@ -25511,7 +25322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>よし、行きましょう。"
+                                "\\n<Rui>Alright, let's go."
                             ]
                         },
                         {
@@ -25601,7 +25412,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>やるしか……ないわね。"
+                                "\\n<Rui>There's no other choice but to do it..."
                             ]
                         },
                         {
@@ -25708,14 +25519,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数分後。"
+                                "──A few minutes later."
                             ]
                         },
                         {
@@ -25880,14 +25684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの衣装は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぼろぼろの汚い布切れになってしまった。"
+                                "Rui's outfit has become a tattered and dirty rag."
                             ]
                         },
                         {
@@ -25929,14 +25726,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……かなりのゴブリンが減ったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "残りは奥にまだいそうだけど……。"
+                                "\\n<Rui>...The number of goblins has significantly\ndecreased. It seems there are still some left in\nthe back..."
                             ]
                         },
                         {
@@ -25967,7 +25757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>これで安全に通れそうね。"
+                                "\\n<Rui>With this, it should be safe to pass through."
                             ]
                         },
                         {
@@ -26057,14 +25847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>囲まれることを考えたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "徹底的にやったほうがいいわよね……。"
+                                "\\n<Rui>Considering the possibility of being surrounded,\nit's better to be thorough..."
                             ]
                         },
                         {
@@ -26178,14 +25961,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数十分後。"
+                                "──Several minutes later."
                             ]
                         },
                         {
@@ -26345,14 +26121,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの衣類は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "全てぼろぼろの汚い布切れになってしまった。"
+                                "All of Rui's clothes have become tattered and\ndirty rags."
                             ]
                         },
                         {
@@ -26401,14 +26170,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……この場所のゴブリンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いなくなったわね。"
+                                "\\n<Rui>...There are no more goblins in this place."
                             ]
                         },
                         {
@@ -26446,14 +26208,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……裸になっただけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意義があるといえばあるけど。"
+                                "\\n<Rui>...There is some significance to having ended up\nnaked."
                             ]
                         },
                         {
@@ -26484,7 +26239,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>今は進むことだけを考えましょう。"
+                                "\\n<Rui>For now, let's just focus on moving forward."
                             ]
                         },
                         {
@@ -26663,7 +26418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>さて……どうしようかしら。"
+                                "\\n<Rui>Now then... what should I do?"
                             ]
                         },
                         {
@@ -26671,9 +26426,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いったん引き返す。",
-                                    "強行突破する。",
-                                    "策を考える。"
+                                    "Let's turn back for now",
+                                    "Force our way through",
+                                    "Let's think of a plan"
                                 ],
                                 0,
                                 0,
@@ -26777,7 +26532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>とりあえずここにいたら危険ね。"
+                                "\\n<Rui>It's dangerous to stay here for now."
                             ]
                         },
                         {
@@ -26922,21 +26677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>強行突破を選ぶなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1対1で戦える場所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目星をつけといたほうがいいわね。"
+                                "\\n<Rui>If I choose to break through forcefully, I should\nfind a place where I can fight them one-on-one."
                             ]
                         },
                         {
@@ -26960,21 +26701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>策だとしたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "油断を誘って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "各個撃破する事ができれば……。"
+                                "\\n<Rui>If it's a strategy... if I can lure them into a\nfalse sense of security and defeat them one by\none..."
                             ]
                         },
                         {
@@ -27107,7 +26834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>早くあの女性たちを助けないと……！"
+                                "\\n<Rui>I have to rescue those women quickly...!"
                             ]
                         },
                         {
@@ -27258,7 +26985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グフャ？"
+                                "\\n<Goblin>Gufah?"
                             ]
                         },
                         {
@@ -27321,14 +27048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>アンタたちその汚い行為をすぐやめなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が全員相手してやるわ！！！"
+                                "\\n<Rui>Stop that filthy act at once! I'll take on all of\nyou!!!"
                             ]
                         },
                         {
@@ -27376,14 +27096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイが侵入者だと理解した一匹のゴブリンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "粗忽なドラを叩いた。"
+                                "A goblin, realizing Rui was an intruder, clumsily\nhit the drum."
                             ]
                         },
                         {
@@ -27620,7 +27333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……え？な、なんなの？"
+                                "\\n<Rui>...Huh? What's going on?"
                             ]
                         },
                         {
@@ -27672,7 +27385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "足跡が部屋に押し寄せる！"
+                                "Footsteps crowd into the room!"
                             ]
                         },
                         {
@@ -27799,21 +27512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>確か案内人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンは人間の女性に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "異常な執着があるって話をしてたわね。"
+                                "\\n<Rui>If I remember correctly, the guide said that\ngoblins have an abnormal obsession with human\nwomen."
                             ]
                         },
                         {
@@ -27830,7 +27529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>私が裸で奴らの前に出て……"
+                                "\\n<Rui>If I were to appear naked in front of them..."
                             ]
                         },
                         {
@@ -27893,7 +27592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>いやいやいやいや、それは自殺行為よ。"
+                                "\\n<Rui>No no no no, that would be suicidal."
                             ]
                         },
                         {
@@ -27924,14 +27623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>裸……か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女性……裸……。"
+                                "\\n<Rui>Naked... right... women... naked..."
                             ]
                         },
                         {
@@ -27987,21 +27679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あ！衣類！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "脱いだスカートで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンを一匹ずつ釣りだすのよ！"
+                                "\\n<Rui>Ah! Clothes! I can lure out the goblins one by one\nwith my discarded skirt!"
                             ]
                         },
                         {
@@ -28046,7 +27724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>やってみましょう。"
+                                "\\n<Rui>Let's give it a try."
                             ]
                         },
                         {
@@ -28186,7 +27864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よいしょ。"
+                                "\\n<Rui>Here goes."
                             ]
                         },
                         {
@@ -28299,14 +27977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイはかすかな音が鳴るように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スカートを広場から見える位置に投げ捨てた。"
+                                "Rui quietly tossed her skirt to a spot visible\nfrom the square, making a faint sound."
                             ]
                         },
                         {
@@ -28362,7 +28033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よし。"
+                                "\\n<Rui>Alright."
                             ]
                         },
                         {
@@ -28390,7 +28061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -28453,14 +28124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>よし。じゃないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなのスカートが汚れるだけじゃない。"
+                                "\\n<Rui>Alright is not the word. This will just get my\nskirt dirty."
                             ]
                         },
                         {
@@ -28540,7 +28204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グフャ？"
+                                "\\n<Goblin>Gufah?"
                             ]
                         },
                         {
@@ -28772,7 +28436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>スンスンスンスン"
+                                "\\n<Goblin>Sniff sniff sniff sniff"
                             ]
                         },
                         {
@@ -28821,7 +28485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>マジか。"
+                                "\\n<Rui>Seriously?"
                             ]
                         },
                         {
@@ -28849,21 +28513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイは知る由もないが、ここはゴブリンの繁殖所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに運び込まれるのは恐怖と暴力によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無力化された女性のみだ。"
+                                "Unbeknownst to Rui, this place is a goblin\nbreeding ground. The only ones brought here are\nwomen who have been rendered powerless by fear and\nviolence."
                             ]
                         },
                         {
@@ -28880,7 +28530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまりはゴブリンたちにとっての安全地帯なのである。"
+                                "In other words, it's a safe zone for the goblins."
                             ]
                         },
                         {
@@ -28981,7 +28631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あ。"
+                                "\\n<Rui>Oh."
                             ]
                         },
                         {
@@ -29021,7 +28671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グギャ？"
+                                "\\n<Goblin>Gugyah?"
                             ]
                         },
                         {
@@ -29162,7 +28812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>グヒュッゲヒヒヒッ♥"
+                                "\\n<Goblin>Guhyuggehihihi♥"
                             ]
                         },
                         {
@@ -29211,21 +28861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな安全地帯で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下着をむき出しにした人間の女がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンはルイを捕らえた女性だと勘違いしていた。"
+                                "In such a safe zone, there is a human woman with\nher underwear exposed. The goblins mistook Rui for\na captured woman."
                             ]
                         },
                         {
@@ -29242,14 +28878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなゴブリンは彼女のスカートに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男根をこすりつけあざけわらう。"
+                                "The goblin rubbed his cock against her skirt and\nsneered mockingly."
                             ]
                         },
                         {
@@ -29266,14 +28895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おそらく怯える女性を相手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までもそうしてきたのであろう。"
+                                "He probably did the same to frightened women\nbefore."
                             ]
                         },
                         {
@@ -29423,7 +29045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なにすんのよ！"
+                                "\\n<Rui>What are you doing?!"
                             ]
                         },
                         {
@@ -29519,7 +29141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゴブリン>ギエピッ！！？"
+                                "\\n<Goblin>Giepit!!?"
                             ]
                         },
                         {
@@ -29589,7 +29211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>びっくりするほど釣れたわね……。"
+                                "\\n<Rui>Surprisingly, it worked too well..."
                             ]
                         },
                         {
@@ -29641,14 +29263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>効果はあるけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度か使えばぼろぼろにされそうね。"
+                                "\\n<Rui>It's effective but... if I use it a few times,\nit'll be torn to shreds."
                             ]
                         },
                         {
@@ -29693,14 +29308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ん～……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どれくらい衣服を使おうかしら。"
+                                "\\n<Rui>Hmm... how much of my clothing should I use?"
                             ]
                         },
                         {
@@ -29708,9 +29316,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スカートだけ【ゴブリン減少・小】",
-                                    "外着すべて【ゴブリン減少大】",
-                                    "裸になるまで【ゴブリン減少特大】"
+                                    "Just the skirt [Minor Goblin Reduction]",
+                                    "Remove all outerwear [Greatly Reduces Goblins]",
+                                    "Strip down completely【Goblin Reduction Mega】"
                                 ],
                                 1,
                                 0,
@@ -29779,21 +29387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>よし……とりあえず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あのスカートは履きたくないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これで頑張ってみましょう。"
+                                "\\n<Rui>Alright... for starters, since I don't want to\nwear that skirt anymore, let's try our best with\nthis."
                             ]
                         },
                         {
@@ -29874,14 +29468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数分後。"
+                                "──A few minutes later."
                             ]
                         },
                         {
@@ -30058,14 +29645,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイのスカートは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぼろぼろの汚い布切れになってしまった。"
+                                "Rui's skirt ended up as a tattered and dirty rag."
                             ]
                         },
                         {
@@ -30107,7 +29687,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……近場のゴブリンは大体やったわね。"
+                                "\\n<Rui>...I've dealt with most of the nearby goblins."
                             ]
                         },
                         {
@@ -30138,7 +29718,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>よし、行きましょう。"
+                                "\\n<Rui>Alright, let's go."
                             ]
                         },
                         {
@@ -30228,7 +29808,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>やるしか……ないわね。"
+                                "\\n<Rui>There's no other choice but to do it."
                             ]
                         },
                         {
@@ -30335,14 +29915,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数分後。"
+                                "──A few minutes later."
                             ]
                         },
                         {
@@ -30507,14 +30080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの衣装は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぼろぼろの汚い布切れになってしまった。"
+                                "Rui's outfit had become a tattered and dirty rag."
                             ]
                         },
                         {
@@ -30556,14 +30122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……かなりのゴブリンが減ったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "残りは奥にまだいそうだけど……。"
+                                "\\n<Rui>...The number of goblins has significantly\ndecreased. It seems there are still some left\ndeeper inside..."
                             ]
                         },
                         {
@@ -30594,7 +30153,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>これで安全に通れそうね。"
+                                "\\n<Rui>With this, it looks like I can pass through\nsafely."
                             ]
                         },
                         {
@@ -30684,14 +30243,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>囲まれることを考えたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "徹底的にやったほうがいいわよね……。"
+                                "\\n<Rui>Considering the possibility of being surrounded,\nit's better to be thorough..."
                             ]
                         },
                         {
@@ -30805,14 +30357,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──数十分後。"
+                                "──Several minutes later."
                             ]
                         },
                         {
@@ -30972,14 +30517,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの衣類は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "全てぼろぼろの汚い布切れになってしまった。"
+                                "All of Rui's clothes had become tattered and dirty\nrags."
                             ]
                         },
                         {
@@ -31028,14 +30566,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……この場所のゴブリンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いなくなったわね。"
+                                "\\n<Rui>...There are no more goblins in this place."
                             ]
                         },
                         {
@@ -31073,14 +30604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……裸になっただけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意義があるといえばあるけど。"
+                                "\\n<Rui>...There is some significance to ending up naked,\nI suppose."
                             ]
                         },
                         {
@@ -31111,7 +30635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>今は進むことだけを考えましょう。"
+                                "\\n<Rui>For now, let's just focus on moving forward."
                             ]
                         },
                         {

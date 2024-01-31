@@ -8968,7 +8968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタンゴと戦闘しますか？"
+                                "Do you want to battle with Matango?"
                             ]
                         },
                         {
@@ -8976,8 +8976,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9503,7 +9503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダー種と戦闘しますか？"
+                                "Will you battle the Spider-type?"
                             ]
                         },
                         {
@@ -9511,9 +9511,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エビルスパーダー戦",
-                                    "ハードスパイダー戦",
-                                    "いいえ"
+                                    "Fight the Evil Spider?",
+                                    "Hard Spider Battle",
+                                    "No"
                                 ],
                                 2,
                                 0,
@@ -10577,7 +10577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バジリスク種と戦闘しますか？"
+                                "Do you want to battle the Basilisk species?"
                             ]
                         },
                         {
@@ -10585,9 +10585,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "バジリスク戦",
-                                    "ストーンデビル戦",
-                                    "いいえ"
+                                    "Basilisk Battle",
+                                    "Fight the Stone Devil?",
+                                    "No"
                                 ],
                                 2,
                                 0,
@@ -11570,7 +11570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オーク種と戦闘しますか？"
+                                "Will you battle the Orc species?"
                             ]
                         },
                         {
@@ -11578,9 +11578,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "オーク戦",
-                                    "歴戦のオーク戦",
-                                    "いいえ"
+                                    "Orc Battle",
+                                    "Battle the Veteran Orc?",
+                                    "No"
                                 ],
                                 2,
                                 0,
@@ -12542,7 +12542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロッジと戦闘しますか？"
+                                "Will you battle with Lodge?"
                             ]
                         },
                         {
@@ -12550,8 +12550,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13208,7 +13208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩所・睡眠姦イベントを見ますか？"
+                                "Rest Area. Would you like to view the Sleep\nAssault event?"
                             ]
                         },
                         {
@@ -13216,9 +13216,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "1段階目",
-                                    "2段階目",
-                                    "いいえ"
+                                    "First stage",
+                                    "Second stage",
+                                    "No"
                                 ],
                                 2,
                                 0,
@@ -13871,7 +13871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ランダムイベントマスのBADイベントを閲覧しますか？"
+                                "Would you like to view the BAD event on the Random\nEvent Square?"
                             ]
                         },
                         {
@@ -13879,8 +13879,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14126,7 +14126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体的特徴を変更できます。"
+                                "You can change physical features."
                             ]
                         },
                         {
@@ -14134,9 +14134,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "胸のサイズを変更",
-                                    "陰毛の有無を変更",
-                                    "キャンセル"
+                                    "Change breast size",
+                                    "Change the presence of pubic hair",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -14157,10 +14157,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "本来の大きさに変更",
-                                    "巨乳に変更",
-                                    "爆乳に変更",
-                                    "キャンセル"
+                                    "Change to the original size",
+                                    "Change to big breasts",
+                                    "Change to huge breasts",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -14833,21 +14833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "陰毛を選択してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※剛毛はボツになった陰毛差分です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　表示がうまくいかない場合があります。"
+                                "Please select pubic hair.※Thick hair is a\ndiscarded pubic hair variation. There may be\ndisplay issues."
                             ]
                         },
                         {
@@ -14855,10 +14841,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はえてる",
-                                    "はえてない",
-                                    "剛毛",
-                                    "キャンセル"
+                                    "Grown out",
+                                    "Not grown out",
+                                    "Bushy pubic hair",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -15089,7 +15075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -15233,7 +15219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイの衣服を変更できます。"
+                                "You can change Rui's clothes."
                             ]
                         },
                         {
@@ -15241,10 +15227,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\I[81]衣装の変更",
-                                    "\\I[80]下着の変更",
-                                    "\\I[90]ソックスの変更",
-                                    "キャンセル"
+                                    "Change Outfit",
+                                    "Change underwear",
+                                    "Change Socks",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -15306,7 +15292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "衣装を選んでください。"
+                                "Please choose an outfit."
                             ]
                         },
                         {
@@ -15314,12 +15300,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ソルルイの衣装",
-                                    "催眠堕ち衣装",
-                                    "コルセットタイプ",
-                                    "身体脱衣",
-                                    "裸",
-                                    "バニー"
+                                    "Sol Rui's outfit",
+                                    "Hypnosis Corruption Outfit",
+                                    "Corset type",
+                                    "Undress Body",
+                                    "Naked",
+                                    "Bunny"
                                 ],
                                 -1,
                                 0,
@@ -15565,21 +15551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<注意・回想部屋のおまけです>マップ移動やロードに対応してなかったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一部アニメ表記がおかしくなったり、破れなかったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "没入感に大きく影響する場合があります。"
+                                "\\n<Note>This Is A Bonus From The Reminiscence Room.: There\nmay be issues with map movement or loading, some\nanimation labels might be incorrect, clothes may\nnot tear, and it could significantly affect\nimmersion."
                             ]
                         },
                         {
@@ -15587,8 +15559,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "構わん",
-                                    "ほなやめとく"
+                                    "I don't mind",
+                                    "Then I'll stop"
                                 ],
                                 1,
                                 0,
@@ -15724,7 +15696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "下着を選んでください。"
+                                "Please choose underwear."
                             ]
                         },
                         {
@@ -15732,12 +15704,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\I[64]ソルタイプ",
-                                    "\\I[68]レースタイプ",
-                                    "\\I[70]オープンタイプ",
-                                    "\\I[73]レオタードタイプ",
-                                    "\\I[93]下着ナシ",
-                                    "キャンセル"
+                                    "Sol Type",
+                                    "Lace type",
+                                    "Open type",
+                                    "Leotard type",
+                                    "No panties",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -15779,10 +15751,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "\\I[64]ルイの下着",
-                                    "\\I[65]スマート白",
-                                    "\\I[78]スケピンク",
-                                    "キャンセル"
+                                    "Choose Rui's panties",
+                                    "Smart white",
+                                    "Sheer Pink",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -16073,10 +16045,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "\\I[66]黒レース",
-                                    "\\I[67]白レース",
-                                    "\\I[68]紫レース",
-                                    "キャンセル"
+                                    "Black lace",
+                                    "White lace",
+                                    "\\I[68]Purple Lace",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -16469,11 +16441,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "\\I[69]オープン黒",
-                                    "\\I[70]オープンレース赤",
-                                    "\\I[71]オープンレース黒",
-                                    "\\I[72]オープンレース白",
-                                    "キャンセル"
+                                    "Open Black",
+                                    "Open Lace Red",
+                                    "Open Lace Black",
+                                    "Open Lace White",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -16952,12 +16924,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "\\I[73]黒レオタード",
-                                    "\\I[74]白レオタード",
-                                    "\\I[75]水レオタード",
-                                    "\\I[76]桃レオタード",
-                                    "\\I[77]白水着",
-                                    "キャンセル"
+                                    "Black leotard",
+                                    "White leotard",
+                                    "Water Leotard",
+                                    "\\I[76] Peach Leotard",
+                                    "White swimsuit",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -17703,14 +17675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ソックスを選んでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ガータだと一部表示バグがあるかもしれません"
+                                "Please choose socks. (There might be some display\nbugs with garters)"
                             ]
                         },
                         {
@@ -17718,11 +17683,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "黒ソックス",
-                                    "白ソックス",
-                                    "ガーターソックス",
-                                    "生足",
-                                    "キャンセル"
+                                    "Black socks",
+                                    "White socks",
+                                    "Garter socks",
+                                    "Bare legs",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -18015,14 +17980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "髪型の変更を行います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※髪色の変更はボツになった差分です。"
+                                "We will proceed with changing the\nhairstyle.※Changing hair color is a scrapped\nvariation."
                             ]
                         },
                         {
@@ -18030,9 +17988,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "髪型の変更",
-                                    "髪色の変更",
-                                    "キャンセル"
+                                    "Change hairstyle",
+                                    "Change hair color",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -18053,12 +18011,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "セミロング",
-                                    "アシメセミロング",
-                                    "ショート",
-                                    "ガーリーショート",
-                                    "ロングヘア",
-                                    "ノータッチロング"
+                                    "Semi-long",
+                                    "Asymmetrical Semi-Long",
+                                    "Short",
+                                    "Girly Short",
+                                    "Long Hair",
+                                    "Untouched Long Hair"
                                 ],
                                 0,
                                 0,
@@ -18732,21 +18690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<注意・回想部屋のおまけです>※ボツ差分です。突然髪の色が戻ったりして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　没入感が損なわれるかもしれませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それでも良ければお楽しみください。"
+                                "\\n<Note>This Is A Bonus From The Reminiscence Room.: ※This\nis a scrapped variation. The immersion may be\nbroken if the hair color suddenly reverts, but if\nthat's okay with you, please enjoy."
                             ]
                         },
                         {
@@ -18754,12 +18698,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "デフォルト",
-                                    "ブラウン",
-                                    "ビビッドオレンジ",
-                                    "ビビッドレッド",
-                                    "パープル",
-                                    "アッシュグリーン"
+                                    "Default",
+                                    "Brown",
+                                    "Vivid Orange",
+                                    "Vivid Red",
+                                    "Purple",
+                                    "Ash Green"
                                 ],
                                 0,
                                 0,
@@ -19778,21 +19722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ステータスの上書き・初期化>ルイのステータスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫獄に捕まった時の初期値に戻します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]※上書きしたステータスは戻りません。別途セーブ推奨。"
+                                "\\n<Overwrite/Reset Status>Rui's status will be reset to the initial values\nwhen she was captured in the dungeon of\ndepravity.\\C[10]*Please note that overwritten\nstatuses cannot be recovered. It is recommended to\nsave separately."
                             ]
                         },
                         {
@@ -19800,8 +19730,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "初期化",
-                                    "キャンセル"
+                                    "Initialize",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -19842,7 +19772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ステータスの上書き・初期化>本当によろしいですか？"
+                                "\\n<Overwrite/Reset Status>Are you sure you want to proceed?"
                             ]
                         },
                         {
@@ -19850,8 +19780,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20389,7 +20319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPや衣装ダメージの調整できます。"
+                                "You can adjust HP and costume damage."
                             ]
                         },
                         {
@@ -20397,12 +20327,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "HPMP回復",
-                                    "HP50ダメージを受ける",
-                                    "MP10ダメージを受ける",
-                                    "衣装回復",
-                                    "衣装1段階ダメージ",
-                                    "キャンセル"
+                                    "Restore HP/MP",
+                                    "Take 50 HP damage",
+                                    "Take 10 MP damage",
+                                    "Restore Outfit",
+                                    "Outfit damage level 1",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -21207,7 +21137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPを1になるようにダメージを受けますか？"
+                                "Will you take damage to reduce your HP to 1?"
                             ]
                         },
                         {
@@ -21215,8 +21145,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

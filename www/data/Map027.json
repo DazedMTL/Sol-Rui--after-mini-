@@ -19331,14 +19331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どちらにしろ、戻る理由はないだろう。"
+                                "The door is firmly shut. Either way, there's no\nreason to go back."
                             ]
                         },
                         {

@@ -29010,21 +29010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　　　　　\\C[2]報告\\C[0]>わが校は不審な集団に制圧されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交渉の末、女生徒を差し出すことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "油断を誘って彼らを閉じ込めることに成功しました。"
+                                "\\n<Report>Our school has been overtaken by a suspicious\ngroup. After negotiations, we managed to trap them\nby offering female students as a decoy to catch\nthem off guard."
                             ]
                         },
                         {
@@ -29041,21 +29027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<　　　　　　　\\C[2]報告\\C[0]>間違っても彼らを開放しないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、我々のための犠牲になってくれた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女生徒たちに感謝の気持ちを捧げます。"
+                                "\\n<Report>Please do not release them under any\ncircumstances. Also, we offer our gratitude to the\nfemale students who became sacrifices for our\ncause."
                             ]
                         },
                         {
@@ -60391,7 +60363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今なにか動いた……？"
+                                "\\n<Rui>Did something just move...?"
                             ]
                         },
                         {
@@ -60477,7 +60449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひぁッ！！？"
+                                "\\n<Rui>Ahh!!?"
                             ]
                         },
                         {
@@ -60526,7 +60498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……縄が動いた？"
+                                "\\n<Rui>...Did the rope just move?"
                             ]
                         },
                         {
@@ -60641,7 +60613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -60765,7 +60737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>っ！！！"
+                                "\\n<Rui>Ahh!!!"
                             ]
                         },
                         {
@@ -60828,7 +60800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……どうなってるのコレ？"
+                                "\\n<Rui>...What's going on with this?"
                             ]
                         },
                         {
@@ -60870,14 +60842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>通ろうとすると首を狙う縄……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気味の悪いトラップね。"
+                                "\\n<Rui>Ropes that aim for the neck when you try to\npass... What a creepy trap."
                             ]
                         },
                         {
@@ -60926,7 +60891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>気を付けて進みましょう……。"
+                                "\\n<Rui>Let's be careful and keep moving..."
                             ]
                         },
                         {

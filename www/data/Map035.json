@@ -25370,7 +25370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>閉じ込められた……？"
+                                "\\n<Rui>Trapped...?"
                             ]
                         },
                         {
@@ -25419,21 +25419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>とても学校に見えないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、なんだろう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく気持ち悪い匂いがする。"
+                                "\\n<Rui>It doesn't look like a school at all... And what\nis that... There's a really sickening smell."
                             ]
                         },
                         {
@@ -25482,7 +25468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>長居したくは無い場所ね。"
+                                "\\n<Rui>It's not a place I want to stay for long."
                             ]
                         },
                         {
@@ -25888,7 +25874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>閉じ込められた……？"
+                                "\\n<Rui>Trapped...?"
                             ]
                         },
                         {
@@ -25937,21 +25923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>とても学校に見えないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、なんだろう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく気持ち悪い匂いがする。"
+                                "\\n<Rui>It doesn't look like a school at all... And what\nis that... There's a really sickening smell."
                             ]
                         },
                         {
@@ -26000,7 +25972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>長居したくは無い場所ね。"
+                                "\\n<Rui>It's not a place I want to stay for long."
                             ]
                         },
                         {
@@ -29556,7 +29528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ええっと……後ろをみるな？"
+                                "\\n<Rui>Umm... Don't look behind?"
                             ]
                         },
                         {
@@ -29631,7 +29603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -29783,7 +29755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……なにか居る？"
+                                "\\n<Rui>...Is there something there?"
                             ]
                         },
                         {
@@ -30139,14 +30111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>動かないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分その鉄格子のスイッチだと思うんだけど。"
+                                "\\n<Rui>It's not moving. I think it's probably the switch\nfor that iron grate."
                             ]
                         },
                         {
@@ -30261,7 +30226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>！？"
+                                "\\n<Rui>!?"
                             ]
                         },
                         {
@@ -30289,14 +30254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ネェ　コッチ　　　キテ"
+                                "??? Come here."
                             ]
                         },
                         {
@@ -30359,7 +30317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっちの鉄格子の中にナニカ居る。"
+                                "\\n<Rui>There's something inside that iron grate over\nthere."
                             ]
                         },
                         {
@@ -30387,14 +30345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ソノドア　アケカタ　オシエテ　アゲル"
+                                "??? I'll tell you how to open that door."
                             ]
                         },
                         {
@@ -30422,14 +30373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ダカラ　コッチ　キテ"
+                                "??? So come here."
                             ]
                         },
                         {
@@ -30485,7 +30429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ホラー映画でこういうのみたことある！"
+                                "\\n<Rui>This is just like in a horror movie I've seen!"
                             ]
                         },
                         {
@@ -30509,14 +30453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>安全だと思って油断して近づいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鉄格子越しに捕まるヤツ！"
+                                "\\n<Rui>The one where you let your guard down thinking\nit's safe, and then you get caught through the\nbars!"
                             ]
                         },
                         {
@@ -30544,14 +30481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ネェ　　ハヤク"
+                                "??? Hurry up."
                             ]
                         },
                         {
@@ -30614,7 +30544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……とは言っても手がかりは無し。"
+                                "\\n<Rui>...But there's no clue."
                             ]
                         },
                         {
@@ -30631,7 +30561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なにか近寄らずにすむ手段は……。"
+                                "\\n<Rui>Is there a way to do it without getting too\nclose..."
                             ]
                         },
                         {
@@ -30703,14 +30633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこからでも教えてくれないかしら？"
+                                "\\n<Rui>Hey... can't you tell me from there?"
                             ]
                         },
                         {
@@ -30738,14 +30661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　イイヨ"
+                                "??? Sure."
                             ]
                         },
                         {
@@ -30794,7 +30710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いいんだ。"
+                                "\\n<Rui>Really?"
                             ]
                         },
                         {
@@ -30822,14 +30738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ソノ　レバー　電力　タリナイ　ロック"
+                                "??? The lock lacks power."
                             ]
                         },
                         {
@@ -30846,14 +30755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　マワリ　ファン　電源　キル"
+                                "??? Turn off the surrounding fan's power source."
                             ]
                         },
                         {
@@ -30888,14 +30790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>途中にあった大きな扇風機を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切ればいいってことかしら？"
+                                "\\n<Rui>So, I should turn off the large fan we passed by\non the way here?"
                             ]
                         },
                         {
@@ -30944,7 +30839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ありがとう、やってみるわ。"
+                                "\\n<Rui>Thank you, I'll give it a try."
                             ]
                         },
                         {
@@ -30972,14 +30867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ハヤク　　　ハヤク　　　ハヤク"
+                                "??? Hurry, hurry, hurry!"
                             ]
                         },
                         {
@@ -31231,7 +31119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ふぅ……空いた……"
+                                "\\n<Rui>Phew... it's open..."
                             ]
                         },
                         {
@@ -31259,14 +31147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　ア　リ　ガ　ト　ウ"
+                                "Thank you"
                             ]
                         },
                         {
@@ -31294,7 +31175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あれ……あっちの鉄格子も空いてる？"
+                                "\\n<Rui>Huh... Is that iron gate also open?"
                             ]
                         },
                         {
@@ -31322,14 +31203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　コッチ　キテ"
+                                "Come here"
                             ]
                         },
                         {
@@ -31346,14 +31220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　コウソク　トイテ"
+                                "Tie it tightly"
                             ]
                         },
                         {
@@ -31381,7 +31248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>こう……そく？"
+                                "\\n<Rui>Tie... tightly?"
                             ]
                         },
                         {
@@ -31409,14 +31276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　エサ　縛ラレテ　食ベラレナイ"
+                                "I can't eat because I'm tied up"
                             ]
                         },
                         {
@@ -31444,7 +31304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>はぁ……はぁ……縛られてるの？"
+                                "\\n<Rui>Haah... Haah... Are you tied up?"
                             ]
                         },
                         {
@@ -31472,14 +31332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　ハヤク　タベタイ　オナカ　スイタ"
+                                "I want to eat quickly, I'm hungry"
                             ]
                         },
                         {
@@ -31507,7 +31360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>はぁ……んっ……かわいそう"
+                                "\\n<Rui>Haah... Mmm... That's pitiful"
                             ]
                         },
                         {
@@ -31535,7 +31388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>でも……わたし……先に進まないと"
+                                "\\n<Rui>But... I have to move on..."
                             ]
                         },
                         {
@@ -31563,14 +31416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　ハヤク　　ハヤク　　ハヤク"
+                                "Quickly, quickly, quickly"
                             ]
                         },
                         {
@@ -31639,7 +31485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レバーは固く固定されている。"
+                                "The lever is firmly fixed in place."
                             ]
                         },
                         {

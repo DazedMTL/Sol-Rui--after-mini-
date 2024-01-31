@@ -19240,14 +19240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "難易度調整ができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫獄の回廊でも設定できます。"
+                                "You can adjust the difficulty level. This can also\nbe set in the Corridor of Depravity."
                             ]
                         },
                         {
@@ -19264,14 +19257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<■難易度\\C[11]【casual：カジュアル】\\C[0]■>洞窟内の照明が増え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特定のイベントが簡単になります。"
+                                "\\n<■Difficulty \\C[11][Casual>Casual]\\C[0]■: The lighting in the cave increases,\nand certain events become easier."
                             ]
                         },
                         {
@@ -19288,14 +19274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<■難易度\\C[3]【original：オリジナル】\\C[0]■>本来の難易度になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはルイを陥れるための世界です。"
+                                "\\n<■Difficulty \\C[3][Original]\\C[0]■>This is the original difficulty level. This world\nis designed to ensnare Rui."
                             ]
                         },
                         {
@@ -19321,14 +19300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "難易度を変更されますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（現在は\\C[3]original\\C[0]）"
+                                "Would you like to change the difficulty?\n(Currently \\C[3]original\\C[0])"
                             ]
                         },
                         {
@@ -19336,8 +19308,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\C[11]casual\\C[0]に変更。",
-                                    "キャンセル。"
+                                    "Change to \\C[11]casual\\C[0]",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -19376,7 +19348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "難易度を\\C[11]casual\\C[0]に変更しました。"
+                                "The difficulty has been changed to\n\\C[11]casual\\C[0]."
                             ]
                         },
                         {
@@ -19426,14 +19398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "難易度を変更されますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（現在は\\C[11]casual\\C[0]）"
+                                "Would you like to change the difficulty?\n(Currently \\C[11]casual\\C[0])"
                             ]
                         },
                         {
@@ -19441,8 +19406,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\C[3]original\\C[0]に変更。",
-                                    "キャンセル"
+                                    "Change to \\C[3]original\\C[0]",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -19481,7 +19446,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]original\\C[0]に変更しました。"
+                                "\\C[3]original\\C[0]It has been changed."
                             ]
                         },
                         {
@@ -19630,7 +19595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>うっひどい臭い……。"
+                                "\\n<Rui>Ugh, what a terrible smell..."
                             ]
                         },
                         {
@@ -19661,7 +19626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……暗くて奥が全然見渡せないわね。"
+                                "\\n<Rui>...It's so dark, I can't see anything ahead at\nall."
                             ]
                         },
                         {
@@ -19878,7 +19843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あっち向いてる……。"
+                                "\\n<Rui>It's looking the other way..."
                             ]
                         },
                         {
@@ -20112,7 +20077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリン>ギピッ！！？"
+                                "\\n<Goblin>Gipii!!?"
                             ]
                         },
                         {
@@ -20206,7 +20171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え……よわ。"
+                                "\\n<Rui>Huh... weak."
                             ]
                         },
                         {
@@ -20273,14 +20238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴブリンについて>ゴブリンと接触した時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻撃判定が発生します。"
+                                "\\n<About The Goblin>When you come into contact with a goblin, an\nattack determination will occur."
                             ]
                         },
                         {
@@ -20324,14 +20282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<接触時の違い>背面から接触した場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無傷で一方的にゴブリンを倒すことができます。"
+                                "\\n<The Difference Upon Contact>If you make contact from behind, you can defeat\nthe goblin unscathed and unilaterally."
                             ]
                         },
                         {
@@ -20412,7 +20363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今のがゴブリンでいいのよね？"
+                                "\\n<Rui>That was a goblin, right?"
                             ]
                         },
                         {
@@ -20429,21 +20380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ちょっと拍子抜けね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内人の言葉だと随分凶悪な奴って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イメージだったんだけど……。"
+                                "\\n<Rui>That's a bit anticlimactic... I had the impression\nthey were quite vicious from what the guide\nsaid..."
                             ]
                         },
                         {
@@ -20506,14 +20443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ま、楽に越したことはないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これならさっさと終わりそうだわ。"
+                                "\\n<Rui>Well, easier is better. At this rate, it looks\nlike it'll be over quickly."
                             ]
                         },
                         {
@@ -20580,21 +20510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンは小賢しく、悪辣な存在です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例え自身が殺されようとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前に人間の若い雌がいれば止まる事は無いでしょう。"
+                                "Goblin: Goblins are cunning and malicious\ncreatures. Even if they are about to be killed,\nthey won't stop if there's a young human female in\nfront of them."
                             ]
                         },
                         {
@@ -20638,14 +20554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<接触時の違い>正面を向いて接触した場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高確率で体力を消費せずに倒すことができますが……"
+                                "\\n<The Difference Upon Contact>If you make contact while facing the front,\nthere's a high chance you can defeat it without\nconsuming health..."
                             ]
                         },
                         {
@@ -20678,21 +20587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<接触時の違い>側面から接触された場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高い確率でゴブリンの攻撃を受けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイはダメージを負うでしょう。"
+                                "\\n<The Difference Upon Contact>If you are contacted from the side, Rui will\nlikely take damage from the goblin's attack."
                             ]
                         },
                         {
@@ -20725,14 +20620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<接触時の違い>背面から襲い掛かられた場合は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狩人の立場が一瞬で逆転するでしょう。"
+                                "\\n<The Difference Upon Contact>If attacked from behind... the hunter's position\nwill be reversed in an instant."
                             ]
                         },
                         {
@@ -35090,14 +34978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンの巣の危険度をリセットして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初期状態に戻しますか？"
+                                "Would you like to reset the danger level of the\nGoblin's Nest to its initial state?"
                             ]
                         },
                         {
@@ -35105,8 +34986,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -35136,7 +35017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本当によろしいですか？"
+                                "Are you sure you want to do this?"
                             ]
                         },
                         {
@@ -35144,8 +35025,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

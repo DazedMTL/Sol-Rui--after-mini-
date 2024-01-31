@@ -16922,7 +16922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子には二つの鍵穴がある。"
+                                "The iron bars have two keyholes."
                             ]
                         },
                         {
@@ -16939,21 +16939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵穴の下に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”鍵は2つの絶望がそれぞれ持っている”"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と書かれている。"
+                                "Below the keyholes, it's written \"The keys are\neach held by two despairs.\""
                             ]
                         },
                         {
@@ -17002,7 +16988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -17095,7 +17081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やっ！"
+                                "\\n<Rui>Ah!"
                             ]
                         },
                         {
@@ -17123,7 +17109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子には傷一つついていない。"
+                                "There's not a single scratch on the iron bars."
                             ]
                         },
                         {
@@ -17179,14 +17165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……なるほどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶望って奴を探しましょう。"
+                                "\\n<Rui>...I see. Let's go find these so-called despairs."
                             ]
                         },
                         {
@@ -17313,7 +17292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子には二つの鍵穴がある。"
+                                "There are two keyholes in the iron bars."
                             ]
                         },
                         {
@@ -17330,21 +17309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵穴の下に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”鍵は2つの絶望がそれぞれ持っている”"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と書かれている。"
+                                "Beneath the keyholes, it's written \"Each of the\ntwo despairs holds a key.\""
                             ]
                         },
                         {
@@ -17475,7 +17440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイは鍵穴に鍵を差し込んだ。"
+                                "Rui inserted the key into the keyhole."
                             ]
                         },
                         {
@@ -17536,7 +17501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>よし。"
+                                "\\n<Rui>Alright."
                             ]
                         },
                         {
@@ -18336,7 +18301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……洋館？"
+                                "\\n<Rui>...A mansion?"
                             ]
                         },
                         {
@@ -18385,14 +18350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なんだか、最後の扉という割には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おぞましくもない普通の場所ね。"
+                                "\\n<Rui>Somehow, for being the final door, it's not at all\nhideous—just an ordinary place."
                             ]
                         },
                         {
@@ -18435,21 +18393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫獄【主の館】では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔狩りの森で強化した戦闘ステータスになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（魔狩りの森で何度でも強化できます）"
+                                "In the Lust Dungeon [Master's Mansion], your\ncombat stats will be as enhanced as they were in\nthe Witch Hunt Forest. (You can enhance them as\nmany times as you want in the Witch Hunt Forest)"
                             ]
                         },
                         {

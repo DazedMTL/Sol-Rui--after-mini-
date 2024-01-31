@@ -17108,7 +17108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギがかけられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -17432,7 +17432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギがかけられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -17638,7 +17638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギがかけられている。"
+                                "It's locked."
                             ]
                         },
                         {

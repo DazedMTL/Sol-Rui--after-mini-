@@ -34154,7 +34154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "婬獄・マッ■ス◆ー※の扉に入りますか？"
+                                "Will you enter the door of the Lust Dungeon.\nMap■ss◆-※?"
                             ]
                         },
                         {
@@ -34162,8 +34162,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -35819,7 +35819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>んー、保健の先生いないみたいだね。"
+                                "\\n<Yuuki>Hmm, looks like the health teacher isn't here."
                             ]
                         },
                         {
@@ -35868,7 +35868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>とりあえずベッド借りちゃおうっか。"
+                                "\\n<Yuuki>For now, let's just borrow a bed."
                             ]
                         },
                         {
@@ -35924,7 +35924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>うん、ありがと……。"
+                                "\\n<Rui>Yeah, thanks..."
                             ]
                         },
                         {
@@ -35973,7 +35973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ほら、早く眠っちゃおう？"
+                                "\\n<Yuuki>Come on, let's get to sleep quickly, okay?"
                             ]
                         },
                         {
@@ -36029,7 +36029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>ねぇ、優樹。"
+                                "\\n<Rui>Hey, Yuuki."
                             ]
                         },
                         {
@@ -36078,7 +36078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>どうしたの？"
+                                "\\n<Yuuki>What's wrong?"
                             ]
                         },
                         {
@@ -36127,7 +36127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>優樹は、優樹だよね？"
+                                "\\n<Rui>Yuuki, you're Yuuki, right?"
                             ]
                         },
                         {
@@ -36190,14 +36190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>アハハ、どうしたの急に？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な瑠唯ちゃん。"
+                                "\\n<Yuuki>Ahaha, what's up all of a sudden? You're being\nweird, Rui-chan."
                             ]
                         },
                         {
@@ -36253,7 +36246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>ずっとね、違和感があるの。"
+                                "\\n<Rui>I've always felt this sense of discomfort."
                             ]
                         },
                         {
@@ -36298,21 +36291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>その違和感が強くなるほど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か……不思議な暖かいものが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を探しているのを感じるの。"
+                                "\\n<Rui>The stronger that feeling gets... something...\nsome mysterious warmth... I feel like it's\nsearching for me."
                             ]
                         },
                         {
@@ -36389,21 +36368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>瑠唯ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えちゃダメ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は眠って、ね？"
+                                "\\n<Yuuki>Rui-chan, don't think about it. Just sleep for\nnow, okay?"
                             ]
                         },
                         {
@@ -36431,14 +36396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>考えたくて考えてるんじゃないの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに、私を探しているの。"
+                                "\\n<Rui>It's not that I want to think about it... but it's\ndefinitely searching for me."
                             ]
                         },
                         {
@@ -36541,7 +36499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>？？？"
+                                "\\n<Rui>???"
                             ]
                         },
                         {
@@ -36597,14 +36555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>さぁ、楽になろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝ればそんな違和感全部なくなるよ。"
+                                "\\n<Yuuki>Let's relax, shall we? If you sleep, all that\ndiscomfort will go away."
                             ]
                         },
                         {
@@ -36653,7 +36604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>来た。"
+                                "\\n<Rui>It's here."
                             ]
                         },
                         {
@@ -36695,7 +36646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>来たって……？"
+                                "\\n<Yuuki>What do you mean 'it's here'...?"
                             ]
                         },
                         {
@@ -36873,14 +36824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ちょ。ちょっと瑠唯ちゃん急にどうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スピリチュアルに目覚めちゃったの？"
+                                "\\n<Yuuki>Whoa, whoa, what's going on all of a sudden, Rui-\nchan? Did you have a spiritual awakening or\nsomething?"
                             ]
                         },
                         {
@@ -36922,7 +36866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>私のなにかが……近づいてくる。"
+                                "\\n<Rui>Something of mine is... coming closer."
                             ]
                         },
                         {
@@ -37089,21 +37033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>だめだよ瑠唯ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ絶対大人になった後に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふと思い出して頭抱えるやつだよ！"
+                                "\\n<Yuuki>No, Rui-chan! That's definitely something you'll\nremember when you're older and just facepalm!"
                             ]
                         },
                         {
@@ -37120,14 +37050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ただの女子高生の瑠唯ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにか特別な力を感知できるはず無いんだから！"
+                                "\\n<Yuuki>There's no way an ordinary high school girl like\nRui-chan could sense any special powers!"
                             ]
                         },
                         {
@@ -37169,7 +37092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>ううん、たしかに感じる。"
+                                "\\n<Rui>No, I definitely feel it."
                             ]
                         },
                         {
@@ -37225,14 +37148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>……何かが、剥がれていってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと私を抑え込んでた、何かが。"
+                                "\\n<Rui>...Something is peeling away. Something that has\nalways been suppressing me."
                             ]
                         },
                         {
@@ -37466,14 +37382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>まずい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前は子宮から干渉できたけど今の状況じゃ……。"
+                                "\\n<Yuuki>This is bad... I used to be able to interfere from\nthe womb, but in this situation..."
                             ]
                         },
                         {
@@ -37511,14 +37420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>嘘でしょ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "幻夢永劫調教淫獄遊戯のルールを破る程なの？"
+                                "\\n<Yuuki>You can't be serious... You're breaking the rules\nof the Eternal Dream Training Hell Game?"
                             ]
                         },
                         {
@@ -37598,7 +37500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -37654,7 +37556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ねぇ、あなた誰？"
+                                "\\n<Rui>Hey, who are you?"
                             ]
                         },
                         {
@@ -37696,7 +37598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -37766,14 +37668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>何言ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は瑠唯ちゃんの親友の優樹だよ？"
+                                "\\n<Yuuki>What are you talking about? I'm Yuuki, Rui-chan's\nbest friend, remember?"
                             ]
                         },
                         {
@@ -37822,7 +37717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>だから私の言葉に違和感を持たないで━━"
+                                "\\n<Yuuki>So don't feel uncomfortable with my words━━"
                             ]
                         },
                         {
@@ -38151,7 +38046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>熱っつ！！？"
+                                "\\n<Yuuki>Hot!!?"
                             ]
                         },
                         {
@@ -38214,14 +38109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今の頭にヌルってまとわりつく感覚……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで私の違和感をなくしていたのね。"
+                                "\\n<Rui>That sensation just now that clung to my head...\nthat's what was eliminating my discomfort."
                             ]
                         },
                         {
@@ -38291,14 +38179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>……あ～ぁ、こうなっちゃったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にはどうしようもなさそうね。"
+                                "\\n<Yuuki>...Ah~, if it's come to this, there's nothing I\ncan do about it."
                             ]
                         },
                         {
@@ -38322,14 +38203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>淫紋付きなのに打ち破るとか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えぇ、そうね、特別なのね。"
+                                "\\n<Yuuki>Even with the lewd crest, you managed to break\nfree. Yeah, you really are special."
                             ]
                         },
                         {
@@ -38406,14 +38280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>まぁ、私みたいな三流じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チュベロス様みたいには行かないわ。"
+                                "\\n<Yuuki>Well, a third-rate like me can't do things the way\nTuberose-sama does."
                             ]
                         },
                         {
@@ -38462,7 +38329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>様……あいつの手下なのね。"
+                                "\\n<Rui>Sama... so you're one of his underlings."
                             ]
                         },
                         {
@@ -38514,14 +38381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>私の方で調教できたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご褒美もらえるとおもったんだけど……。"
+                                "\\n<Yuuki>I thought I'd get a reward if I could train you\nmyself..."
                             ]
                         },
                         {
@@ -38580,14 +38440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>うん、無理。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこの扉本来の【遊戯】に任せるわ。"
+                                "\\n<Yuuki>Yeah, it's impossible. So I'll leave it to the\noriginal \"game\" of this door."
                             ]
                         },
                         {
@@ -38650,7 +38503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>本来の？"
+                                "\\n<Rui>The original?"
                             ]
                         },
                         {
@@ -38713,7 +38566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>コホンッ"
+                                "\\n<Yuuki>*Ahem*"
                             ]
                         },
                         {
@@ -38802,14 +38655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ようこそマッドスクールへ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは少女を弄ぶ悪漢がはびこる迷宮校舎！"
+                                "\\n<Yuuki>Welcome to Mad School! This is a labyrinthine\nschool building where villains who toy with girls\nrun rampant!"
                             ]
                         },
                         {
@@ -38826,21 +38672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>クリア条件は単純。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[4]【校舎から脱出する】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]たったそれだけ親切設計！"
+                                "\\n<Yuuki>The clear condition is simple. \\C[4]【Escape from\nthe school building】\\C[0] That's all there is to\nit, a kind design!"
                             ]
                         },
                         {
@@ -38878,21 +38710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>当然普通の校舎の作りで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出口まで一直線なんてことはしません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しんでもらうため迷路になってるよ！"
+                                "\\n<Yuuki>Of course, it's not a straightforward school\nbuilding where you can just head straight to the\nexit! It's a maze designed for your enjoyment!"
                             ]
                         },
                         {
@@ -38937,21 +38755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>迷い込んだ女を捕らえて乱暴するため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪漢がいっぱいいる狂った迷路……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女は逃げられるかな！？"
+                                "\\n<Yuuki>A mad maze filled with villains who capture and\nravage lost girls... I wonder if you can escape!?"
                             ]
                         },
                         {
@@ -39014,14 +38818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>説明は以上。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご清聴ありがとうございました。"
+                                "\\n<Yuuki>That's all for the explanation. Thank you for\nlistening."
                             ]
                         },
                         {
@@ -39084,7 +38881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>最低な鬼ごっこって事ね。"
+                                "\\n<Rui>So it's a despicable game of tag."
                             ]
                         },
                         {
@@ -39140,21 +38937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ま、男に捕まっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気のあるうちは振り払えばいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それすらできない位に弱れば──"
+                                "\\n<Yuuki>Well, if you get caught by a man, you can just\nshake him off as long as you have the energy. But\nif you're too weak to even do that──"
                             ]
                         },
                         {
@@ -39171,21 +38954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>女を落とすための魔法が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無防備な子宮に直接叩き込まれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭を塗り替えられるって訳。"
+                                "\\n<Yuuki>Magic spells designed to subdue women will be\ndirectly hammered into your defenseless womb,\nrewriting your mind."
                             ]
                         },
                         {
@@ -39227,7 +38996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……悪趣味ね。"
+                                "\\n<Rui>...That's in poor taste."
                             ]
                         },
                         {
@@ -39297,14 +39066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>それはもう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "囚えた女を壊すための場所ですから。"
+                                "\\n<Yuuki>Indeed. It's a place designed to break captured\nwomen."
                             ]
                         },
                         {
@@ -39367,14 +39129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>目標がはっきりしてるのはいいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとクリアしてあげる。"
+                                "\\n<Rui>At least the goal is clear. I'll clear it quickly."
                             ]
                         },
                         {
@@ -39423,14 +39178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>そ。ご自由に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のステージは下の扉よ。"
+                                "\\n<Yuuki>Right. Feel free. The next stage is through the\ndoor below."
                             ]
                         },
                         {
@@ -39467,7 +39215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -39491,7 +39239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……所で。"
+                                "\\n<Rui>...By the way."
                             ]
                         },
                         {
@@ -39547,7 +39295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>なに？"
+                                "\\n<Yuuki>What?"
                             ]
                         },
                         {
@@ -39582,7 +39330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……服、どうしたらいいの？"
+                                "\\n<Rui>...What should I do about my clothes?"
                             ]
                         },
                         {
@@ -39631,21 +39379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>諦めなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな場所で脱いだんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "返ってくるわけないでしょ。"
+                                "\\n<Yuuki>Give up. There's no way they're coming back after\nyou took them off in a place like this."
                             ]
                         },
                         {
@@ -39687,21 +39421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>それに、腕を抱えたまま逃げるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かなり負担になると思うわよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、自ら捕まりたいなら構わないけど。"
+                                "\\n<Yuuki>Besides, running away while holding your arms like\nthat is going to be quite a burden, don't you\nthink? Well, if you want to be caught on purpose,\nI don't mind."
                             ]
                         },
                         {
@@ -39729,7 +39449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -40152,14 +39872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>下の扉から出たら遊戯は開始だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ってね。"
+                                "\\n<Yuuki>Once you exit through the door below, the game\nwill begin. Good luck."
                             ]
                         },
                         {
@@ -40480,7 +40193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -40543,21 +40256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>まだ何か用？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉の攻略を諦めて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の洗脳を受ける気になった？"
+                                "\\n<Yuuki>Do you still need something? Have you given up on\nconquering the door and decided to succumb to my\nbrainwashing?"
                             ]
                         },
                         {
@@ -40613,14 +40312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ねぇ、もう正体バレているんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その格好やめない？"
+                                "\\n<Rui>Hey, now that your true identity is revealed, why\ndon't you stop with that disguise?"
                             ]
                         },
                         {
@@ -40690,7 +40382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>あ、そういう……。"
+                                "\\n<Yuuki>Ah, about that..."
                             ]
                         },
                         {
@@ -40735,21 +40427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>悪いけど無理。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の姿は強制的に象られてるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の親しい友人の記憶をもとにしてね。"
+                                "\\n<Yuuki>Sorry, but it's impossible. My appearance is being\nforcibly projected. It's based on the memories of\nsomeone close to you."
                             ]
                         },
                         {
@@ -40805,7 +40483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そう……ならいいわ。"
+                                "\\n<Rui>I see... then that's fine."
                             ]
                         },
                         {
@@ -40861,14 +40539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>わかってくれた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ、いってらっしゃい。"
+                                "\\n<Yuuki>Do you understand? Well then, take care."
                             ]
                         },
                         {
@@ -41231,14 +40902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>早く遊戯に挑戦しなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで私と話してても何も進まないよ？"
+                                "\\n<Yuuki>Hurry up and challenge the game. Talking to me\nhere won't get you anywhere, you know?"
                             ]
                         },
                         {
@@ -41287,14 +40951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ねぇ、あなたはこの術の中に住んでるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この空間ってどういう理屈なの？"
+                                "\\n<Rui>Hey, do you live within this magic? What's the\nprinciple behind this space?"
                             ]
                         },
                         {
@@ -41357,14 +41014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>……この空間？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、まぁ、心配になるよね。"
+                                "\\n<Yuuki>...This space? Ah, well, it's natural to be\nconcerned."
                             ]
                         },
                         {
@@ -41430,14 +41080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>幻影とか夢の世界じゃないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今貴女の目に映るモノは本物だから安心して。"
+                                "\\n<Yuuki>It's not an illusion or a dream world. Everything\nyou see with your eyes right now is real, so rest\nassured."
                             ]
                         },
                         {
@@ -41468,14 +41111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>だからここで死ねばちゃんと死ぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、死んだら即蘇生されるけどね。"
+                                "\\n<Yuuki>So if you die here, you really die. Well, you'll\nbe revived immediately though."
                             ]
                         },
                         {
@@ -41527,14 +41163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>もちろんエッチに調教されれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと貴女はスケベな雌犬のままよ。"
+                                "\\n<Yuuki>Of course, if you're trained in lewd ways, you'll\ntruly remain a lewd bitch."
                             ]
                         },
                         {
@@ -41571,14 +41200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>そのおっきくなったおっぱいも本物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正真正銘、貴女のものよ。"
+                                "\\n<Yuuki>Those big breasts of yours are also real. Truly\nand genuinely yours."
                             ]
                         },
                         {
@@ -41637,7 +41259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……そう、ここは現実なのね。"
+                                "\\n<Rui>...I see, so this is reality."
                             ]
                         },
                         {
@@ -41693,21 +41315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>場所は……詳しくはわかんないかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分だけどチュベロス様本人も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくわかってないんじゃないかな。"
+                                "\\n<Yuuki>The place is... I don't know the details. Maybe\neven Lord Tuberose himself doesn't fully\nunderstand it."
                             ]
                         },
                         {
@@ -41763,7 +41371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……そんなものずっと使ってるの？"
+                                "\\n<Rui>...You've been using such a thing all this time?"
                             ]
                         },
                         {
@@ -41826,7 +41434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>貴女のソルの力も大概でしょ。"
+                                "\\n<Yuuki>Your Sol power is quite something too, isn't it?"
                             ]
                         },
                         {
@@ -41882,7 +41490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……それは……そうだけど。"
+                                "\\n<Rui>...That's... true, but."
                             ]
                         },
                         {
@@ -41945,14 +41553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>幻夢永劫調教淫獄遊戯は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廊下と遊戯をモチーフにした術だからね……"
+                                "\\n<Yuuki>The Eternal Illusionary Training Hell Game is a\nspell based on corridors and games..."
                             ]
                         },
                         {
@@ -41969,21 +41570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>永遠と錯覚する誰もいない回廊。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉の先はすべて地獄のような空間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊戯と名ばかりの一方的な暴力。"
+                                "\\n<Yuuki>An empty corridor that makes you feel like it's\neternal. Beyond every door lies a hellish space. A\nso-called game that's nothing but one-sided\nviolence."
                             ]
                         },
                         {
@@ -42028,14 +41615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>これらの情景を並べて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女はどういう状況、どういう人物を想像する？"
+                                "\\n<Yuuki>Lining up these scenes. What kind of situation,\nwhat kind of person do you imagine?"
                             ]
                         },
                         {
@@ -42107,14 +41687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に何の話？"
+                                "\\n<Rui>...??? What are you talking about all of a sudden?"
                             ]
                         },
                         {
@@ -42191,14 +41764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここがロクデモない場所だって話よ。"
+                                "\\n<Yuuki>Don't worry about it. Just saying that this place\nis no good at all."
                             ]
                         },
                         {
@@ -42261,7 +41827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そう？"
+                                "\\n<Rui>Is that so?"
                             ]
                         },
                         {
@@ -42310,21 +41876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>さぁさぁ、いいから行ってきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の親友の優樹ちゃんの感情に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひっぱられて色々親切に答えてあげたわよ。"
+                                "\\n<Yuuki>Now, now, just go ahead. I've kindly answered all\nsorts of questions out of consideration for your\ndear friend Yuuki-chan's feelings."
                             ]
                         },
                         {
@@ -42387,7 +41939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そうね……ありがとう。"
+                                "\\n<Rui>Right... thank you."
                             ]
                         },
                         {
@@ -42450,7 +42002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>なーに、未来の先輩からの老婆心ってやつよ。"
+                                "\\n<Yuuki>What-what, just consider it advice from a senior\nin the future."
                             ]
                         },
                         {
@@ -42839,7 +42391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>いいから行きなって。"
+                                "\\n<Yuuki>Just go already."
                             ]
                         },
                         {
@@ -42888,7 +42440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>最後に一つだけいい？"
+                                "\\n<Rui>Can I ask just one last thing?"
                             ]
                         },
                         {
@@ -42965,7 +42517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>ええ～……もう、なによ。"
+                                "\\n<Yuuki>Ugh... what is it now?"
                             ]
                         },
                         {
@@ -43007,14 +42559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>この術を打ち破ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの目玉が死ぬってホント？"
+                                "\\n<Rui>Is it true that if we break that spell, the\neyeball will die?"
                             ]
                         },
                         {
@@ -43084,7 +42629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>打ち破られたこと無いから知らないけど。"
+                                "\\n<Yuuki>It's never been broken before, so I don't know."
                             ]
                         },
                         {
@@ -43140,7 +42685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>言われてみれば確かに……。"
+                                "\\n<Rui>Now that you mention it, that makes sense..."
                             ]
                         },
                         {
@@ -43168,14 +42713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>コレだけ法外な術なんだもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少なからず無事で済まないわよ。"
+                                "\\n<Yuuki>With a spell as outrageous as this one, there's no\nway it would end without consequences."
                             ]
                         },
                         {
@@ -43220,14 +42758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>それに嘘だとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "開放された貴女なら力でどうにかできるでしょ？"
+                                "\\n<Yuuki>Besides, even if it's a lie, you, having been\nfreed, should be able to do something about it\nwith your power, right?"
                             ]
                         },
                         {
@@ -43283,14 +42814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嘘だと考えてたほうがよさそうね。"
+                                "\\n<Rui>I see... It's probably better to assume it's a\nlie."
                             ]
                         },
                         {
@@ -43360,14 +42884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>フフ、な～んてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の考えだと嘘の可能性はゼロよ。"
+                                "\\n<Yuuki>Hehe, just kidding. In my opinion, there's zero\nchance it's a lie."
                             ]
                         },
                         {
@@ -43405,21 +42922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>ま、本人も知らないパターンはあるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その場合は死んだほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マシな状況が待ってるでしょうけど。"
+                                "\\n<Yuuki>Well, there is a possibility that the person\nthemselves doesn't know. In that case, a fate\nworse than death might be waiting."
                             ]
                         },
                         {
@@ -43482,7 +42985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>すごい自信ね。"
+                                "\\n<Rui>That's quite confident of you."
                             ]
                         },
                         {
@@ -43538,7 +43041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>あの人は素直だから。"
+                                "\\n<Yuuki>That person is honest, after all."
                             ]
                         },
                         {
@@ -43594,7 +43097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>素直って……。"
+                                "\\n<Rui>Honest...?"
                             ]
                         },
                         {
@@ -43643,7 +43146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>頭から人を騙せるほど肝が座ってないのよ。"
+                                "\\n<Yuuki>They don't have the guts to deceive someone\noutright."
                             ]
                         },
                         {
@@ -43681,14 +43184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>あんな異形になっても子供のままなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふふ……可愛いでしょ？"
+                                "\\n<Yuuki>Even after becoming such a grotesque form, they're\nstill just a child at heart. Fufu... Isn't that\ncute?"
                             ]
                         },
                         {
@@ -43744,7 +43240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>もしかして、好きなの？"
+                                "\\n<Rui>Could it be that you like them?"
                             ]
                         },
                         {
@@ -43807,14 +43303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>好きよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪い？"
+                                "\\n<Yuuki>I do like them. Is that a problem?"
                             ]
                         },
                         {
@@ -43863,7 +43352,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>えっと……悪くはないけど。"
+                                "\\n<Rui>Uh... no, not at all."
                             ]
                         },
                         {
@@ -43933,21 +43422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……ってそうじゃなくて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞きたいことだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もし目玉の術を破ったらあなたも消えるの？"
+                                "\\n<Rui>...That's not what I meant! What I wanted to ask\nis, if the eyeball's spell is broken, will you\ndisappear too?"
                             ]
                         },
                         {
@@ -43989,7 +43464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>消えるでしょうね。"
+                                "\\n<Yuuki>I suppose I will disappear, yes."
                             ]
                         },
                         {
@@ -44038,7 +43513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>そう……。"
+                                "\\n<Rui>I see..."
                             ]
                         },
                         {
@@ -44094,14 +43569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>あぁ、こっちの世界で囚えた人たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ皆生きてるから開放されると思うわよ。"
+                                "\\n<Yuuki>Ah, but the people captured in this world are all\nstill alive, so I think they'll be released."
                             ]
                         },
                         {
@@ -44150,14 +43618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>生きてる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイツは何人か死んだって。"
+                                "\\n<Rui>Alive? But he said some of them had died."
                             ]
                         },
                         {
@@ -44199,21 +43660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>それは嘘ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、死んだも同然の子もいるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正直貴女なら治せると思うわ。"
+                                "\\n<Yuuki>That's a lie. Well, there are some who might as\nwell be dead, but honestly, I think you could heal\nthem."
                             ]
                         },
                         {
@@ -44255,7 +43702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なんでそんな無意味なウソを……。"
+                                "\\n<Rui>Why would they tell such a pointless lie..."
                             ]
                         },
                         {
@@ -44311,21 +43758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>そうね……ただの予想だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どこかの誰かさんの魔力が強すぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いざ前にでたらテンパったんじゃないかしら？"
+                                "\\n<Yuuki>Well... it's just a guess, but maybe someone's\nmagic power was too strong and they panicked when\nconfronted?"
                             ]
                         },
                         {
@@ -44381,7 +43814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -44430,21 +43863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>入念に計画を立ててたくせに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビビって適当なこと言っちゃうのよ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ね……かわいいでしょ？"
+                                "\\n<Yuuki>Despite having carefully planned everything, they\ngot scared and blurted out something random...\nright... isn't that cute?"
                             ]
                         },
                         {
@@ -44493,7 +43912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -44549,21 +43968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>ま、罪もない女の子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうして私達が話している間も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どこかで犯されてアンアン喘いでるって話よ。"
+                                "\\n<Yuuki>Anyway, innocent girls are being violated and\nmoaning somewhere while we're having this\nconversation."
                             ]
                         },
                         {
@@ -44619,14 +44024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>そうね、それは重要なことだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "教えてくれてありがとう。"
+                                "\\n<Rui>Yes, that's an important point. Thank you for\ntelling me."
                             ]
                         },
                         {
@@ -44703,14 +44101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<優樹>うんうん、やる気になって何より。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほらさっさと行った行った。"
+                                "\\n<Yuuki>Mhm mhm, glad to see you're motivated. Now off you\ngo, hurry up."
                             ]
                         },
                         {
@@ -44800,7 +44191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -44849,7 +44240,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>……最後に聞きたいこと一つ。じゃなかったの？"
+                                "\\n<Yuuki>...Wasn't there just one last thing you wanted to\nask?"
                             ]
                         },
                         {
@@ -44905,14 +44296,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>えっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ごめん、気になってることがあって。"
+                                "\\n<Rui>Uh... sorry, there's something on my mind."
                             ]
                         },
                         {
@@ -44975,7 +44359,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>……なによ。"
+                                "\\n<Yuuki>...What is it?"
                             ]
                         },
                         {
@@ -45024,14 +44408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>あなたってもしかして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目玉に囚われた女性なんじゃないの？"
+                                "\\n<Rui>Are you by any chance one of the women captured by\nthe eyeball?"
                             ]
                         },
                         {
@@ -45087,7 +44464,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>それがどうしたの？"
+                                "\\n<Yuuki>What about it?"
                             ]
                         },
                         {
@@ -45136,14 +44513,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>いや、どうしたもなにも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あなたも助けられるならって……"
+                                "\\n<Rui>Well, it's not about what... If you can be saved\nas well..."
                             ]
                         },
                         {
@@ -45192,7 +44562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>なぁるほどぉ～……　……余計なお世話よ。"
+                                "\\n<Yuuki>I see... Mind your own business."
                             ]
                         },
                         {
@@ -45241,7 +44611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>え？"
+                                "\\n<Rui>Eh?"
                             ]
                         },
                         {
@@ -45297,7 +44667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>貴女に恋人ができないのがよく分かったわ。"
+                                "\\n<Yuuki>It's clear why you don't have a boyfriend."
                             ]
                         },
                         {
@@ -45360,7 +44730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>え\"ッ！？"
+                                "\\n<Rui>Eh\"!?"
                             ]
                         },
                         {
@@ -45416,7 +44786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>つまり、典型的なめんどくさい女よ！"
+                                "\\n<Yuuki>In other words, you're a typical pain-in-the-ass\nwoman!"
                             ]
                         },
                         {
@@ -45479,7 +44849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>そ、そうだったの……。"
+                                "\\n<Rui>Is that so..."
                             ]
                         },
                         {
@@ -45528,14 +44898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>この優樹ってコは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "面倒見るのが好きなタイプみたいだけど……"
+                                "\\n<Yuuki>This Yuuki might like to take care of others..."
                             ]
                         },
                         {
@@ -45598,14 +44961,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>男はそうは行かないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そんなのじゃ身体目当てのクズしか来ないわよ！"
+                                "\\n<Yuuki>But men are different! With that attitude, you'll\nonly attract scumbags who are after one thing!"
                             ]
                         },
                         {
@@ -45661,7 +45017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……か、身体目当て……。"
+                                "\\n<Rui>...After one thing..."
                             ]
                         },
                         {
@@ -45724,21 +45080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<優樹>覚えておきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いい女ってのはね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "可愛いだけじゃダメなのよ。"
+                                "\\n<Yuuki>Remember this. A good woman isn't just cute,\nthat's not enough."
                             ]
                         },
                         {
@@ -45828,7 +45170,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -45845,7 +45187,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……　……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -45862,7 +45204,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……　……　……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -45907,7 +45249,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……流石にもういいでしょ？行きなよ。"
+                                "\\n<Yuuki>...You've had enough, right? Go on, get going."
                             ]
                         },
                         {
@@ -45960,7 +45302,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -45977,7 +45319,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……　……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -46008,7 +45350,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>……　……　……。"
+                                "\\n<Yuuki>..."
                             ]
                         },
                         {
@@ -46046,7 +45388,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>貴女。ちょっとこっちに来なさい。"
+                                "\\n<Yuuki>You there. Come here for a second."
                             ]
                         },
                         {
@@ -46095,7 +45437,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>？？"
+                                "\\n<Rui>??"
                             ]
                         },
                         {
@@ -47140,7 +46482,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<優樹>１名様ごあんなぁぁぁい！！！"
+                                "\\n<Yuuki>Table for one, pleaseeeee!!!"
                             ]
                         },
                         {
@@ -47369,28 +46711,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　永遠と錯覚する誰もいない回廊。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　扉の先はすべて地獄のような空間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　遊戯と名ばかりの一方的な暴力。"
+                                "An eternal corridor that tricks the mind into\nillusion. Beyond the doors lies a hellish space. A\nso-called game of one-sided violence."
                             ]
                         },
                         {
@@ -47407,21 +46728,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　これらの情景を並べて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　貴女はどういう状況、どういう人物を想像する？"
+                                "Laying out these scenes, what kind of situation,\nwhat kind of person do you imagine?"
                             ]
                         },
                         {
@@ -47449,21 +46756,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　家に帰れず、扉の外で一人、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　遊びに憧れ、暴力しか知らない孤独な少年。"
+                                "A lonely boy who can't return home, standing\noutside the door, yearning for playtime, knowing\nonly violence."
                             ]
                         },
                         {
@@ -47491,21 +46784,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　ええ、ああ、そうね、解ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　こんなの自分の心を守るための妄想。"
+                                "Yes, ah, I see, I understand. Such fantasies are\njust to protect one's own heart."
                             ]
                         },
                         {
@@ -47522,21 +46801,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　罪人同士の自己正当化。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　めんどくさい女は私のほう。"
+                                "Mutual justification among sinners. The pain-in-\nthe-ass woman is me."
                             ]
                         },
                         {
@@ -47553,21 +46818,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　ただ少しだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　ええ、そう、正直、思わなくはない。"
+                                "Just a little bit. Yes, honestly, I can't say I\ndon't think about it."
                             ]
                         },
                         {
@@ -47584,14 +46835,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　終わらせて欲しい。"
+                                "I want it to end."
                             ]
                         },
                         {
@@ -47899,7 +47143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>ただのロッカーね──"
+                                "\\n<Rui>Just a regular locker──"
                             ]
                         },
                         {
@@ -48008,7 +47252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>……コレに入るの？"
+                                "\\n<Rui>...Am I supposed to get in this?"
                             ]
                         },
                         {
@@ -48045,14 +47289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<瑠唯>すごく見覚えがあるんだけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……なんだっけ。"
+                                "\\n<Rui>I feel like I've seen this before... What was it\nagain?"
                             ]
                         },
                         {
@@ -48132,14 +47369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>さささ！瑠唯ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃっと入って、ぼきゅんになっちゃお♡"
+                                "\\n<Yuuki>Sasa! Rui-chan! Hurry up and get in, and let's get\ncozy♡"
                             ]
                         },
                         {
@@ -48167,7 +47397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>そ、そう……わかったわ。"
+                                "\\n<Rui>S-So... I understand."
                             ]
                         },
                         {
@@ -48452,14 +47682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<瑠唯>あ……この匂い知ってる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだかドキドキする……。"
+                                "\\n<Rui>Ah... I know this smell... It's making my heart\nrace..."
                             ]
                         },
                         {
@@ -48486,14 +47709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<瑠唯>甘い匂い……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだろう、ドキドキする……。"
+                                "\\n<Rui>A sweet smell... What is it, it's making my heart\nrace..."
                             ]
                         },
                         {
@@ -48614,7 +47830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -48765,7 +47981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>どうぞ♡"
+                                "\\n<Yuuki>Please♡"
                             ]
                         },
                         {
@@ -48793,7 +48009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<瑠唯>うん……。"
+                                "\\n<Rui>Yeah..."
                             ]
                         },
                         {
@@ -49078,14 +48294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<瑠唯>あ……この匂い知ってる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだかドキドキする……。"
+                                "\\n<Rui>Ah... I know this scent... It's somehow making my\nheart race..."
                             ]
                         },
                         {
@@ -49112,14 +48321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<瑠唯>甘い匂い……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだろう、ドキドキする……。"
+                                "\\n<Rui>A sweet smell... What is it, it's making my heart\nrace..."
                             ]
                         },
                         {

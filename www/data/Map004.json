@@ -13554,7 +13554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<>ふふーーん。"
+                                "\\n<>Hehe--hmm."
                             ]
                         },
                         {
@@ -13710,14 +13710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>久しぶりに着てみたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ私もイケちゃうのでは～？"
+                                "\\n<Yuuki>It's been a while since I wore this, but I think I\ncan still pull it off, right~?"
                             ]
                         },
                         {
@@ -13762,14 +13755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>今度ルイちゃんに高校の頃の制服合わせとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘ってみようかなー？"
+                                "\\n<Yuuki>Maybe next time I'll invite Rui-chan to do a high\nschool uniform matching thing-?"
                             ]
                         },
                         {
@@ -13800,21 +13786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>校舎の貸し切りって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画とかで見たことあるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらぐらいするんだろう……。"
+                                "\\n<Yuuki>I've seen videos of people renting out school\nbuildings, but I wonder how much that costs..."
                             ]
                         },
                         {
@@ -13852,21 +13824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>でも校舎と制服じゃぁひねりがないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそ、校舎借りるなら人いっぱい誘って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "和装合わせとかいいかも！"
+                                "\\n<Yuuki>But just a school building and uniforms might lack\na twist, right? If we're going to rent a place,\nmaybe inviting a bunch of people and doing a\nJapanese-style clothing match would be cool!"
                             ]
                         },
                         {
@@ -13918,14 +13876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>それにしても返事遅いなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイちゃんまた一人で旅行行ってるのかな？"
+                                "\\n<Yuuki>Speaking of which, she's slow to reply... Maybe\nRui-chan went on a trip by herself again?"
                             ]
                         },
                         {
@@ -13953,21 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テレビの音声>こちらが最近の若い女性を狙った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大量誘拐事件ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被害者と思わしき方たちの名前です。"
+                                "\\n<Tv Audio>This is the recent mass abduction case targeting\nyoung women, and here are the names of those who\nare believed to be victims."
                             ]
                         },
                         {
@@ -14111,14 +14048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>うへぇ～……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう何十人もいなくなってるんだっけ？"
+                                "\\n<Yuuki>Ugh... Haven't dozens of people gone missing\nalready?"
                             ]
                         },
                         {
@@ -14146,21 +14076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テレビの音声>もし事件と関係なく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お名前が載ってるご本人や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご一緒にいる方は事件整理のために警察に連絡を──"
+                                "\\n<Tv Audio>If you are not involved in the incident and your\nname appears here, or if you are with someone\nwhose name is listed, please contact the police\nfor case organization──"
                             ]
                         },
                         {
@@ -14216,7 +14132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>うわ、すごー……また増えてる。"
+                                "\\n<Yuuki>Wow, that's crazy... The number has increased\nagain."
                             ]
                         },
                         {
@@ -14247,7 +14163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>……？"
+                                "\\n<Yuuki>...?"
                             ]
                         },
                         {
@@ -14292,7 +14208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>……何で、”ソコ”に"
+                                "\\n<Yuuki>...Why is \"that\" place"
                             ]
                         },
                         {
@@ -14337,7 +14253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<優樹>ルイちゃんの名前が？"
+                                "\\n<Yuuki>listing Rui-chan's name?"
                             ]
                         },
                         {

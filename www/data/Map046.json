@@ -9534,21 +9534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫獄・魔狩りの森について>ルイが過去に訪れた【ルーツ】という異世界の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物たちを退けながら進み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスを討伐すればクリアです。"
+                                "\\n<About The Forest Of Carnal Hell>Demon Huntress: Rui must advance through the\notherworldly realm known as \"Roots,\" fending off\nthe demons she has encountered in the past, and\nclear the game by defeating the boss."
                             ]
                         },
                         {
@@ -9565,14 +9551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫獄・魔狩りの森について>ルイが敗北しても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最終的にはチュベロスの元へ送還されます。"
+                                "\\n<About The Forest Of Carnal Hell>Demon Huntress: Even if Rui is defeated, she will\nultimately be sent back to Tuberose."
                             ]
                         },
                         {
@@ -9589,21 +9568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<システム>一度でクリアするのは困難でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道中のステータスUPアイテムなど入手し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイを強化していきましょう。"
+                                "\\n<System>It will be difficult to clear it in one go.\nCollect status-boosting items along the way and\nstrengthen Rui."
                             ]
                         },
                         {
@@ -9672,7 +9637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<システム>説明をもう一度見ますか？"
+                                "\\n<System>Would you like to see the explanation again?"
                             ]
                         },
                         {
@@ -9680,8 +9645,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9773,7 +9738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>よし……行くわよ！"
+                                "\\n<Rui>Alright... let's go!"
                             ]
                         },
                         {
@@ -10485,21 +10450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫獄・魔狩りの森について>ルイが過去に訪れた【ルーツ】という異世界の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物たちを退けながら進み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスを討伐すればクリアです。"
+                                "\\n<About The Forest Of Carnal Hell>Demon Huntress: Rui must advance through the\notherworldly realm known as \"Roots\" she visited in\nthe past, fending off demons along the way, and\nclear the game by defeating the boss."
                             ]
                         },
                         {
@@ -10516,14 +10467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫獄・魔狩りの森について>ルイが敗北しても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最終的にはチュベロスの元へ送還されます。"
+                                "\\n<About The Forest Of Carnal Hell>Demon Huntress: Even if Rui is defeated, she will\nultimately be sent back to Tuberose."
                             ]
                         },
                         {
@@ -10540,21 +10484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<システム>一度でクリアするのは困難でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道中のステータスUPアイテムなど入手し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイを強化していきましょう。"
+                                "\\n<System>It will be difficult to clear it in one go.\nCollect status upgrade items along the way and\nstrengthen Rui."
                             ]
                         },
                         {
@@ -10623,7 +10553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<システム>説明をもう一度見ますか？"
+                                "\\n<System>Would you like to see the explanation again?"
                             ]
                         },
                         {
@@ -10631,8 +10561,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10724,7 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>よし……行くわよ！"
+                                "\\n<Rui>Alright... Let's go!"
                             ]
                         },
                         {

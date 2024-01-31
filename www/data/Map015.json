@@ -8999,7 +8999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>どうぞ、好きな扉を選んで下さい。"
+                                "\\n<Tuberose>Please, choose any door you like."
                             ]
                         },
                         {
@@ -9023,7 +9023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>それとも私を直接殺しますか？"
+                                "\\n<Tuberose>Or would you rather kill me directly?"
                             ]
                         },
                         {
@@ -9065,14 +9065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>悪くない提案だけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌な予感がするからやめておく。"
+                                "\\n<Rui>It's not a bad suggestion... but I have a bad\nfeeling about it, so I'll pass."
                             ]
                         },
                         {
@@ -9121,7 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>それは残念。"
+                                "\\n<Tuberose>That's unfortunate."
                             ]
                         },
                         {
@@ -9184,7 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>何ニヤニヤしてんのよ。"
+                                "\\n<Rui>What are you smirking about?"
                             ]
                         },
                         {
@@ -9233,7 +9226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>い～え～？べ～つに～？"
+                                "\\n<Tuberose>Oh? Nooo~thing~?"
                             ]
                         },
                         {
@@ -9291,7 +9284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>コレ、もう一発殴っても許されるんじゃない？"
+                                "\\n<Rui>This, I could probably get away with hitting you\none more time, right?"
                             ]
                         },
                         {
@@ -9359,7 +9352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>何かムカつく。"
+                                "\\n<Rui>Something's irritating."
                             ]
                         },
                         {
@@ -9367,8 +9360,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "一発殴る",
-                                    "やめとく"
+                                    "Punch him once",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -9432,7 +9425,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>てい。"
+                                "\\n<Rui>There."
                             ]
                         },
                         {
@@ -9474,7 +9467,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>あイタ！？"
+                                "\\n<Tuberose>Ouch!?"
                             ]
                         },
                         {
@@ -9523,7 +9516,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>え？な、なんです？"
+                                "\\n<Tuberose>Eh? What is it?"
                             ]
                         },
                         {
@@ -9551,7 +9544,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>ううん、なんかムカついたから。"
+                                "\\n<Rui>Nah, just felt like something was annoying."
                             ]
                         },
                         {
@@ -9600,7 +9593,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>そ、そうですか……。"
+                                "\\n<Tuberose>Is that so..."
                             ]
                         },
                         {
@@ -9682,7 +9675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>何かムカつく。"
+                                "\\n<Rui>Something's irritating."
                             ]
                         },
                         {
@@ -9876,7 +9869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "婬獄・ラビットハウスの扉に入りますか？"
+                                "Will you enter the door of the Lewd Prison. Rabbit\nHouse?"
                             ]
                         },
                         {
@@ -9884,8 +9877,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11432,7 +11425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "婬獄・マッドスクールの扉に入りますか？"
+                                "Will you enter the doors of the Lustful Prison Mad\nSchool?"
                             ]
                         },
                         {
@@ -11440,8 +11433,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11916,7 +11909,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どこから開始しますか？"
+                                "Where would you like to start from?"
                             ]
                         },
                         {
@@ -11924,9 +11917,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "教室から",
-                                    "保健室の外から",
-                                    "キャンセル"
+                                    "Start from the classroom",
+                                    "From outside the infirmary",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -12927,7 +12920,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どこから開始しますか？"
+                                "Where would you like to start from?"
                             ]
                         },
                         {
@@ -12935,10 +12928,10 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "教室から",
-                                    "保健室の外から",
-                                    "玄関から",
-                                    "キャンセル"
+                                    "From the classroom",
+                                    "From outside the infirmary",
+                                    "From the entrance",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -14052,7 +14045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "婬獄・ゴブリンの巣の扉に入りますか？"
+                                "Will you enter the door to the Goblin's Den?"
                             ]
                         },
                         {
@@ -14060,8 +14053,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14523,7 +14516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫獄・魔狩りの森の扉に入りますか？"
+                                "Will you enter the door to the Forest of the Witch\nHunt in the Lust Dungeon?"
                             ]
                         },
                         {
@@ -14531,8 +14524,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16291,7 +16284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "陰毛の変更を行います。"
+                                "Changing pubic hair."
                             ]
                         },
                         {
@@ -16299,9 +16292,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はえてる",
-                                    "はえてない",
-                                    "キャンセル"
+                                    "Grown out",
+                                    "Not grown in",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -16586,7 +16579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体的特徴を変更できます。"
+                                "You can change physical features."
                             ]
                         },
                         {
@@ -16594,9 +16587,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "胸のサイズを変更",
-                                    "陰毛の有無を変更",
-                                    "キャンセル"
+                                    "Change breast size",
+                                    "Change the presence of pubic hair",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -16617,10 +16610,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "本来の大きさに変更",
-                                    "巨乳に変更",
-                                    "爆乳に変更",
-                                    "キャンセル"
+                                    "Change to the original size",
+                                    "Change to big breasts",
+                                    "Change to huge breasts",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -16851,7 +16844,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの何も理解できない状況で胸を弄ばれた……"
+                                "Rui's breasts were fondled in a situation she\ncouldn't understand at all..."
                             ]
                         },
                         {
@@ -17082,7 +17075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの何も理解できない状況で胸を弄ばれた……"
+                                "Rui's breasts were fondled in a situation she\ncouldn't understand at all..."
                             ]
                         },
                         {
@@ -17313,7 +17306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイの何も理解できない状況で胸を弄ばれた……"
+                                "Rui's breasts were fondled in a situation she\ncouldn't understand at all..."
                             ]
                         },
                         {
@@ -17357,9 +17350,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はえてる",
-                                    "はえてない",
-                                    "キャンセル"
+                                    "It's growing",
+                                    "Not grown yet",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -17534,7 +17527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -17653,7 +17646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>？？？"
+                                "\\n<Rui>???"
                             ]
                         },
                         {
@@ -17858,7 +17851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>着替えようかしら……？"
+                                "\\n<Rui>Should I change clothes...?"
                             ]
                         },
                         {
@@ -17866,8 +17859,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17922,7 +17915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>そうしましょう。"
+                                "\\n<Rui>Let's do that."
                             ]
                         },
                         {
@@ -17977,7 +17970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>今はいいかな。"
+                                "\\n<Rui>Maybe not right now."
                             ]
                         },
                         {
@@ -19540,7 +19533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -19657,7 +19650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……ここは。"
+                                "\\n<Rui>...where is this?"
                             ]
                         },
                         {
@@ -19720,7 +19713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -19810,7 +19803,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……っ！？"
+                                "\\n<Rui>...huh!?"
                             ]
                         },
                         {
@@ -19859,7 +19852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>うそ……おっぱいが本当に大きくなってる。"
+                                "\\n<Rui>No way... my breasts have really gotten bigger."
                             ]
                         },
                         {
@@ -19940,7 +19933,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -19996,7 +19989,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>！！！"
+                                "\\n<Rui>！！！"
                             ]
                         },
                         {
@@ -20045,7 +20038,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -20073,7 +20066,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -20115,7 +20108,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -20171,7 +20164,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>ッッ！！！"
+                                "\\n<Rui>Ahhh！！！"
                             ]
                         },
                         {
@@ -20254,7 +20247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>私はまだ負けていないわ……ッ。"
+                                "\\n<Rui>I haven't lost yet..."
                             ]
                         },
                         {
@@ -20358,14 +20351,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "幻夢永劫調教淫獄遊戯とのパスが強くなりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（黄色い魔方陣で胸のサイズ変更可能）"
+                                "Your path through the Eternal Illusionary Sexual\nTraining Hell Game has strengthened. (Breast size\ncan be changed with a yellow magic circle)"
                             ]
                         },
                         {
@@ -20581,7 +20567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "難易度調整ができます。"
+                                "You can adjust the difficulty."
                             ]
                         },
                         {
@@ -20598,21 +20584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<■難易度\\C[11]【casual：カジュアル】\\C[0]■>QTEの緩和や特定のステータス値変更、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "MAPの照明などが明るく成る等、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところどころプレイしやすくなります。"
+                                "\\n<■Difficulty \\C[11]【Casual】\\C[0]■>Eases QTEs, changes certain status values, and\nmakes the MAP lighting brighter, among other\nthings, to make the game easier to play."
                             ]
                         },
                         {
@@ -20629,14 +20601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<■難易度\\C[3]【original：オリジナル】\\C[0]■>本来の難易度になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはルイを陥れるための理不尽な世界です。"
+                                "\\n<■Difficulty \\C[3]【Original】\\C[0]■>This is the original difficulty level. It's an\nunreasonable world designed to entrap Rui."
                             ]
                         },
                         {
@@ -20662,14 +20627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "難易度を変更されますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（現在は\\C[3]original\\C[0]）"
+                                "Would you like to change the difficulty?\n(Currently \\C[3]original\\C[0])"
                             ]
                         },
                         {
@@ -20677,8 +20635,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\C[11]casual\\C[0]に変更。",
-                                    "キャンセル。"
+                                    "Change to \\C[11]casual\\C[0]",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -20717,7 +20675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "難易度を\\C[11]casual\\C[0]に変更しました。"
+                                "The difficulty has been changed to\n\\C[11]casual\\C[0]."
                             ]
                         },
                         {
@@ -20767,14 +20725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "難易度を変更されますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（現在は\\C[11]casual\\C[0]）"
+                                "Would you like to change the difficulty?\n(Currently \\C[11]casual\\C[0])"
                             ]
                         },
                         {
@@ -20782,8 +20733,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\C[3]original\\C[0]に変更。",
-                                    "キャンセル"
+                                    "Change to \\C[3]original\\C[0]",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -20822,7 +20773,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]original\\C[0]に変更しました。"
+                                "\\C[3]original\\C[0]It has been changed."
                             ]
                         },
                         {
@@ -21801,21 +21752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幻夢永劫調教淫獄遊戯とのパスが強くなりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "左下に青い魔方陣が出現しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（青い魔方陣で髪の長さの変更可能）"
+                                "The bond with the Phantom Eternal Training Harem\nGame has strengthened. A blue magic circle has\nappeared in the bottom left. (Hair length can be\nchanged with the blue magic circle)"
                             ]
                         },
                         {
@@ -21832,7 +21769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※髪型は通常時の立ち絵にのみ反映されます。"
+                                "*Note: Hair style changes will only be reflected\nin the normal standing graphics."
                             ]
                         },
                         {
@@ -21979,7 +21916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "髪型の変更を行います"
+                                "I will change the hairstyle."
                             ]
                         },
                         {
@@ -21987,12 +21924,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セミロング",
-                                    "アシメセミロング",
-                                    "ショート",
-                                    "ガーリーショート",
-                                    "ロングヘア",
-                                    "ノータッチロング"
+                                    "Semi-long",
+                                    "Asymmetrical Semi-Long",
+                                    "Short",
+                                    "Girly Short",
+                                    "Long hair",
+                                    "No-Touch Long"
                                 ],
                                 0,
                                 0,
@@ -22856,21 +22793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想部屋に向かいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※\\C[10]回想部屋はルイがチュベロスに敗北した世界線です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　\\C[10]強制的に淫紋の侵食度が100になります。"
+                                "Would you like to head to the Reminiscence\nRoom?※\\C[10]The Reminiscence Room is a timeline\nwhere Rui has been defeated by Tuberose.\\C[10] The\ncorruption level of the lewd crest will forcibly\nbecome 100."
                             ]
                         },
                         {
@@ -22878,8 +22801,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

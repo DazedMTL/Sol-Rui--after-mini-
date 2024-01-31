@@ -8926,8 +8926,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9356,7 +9356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっぱい"
+                                "Boobs"
                             ]
                         },
                         {
@@ -9453,7 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まんげ"
+                                "Pussy"
                             ]
                         },
                         {
@@ -9461,8 +9461,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "on",
-                                    "off"
+                                    "On",
+                                    "Off"
                                 ],
                                 1,
                                 0,
@@ -9547,7 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下着"
+                                "Underwear"
                             ]
                         },
                         {
@@ -9555,12 +9555,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソル",
-                                    "赤スケ",
-                                    "レオタ",
-                                    "穴あき",
-                                    "ランジェ",
-                                    "なし"
+                                    "Sol",
+                                    "Red see-through",
+                                    "Leotard",
+                                    "Crotchless",
+                                    "Lingerie",
+                                    "None"
                                 ],
                                 1,
                                 0,
@@ -9581,9 +9581,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "エロ",
-                                    "ピンスケ"
+                                    "Normal",
+                                    "Erotic",
+                                    "Pervert"
                                 ],
                                 1,
                                 0,
@@ -9694,11 +9694,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "黒",
-                                    "白",
-                                    "ピンク",
-                                    "水色",
-                                    "白水着"
+                                    "Black",
+                                    "White",
+                                    "Pink",
+                                    "Light blue",
+                                    "White swimsuit"
                                 ],
                                 1,
                                 0,
@@ -9973,10 +9973,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "レース黒",
-                                    "レース白",
-                                    "レース赤"
+                                    "Normal",
+                                    "Lace black",
+                                    "Lace white",
+                                    "Lace red"
                                 ],
                                 1,
                                 0,
@@ -10195,9 +10195,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "黒",
-                                    "白",
-                                    "紫"
+                                    "Black",
+                                    "White",
+                                    "Purple"
                                 ],
                                 1,
                                 0,
@@ -10369,8 +10369,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "にっぷれす"
+                                    "Naked",
+                                    "Nippleless"
                                 ],
                                 1,
                                 0,
@@ -10447,7 +10447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣装"
+                                "Costume"
                             ]
                         },
                         {
@@ -10455,11 +10455,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソル",
-                                    "ソルコルセ",
-                                    "悪落ち",
-                                    "悪落ち裸",
-                                    "すっぱだか"
+                                    "Sol",
+                                    "Sol Corset",
+                                    "Fall into evil",
+                                    "Corrupted Nude",
+                                    "Stark naked"
                                 ],
                                 1,
                                 0,
@@ -10595,7 +10595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっくす"
+                                "Socks"
                             ]
                         },
                         {
@@ -10603,10 +10603,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "くろ",
-                                    "がーたー",
-                                    "しろ",
-                                    "なまあし"
+                                    "Black",
+                                    "Garter",
+                                    "Do it",
+                                    "Bare legs"
                                 ],
                                 1,
                                 0,
@@ -10713,7 +10713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "battleセット"
+                                "Battle Set"
                             ]
                         },
                         {
@@ -10721,8 +10721,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10891,7 +10891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "服耐久地"
+                                "Clothing Durability"
                             ]
                         },
                         {
@@ -11281,11 +11281,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソル",
-                                    "ソルコルセ",
-                                    "悪落ち",
-                                    "悪落ち裸",
-                                    "すっぱだか"
+                                    "Sol",
+                                    "Sol Corse",
+                                    "Fall into depravity",
+                                    "Corrupted Nude",
+                                    "Stark naked"
                                 ],
                                 1,
                                 0,
@@ -11620,9 +11620,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノーマル",
-                                    "ハード",
-                                    "あ"
+                                    "Normal",
+                                    "Hard",
+                                    "Ah"
                                 ],
                                 1,
                                 0,
@@ -11758,8 +11758,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11814,8 +11814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノーマル",
-                                    "ハード"
+                                    "Normal",
+                                    "Hard"
                                 ],
                                 1,
                                 0,
@@ -12228,8 +12228,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12284,8 +12284,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノーマル",
-                                    "ハード"
+                                    "Normal",
+                                    "Hard"
                                 ],
                                 1,
                                 0,
@@ -12930,7 +12930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -13047,7 +13047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……ここは。"
+                                "\\n<Rui>...Where is this?"
                             ]
                         },
                         {
@@ -13110,7 +13110,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -13200,7 +13200,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……っ！？"
+                                "\\n<Rui>...Huh!?"
                             ]
                         },
                         {
@@ -13249,7 +13249,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>うそ……おっぱいが本当に大きくなってる。"
+                                "\\n<Rui>No way...my breasts have really gotten bigger."
                             ]
                         },
                         {
@@ -13330,7 +13330,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -13386,7 +13386,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>！！！"
+                                "\\n<Rui>！！！"
                             ]
                         },
                         {
@@ -13435,7 +13435,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -13463,7 +13463,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -13505,7 +13505,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -13561,7 +13561,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ルイ>ッッ！！！"
+                                "\\n<Rui>Ahhh!!!"
                             ]
                         },
                         {
@@ -13644,7 +13644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>私はまだ負けていないわ……ッ。"
+                                "\\n<Rui>I haven't lost yet..."
                             ]
                         },
                         {
@@ -14143,7 +14143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "服耐久地"
+                                "Clothing Durability"
                             ]
                         },
                         {
@@ -15331,14 +15331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>森……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして外に出れたの？"
+                                "\\n<Rui>The forest...? Did we somehow make it outside?"
                             ]
                         },
                         {
@@ -15446,14 +15439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "100点の反応ありがとうございます。"
+                                "\\n<Tuberose>Yes. Thank you for the perfect score reaction."
                             ]
                         },
                         {
@@ -15497,7 +15483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>むふふ、ドッキリ！大～成～功～っ！"
+                                "\\n<Tuberose>Mufufu, it's a prank! A huge success!"
                             ]
                         },
                         {
@@ -15553,7 +15539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -15609,7 +15595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>いいですよね、ドッキリ。"
+                                "\\n<Tuberose>Pranks are fun, aren't they?"
                             ]
                         },
                         {
@@ -15642,21 +15628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>こちらの世界にわたって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いろいろサブカルに目を通したのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度やってみたかったのです。"
+                                "\\n<Tuberose>After coming to this world, I've been looking into\nvarious subcultures, and I've always wanted to try\nthis."
                             ]
                         },
                         {
@@ -15705,7 +15677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……で、ここは何なの？"
+                                "\\n<Rui>...So, what is this place?"
                             ]
                         },
                         {
@@ -15749,14 +15721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>ここは貴女が救った世界の一部。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と言えば伝わるでしょうか？"
+                                "\\n<Tuberose>This is a part of the world you saved. Does that\nmake sense to you?"
                             ]
                         },
                         {
@@ -15826,14 +15791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……異世界！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にここはルーツなの？"
+                                "\\n<Rui>...Another world!? Are you saying this is really\nRoots?"
                             ]
                         },
                         {
@@ -15861,7 +15819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>多分そうです。"
+                                "\\n<Tuberose>Probably."
                             ]
                         },
                         {
@@ -15917,7 +15875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……多分って、アンタの仕業なんでしょ？"
+                                "\\n<Rui>...'Probably'? This is your doing, isn't it?"
                             ]
                         },
                         {
@@ -15945,21 +15903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>まさか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幻夢永劫調教淫獄遊戯は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にも手に余る力。計り知れないのです。"
+                                "\\n<Tuberose>Not at all. The Eternal Dream Training Hell Game\nis a power beyond my control. It's immeasurable."
                             ]
                         },
                         {
@@ -16008,14 +15952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……その長い名前。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説明のたびに言うの面倒じゃない？"
+                                "\\n<Rui>...Isn't it a hassle to say that long name every\ntime you explain it?"
                             ]
                         },
                         {
@@ -16059,14 +15996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>かっこいいモノには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相応のコストがかかるものです！"
+                                "\\n<Tuberose>Cool things come with their appropriate costs!"
                             ]
                         },
                         {
@@ -16136,21 +16066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そ、そう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでここで私は何をすれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリアした扱いになるわけ？"
+                                "\\n<Rui>I see... So what do I need to do here to be\nconsidered cleared?"
                             ]
                         },
                         {
@@ -16194,14 +16110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>森の奥にボスを呼んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのボスを倒すとクリアです。"
+                                "\\n<Tuberose>I've summoned a boss in the depths of the forest.\nDefeating that boss means you clear it."
                             ]
                         },
                         {
@@ -16218,7 +16127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>いたってシンプルですね。"
+                                "\\n<Tuberose>It's quite simple, isn't it?"
                             ]
                         },
                         {
@@ -16281,14 +16190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ飛ばせばいいのね。"
+                                "\\n<Rui>I see. Just need to knock them down then."
                             ]
                         },
                         {
@@ -16332,21 +16234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>とはいえ、これは遊戯。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある程度ゲームが成立するように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイさんの力は抑えられているはずです。"
+                                "\\n<Tuberose>However, this is a game. To ensure the game is\nfair, your powers should be limited to some\nextent."
                             ]
                         },
                         {
@@ -16395,21 +16283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力は使えそうだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ソルになったばかりの頃の感覚ね。"
+                                "\\n<Rui>...True. I can use my powers, but it feels like\nwhen I first became Sol."
                             ]
                         },
                         {
@@ -16463,14 +16337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>それにしても私が不利な事ばかり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな回りくどい事して何が遊戯よ。"
+                                "\\n<Rui>Still, everything seems to be at my\ndisadvantage... What kind of game makes you go\nthrough such roundabout ways."
                             ]
                         },
                         {
@@ -16501,14 +16368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こんなのが遊びだと思ってたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ友達いなくなるわよ。"
+                                "\\n<Rui>If you think this kind of thing is fun, you're\ngoing to lose friends, you know."
                             ]
                         },
                         {
@@ -16536,21 +16396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>……もしかして今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煽りとかでなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナチュラルにその言葉が出ました？"
+                                "\\n<Tuberose>...Did you just naturally say those words without\nany provocation?"
                             ]
                         },
                         {
@@ -16606,7 +16452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え？"
+                                "\\n<Rui>Huh?"
                             ]
                         },
                         {
@@ -16650,7 +16496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -16694,7 +16540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>友達なんていませんが？"
+                                "\\n<Tuberose>I don't have any friends, though?"
                             ]
                         },
                         {
@@ -16736,7 +16582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -16764,7 +16610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>……。"
+                                "\\n<Tuberose>..."
                             ]
                         },
                         {
@@ -16820,7 +16666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -16879,14 +16725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……まぁ、私に選択肢はないようだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "付き合ってやるわよ。"
+                                "\\n<Rui>...Well, it seems I don't have a choice, so I'll\nplay along."
                             ]
                         },
                         {
@@ -16917,14 +16756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>クリアしてアンタが死ぬのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のせいじゃないからね。"
+                                "\\n<Rui>Just remember, if you die when I clear this, it's\nnot my fault."
                             ]
                         },
                         {
@@ -16968,21 +16800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>さっすがルイさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物にぐちょぐちょに犯されても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のお嫁さんにしてあげますからね！"
+                                "\\n<Tuberose>As expected of Rui-san! Even if you get thoroughly\nravished by monsters, I'll still take you as my\nbride!"
                             ]
                         },
                         {
@@ -17045,7 +16863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……気を使って損した。"
+                                "\\n<Rui>...I regret showing any concern."
                             ]
                         },
                         {
@@ -17089,14 +16907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チュベロス>それでは私は淫獄でお待ちしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存分に暴れてきてくださいね。"
+                                "\\n<Tuberose>Then I shall be waiting for you in the dungeon of\ndebauchery. Please rampage to your heart's\ncontent."
                             ]
                         },
                         {
@@ -17159,7 +16970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>フン、さっさとクリアしてくるわよ。"
+                                "\\n<Rui>Hmph, I'll clear this quickly and be back."
                             ]
                         },
                         {
@@ -17487,7 +17298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>「ひぎぃぃぃぃぃぃぃぃぃぃッ！！？」"
+                                "\\n<Rui>\"Higyiiiiiiiiiiiiii!!?\""
                             ]
                         },
                         {
@@ -17525,7 +17336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>「ひぎぃぃぃぃぃぃぃぃぃぃッ！！？」"
+                                "\\n<Rui>\"Higyiiiiiiiiiiiiii!!?\""
                             ]
                         },
                         {
@@ -17542,14 +17353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女を絶望と快感に染める宴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の意識が完全に切れるまで続くのだった……"
+                                "The feast that stained the girl with despair and\npleasure continued until her consciousness\ncompletely faded away..."
                             ]
                         },
                         {
@@ -17619,7 +17423,7 @@
                                 [
                                     "80",
                                     "30",
-                                    "超強化"
+                                    "Super Enhancement"
                                 ],
                                 1,
                                 0,

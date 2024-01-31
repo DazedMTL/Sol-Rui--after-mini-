@@ -17279,14 +17279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気味の悪い魔物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "執拗にカーペットを叩きつけている。"
+                                "A creepy monster is persistently slamming the\ncarpet."
                             ]
                         },
                         {
@@ -17356,7 +17349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>見つけたわ！"
+                                "\\n<Rui>I found it!"
                             ]
                         },
                         {
@@ -17503,7 +17496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>遅イ　グズ。"
+                                "\\n<Monster>You're late, scum."
                             ]
                         },
                         {
@@ -17531,14 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>アァ　待ちわびたワ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっト　誰カガ　来るのを待ってタ。"
+                                "\\n<Monster>Ahh, I've been so impatient. I've been waiting for\nsomeone to come all this time."
                             ]
                         },
                         {
@@ -17601,7 +17587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>さっきの奴とは……違う化け物？"
+                                "\\n<Rui>Is this a different monster from the one\nbefore...?"
                             ]
                         },
                         {
@@ -17629,7 +17615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>何黙ってル　早く助けロ。"
+                                "\\n<Monster>Why are you silent? Hurry up and help me."
                             ]
                         },
                         {
@@ -17678,7 +17664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……助けるって……何を？"
+                                "\\n<Rui>...Help you... with what?"
                             ]
                         },
                         {
@@ -17706,7 +17692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ハァ？"
+                                "\\n<Monster>Huh?"
                             ]
                         },
                         {
@@ -17723,7 +17709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>言わなきゃわからなイ？"
+                                "\\n<Monster>Do I have to tell you everything?"
                             ]
                         },
                         {
@@ -17765,7 +17751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -17793,7 +17779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>まずは私を　運びなさイ。"
+                                "\\n<Monster>First, carry me."
                             ]
                         },
                         {
@@ -17810,7 +17796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>丁寧に　鳥の雛を　抱えるヨウニ。"
+                                "\\n<Monster>As gently as you would hold a baby bird."
                             ]
                         },
                         {
@@ -17859,7 +17845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……えぇ……っと。"
+                                "\\n<Rui>...Uh... okay."
                             ]
                         },
                         {
@@ -17887,14 +17873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>あア　ソレヨリ　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マズ　謝りなサイ。"
+                                "\\n<Monster>Before that, apologize."
                             ]
                         },
                         {
@@ -17911,7 +17890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ワタシヲ　助けルノ　遅れたコト。"
+                                "\\n<Monster>For being late to help me."
                             ]
                         },
                         {
@@ -17960,7 +17939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……？"
+                                "\\n<Rui>...?"
                             ]
                         },
                         {
@@ -17988,14 +17967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>久しぶりニ　子羊のソテーを食べたイワ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アァ　そのマエニ　バラ風呂ネ。"
+                                "\\n<Monster>I've been craving lamb sauté for a while now. Ah,\nbut first, a rose bath."
                             ]
                         },
                         {
@@ -18044,7 +18016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……そんな豪華なものここにあるの？"
+                                "\\n<Rui>...Do you have such luxurious things here?"
                             ]
                         },
                         {
@@ -18072,7 +18044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ハァ？"
+                                "\\n<Monster>Huh?"
                             ]
                         },
                         {
@@ -18089,21 +18061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>マダ　謝ってネェダロ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マズ　謝れヨ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マヌケ　グズ　ゴミ。"
+                                "\\n<Monster>You still haven't apologized. Apologize first, you\nstupid trash scum."
                             ]
                         },
                         {
@@ -18159,7 +18117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -18187,14 +18145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ハァ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナニ　ソノ　目つキ？"
+                                "\\n<Monster>Huh? What's with that look?"
                             ]
                         },
                         {
@@ -18222,7 +18173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>尻ヲ　こっちに向けロ　グズオンナ。"
+                                "\\n<Monster>Turn your ass this way, you filthy woman."
                             ]
                         },
                         {
@@ -18278,7 +18229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……一応聞くけど、なんで？"
+                                "\\n<Rui>...Just to be clear, why should I?"
                             ]
                         },
                         {
@@ -18306,21 +18257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>お前みたいナ　生意気なオンナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚イビッチ穴ト　クソ穴ヲ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エグッテ　お仕置きしてやるノヨ。"
+                                "\\n<Monster>I'm going to punish a cheeky, dirty bitch like you\nby digging into your filthy holes."
                             ]
                         },
                         {
@@ -18369,7 +18306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そんなのイヤに決まってるでしょ。"
+                                "\\n<Rui>Of course I'd hate that."
                             ]
                         },
                         {
@@ -18397,7 +18334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ハァ？　アンタ　バカ。"
+                                "\\n<Monster>Huh? You're an idiot."
                             ]
                         },
                         {
@@ -18414,7 +18351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>イイワ　どっちがウエカ　解らせテ　アゲル。"
+                                "\\n<Monster>Fine, I'll make it clear which of us is on top."
                             ]
                         },
                         {
@@ -18463,7 +18400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やるしかなさそうね。"
+                                "\\n<Rui>Looks like I have no choice but to do it."
                             ]
                         },
                         {
@@ -18528,7 +18465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ヒィィィ！！？"
+                                "\\n<Monster>Eeeeek!!?"
                             ]
                         },
                         {
@@ -18545,7 +18482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>人殺シ！　人殺シィィィ！！！"
+                                "\\n<Monster>Murderer! Murderer!!"
                             ]
                         },
                         {
@@ -18562,14 +18499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>トウサマ！　カアサマ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒトゴロシ！　ウチにヒトゴロシィィ！！！"
+                                "\\n<Monster>Father! Mother! There's a murderer in our house!!"
                             ]
                         },
                         {
@@ -18881,14 +18811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひどくわがままな化け物だったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるでお話に出てくる嫌な貴族みたい。"
+                                "\\n<Rui>What a terribly selfish monster. Just like the\nunpleasant nobles that appear in stories."
                             ]
                         },
                         {
@@ -18926,7 +18849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -18950,7 +18873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>人殺し、ね。"
+                                "\\n<Rui>A murderer, huh."
                             ]
                         },
                         {
@@ -18999,7 +18922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ここって女性の部屋よね。"
+                                "\\n<Rui>This is a woman's room, isn't it."
                             ]
                         },
                         {
@@ -19037,7 +18960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あれは……本当に化け物なのかしら。"
+                                "\\n<Rui>Was that... really a monster, I wonder."
                             ]
                         },
                         {

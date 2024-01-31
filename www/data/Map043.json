@@ -38096,7 +38096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>このレバーは大型換気扇のスイッチなのね。"
+                                "\\n<Rui>So this lever is the switch for the large\nventilation fan."
                             ]
                         },
                         {
@@ -38203,14 +38203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロック解除】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とモニターに表示されている。"
+                                "[Unlock] is displayed on the monitor."
                             ]
                         },
                         {
@@ -38247,14 +38240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……このパネル学校の玄関にもついていたわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、玄関を出るためには"
+                                "\\n<Rui>...This panel was also by the school entrance.\nThat means, to get out of the entrance..."
                             ]
                         },
                         {
@@ -39452,7 +39438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -39469,7 +39455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -39486,7 +39472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -41043,7 +41029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……いつつ。"
+                                "\\n<Rui>...Ouch."
                             ]
                         },
                         {
@@ -41128,7 +41114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……何とか無事みたいね。"
+                                "\\n<Rui>...Looks like we're safe for now."
                             ]
                         },
                         {
@@ -41177,7 +41163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……また気味の悪い所ね。"
+                                "\\n<Rui>...Another creepy place."
                             ]
                         },
                         {
@@ -41331,7 +41317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -41394,21 +41380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>この穴の角度は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがに落ちるのはマズそうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]踏み外さないように気を付けないと。"
+                                "\\n<Rui>The angle of this hole... Falling here would\ndefinitely be bad.\\C[10] I need to be careful not\nto step off."
                             ]
                         },
                         {
@@ -41530,7 +41502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>非常用電源起動を確認。"
+                                "\\n<Mechanical Voice>Emergency power supply activation confirmed."
                             ]
                         },
                         {
@@ -41715,7 +41687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>エレベーター？"
+                                "\\n<Rui>Elevator?"
                             ]
                         },
                         {
@@ -41757,7 +41729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>これが出口だったり……　……てい。"
+                                "\\n<Rui>Could this be the exit... wait."
                             ]
                         },
                         {
@@ -41804,14 +41776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>昇降機の電圧が足りません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "室内の不要な設備の電源をカットしてください。"
+                                "\\n<Mechanical Voice>Insufficient voltage for the elevator. Please cut\nthe power to unnecessary facilities inside the\nroom."
                             ]
                         },
                         {
@@ -41860,7 +41825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>不要な電力……？"
+                                "\\n<Rui>Unnecessary power...?"
                             ]
                         },
                         {
@@ -41963,7 +41928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -42285,14 +42250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>必須電圧の20％を維持。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残り80％です。"
+                                "\\n<Mechanical Voice>Maintaining essential voltage at 20%. 80%\nremaining."
                             ]
                         },
                         {
@@ -42334,14 +42292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうの脱出ゲームで見たことあるわね。"
+                                "\\n<Rui>I see... I've seen something like this in escape\ngames before."
                             ]
                         },
                         {
@@ -42397,14 +42348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>電源のレバーは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後4つってところね。"
+                                "\\n<Rui>There are four more power levers to go, it seems."
                             ]
                         },
                         {
@@ -42473,13 +42417,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ゴハン　キタ"
                             ]
                         },
                         {
@@ -42587,7 +42524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -42634,14 +42571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>現在昇降機の充電は20％です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "充電が完了次第──"
+                                "\\n<Mechanical Voice>The elevator is currently charged to 20%. Once\ncharging is complete──"
                             ]
                         },
                         {
@@ -42711,14 +42641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あぁ……脱出は脱出でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラーモノの脱出ってわけ。"
+                                "\\n<Rui>Ah... so it's an escape, but from a horror\nscenario."
                             ]
                         },
                         {
@@ -42774,14 +42697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>エレベーターの電源を復帰させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化け物から逃げきる。"
+                                "\\n<Rui>Restore power to the elevator and escape from the\nmonster."
                             ]
                         },
                         {
@@ -42812,7 +42728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……言葉にすればそれだけのことだけど。"
+                                "\\n<Rui>...It's just that when you put it into words."
                             ]
                         },
                         {
@@ -42879,13 +42795,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　ニガサナイ"
-                            ]
-                        },
-                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
@@ -42945,7 +42854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -43008,21 +42917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いや……ほんと……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分がその立場になるのは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きついんですけど……。"
+                                "\\n<Rui>No... really... being in that situation is...\ntough..."
                             ]
                         },
                         {
@@ -43093,13 +42988,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ニガサナイ　ニガサナイ"
                             ]
                         },
                         {
@@ -43183,14 +43071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あぁ、もう決めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対、二度と、お化け屋敷とか行かない……！"
+                                "\\n<Rui>Ah, I've decided. I'm absolutely never going to a\nhaunted house again...!"
                             ]
                         },
                         {
@@ -43219,13 +43100,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ニガサナイ　ニガサナイ　ニガサナイ"
                             ]
                         },
                         {
@@ -43274,21 +43148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>頑張りどころよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……ゴールが見えてるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "震えてられないわ！"
+                                "\\n<Rui>This is the time to be brave... I can't be shaking\nwhen the goal is in sight!"
                             ]
                         },
                         {
@@ -43358,7 +43218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>捕まってたまるもんですか！"
+                                "\\n<Rui>I won't let myself get caught!"
                             ]
                         },
                         {
@@ -43924,14 +43784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……もう少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆるい傾斜にならなかったのこれ。"
+                                "\\n<Rui>...Couldn't this slope be a bit gentler?"
                             ]
                         },
                         {
@@ -44030,7 +43883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いくわよ！"
+                                "\\n<Rui>Here I go!"
                             ]
                         },
                         {
@@ -45354,7 +45207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……いつつ。"
+                                "\\n<Rui>...Ouch."
                             ]
                         },
                         {
@@ -45439,7 +45292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……何とか無事みたいね。"
+                                "\\n<Rui>...Looks like we're safe for now."
                             ]
                         },
                         {
@@ -45488,7 +45341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……また気味の悪い所ね。"
+                                "\\n<Rui>...Another creepy place."
                             ]
                         },
                         {
@@ -45642,7 +45495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -45705,21 +45558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>この穴の角度は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがに落ちるのはマズそうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]踏み外さないように気を付けないと。"
+                                "\\n<Rui>The angle of this hole... Falling down there would\nbe bad news. \\C[10]I need to be careful not to\nslip."
                             ]
                         },
                         {
@@ -45841,7 +45680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>非常用電源起動を確認。"
+                                "\\n<Mechanical Voice>Emergency power supply activation confirmed."
                             ]
                         },
                         {
@@ -45984,7 +45823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>エレベーター？"
+                                "\\n<Rui>Elevator?"
                             ]
                         },
                         {
@@ -46012,14 +45851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>昇降機の電圧が足りません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "室内の不要な電力をカットしてください。"
+                                "\\n<Mechanical Voice>Insufficient voltage for the lift. Please cut any\nunnecessary power inside the room."
                             ]
                         },
                         {
@@ -46047,7 +45879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>不要な電力……？"
+                                "\\n<Rui>Unnecessary power...?"
                             ]
                         },
                         {
@@ -46116,13 +45948,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ゴハン　キタ"
                             ]
                         },
                         {
@@ -46258,7 +46083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -46298,14 +46123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<機械音声>現在昇降機の充電は1％です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "充電が完了次第──"
+                                "\\n<Mechanical Voice>The lift is currently at 1% charge. Once charging\nis complete──"
                             ]
                         },
                         {
@@ -46361,14 +46179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なるほど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりホラーモノの脱出ってわけ。"
+                                "\\n<Rui>I see... So it's like an escape from a horror\nscenario."
                             ]
                         },
                         {
@@ -46417,21 +46228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>エレベーターの電源が復帰するまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この狭い空間で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化け物から逃げる……定番ね。"
+                                "\\n<Rui>Stuck in this cramped space, running from monsters\nuntil the elevator's power is restored... It's a\nclassic."
                             ]
                         },
                         {
@@ -46473,14 +46270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ま、目の前がそういう状況なのは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんと勘弁してほしいけど。"
+                                "\\n<Rui>Well, the situation at hand is... really something\nI could do without."
                             ]
                         },
                         {
@@ -46547,13 +46337,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　ニガサナイ"
-                            ]
-                        },
-                        {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
@@ -46568,13 +46351,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ニガサナイ　ニガサナイ"
                             ]
                         },
                         {
@@ -46658,21 +46434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あぁ、もう……決めたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対、二度と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お化け屋敷とか行けない。"
+                                "\\n<Rui>Ahh, that's it... I've decided. I'm absolutely\nnever going to a haunted house again."
                             ]
                         },
                         {
@@ -46701,13 +46463,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ニガサナイ　ニガサナイ　ニガサナイ"
                             ]
                         },
                         {
@@ -46756,21 +46511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>頑張りどころよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……ゴールが見えてるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "震えてられないわ！"
+                                "\\n<Rui>This is the time to be brave... I can't be shaking\nwhen the goal is in sight!"
                             ]
                         },
                         {
@@ -46840,7 +46581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>捕まってたまるもんですか！"
+                                "\\n<Rui>As if I'd let myself get caught!"
                             ]
                         },
                         {

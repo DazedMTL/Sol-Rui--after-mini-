@@ -17278,14 +17278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気味の悪い魔物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "執拗にベッドを叩きつけている。"
+                                "A creepy monster is persistently slamming the bed."
                             ]
                         },
                         {
@@ -17355,7 +17348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -17502,21 +17495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……あら失礼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客様なんて一度もいなかったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づきませんでした。"
+                                "\\n<Monster>...Oh, my apologies. I didn't notice you since\nwe've never had a guest before."
                             ]
                         },
                         {
@@ -17565,7 +17544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -17593,14 +17572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>所でその両手の物騒なものはなんでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊の類でしょうか？"
+                                "\\n<Monster>By the way, what are those dangerous things you're\nholding in both hands? Are you some kind of thief?"
                             ]
                         },
                         {
@@ -17663,14 +17635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……えらく流暢にしゃべるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やりづらいわ。"
+                                "\\n<Rui>...You talk quite fluently. It makes this awkward."
                             ]
                         },
                         {
@@ -17726,14 +17691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>盗賊のつもりはないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方次第で同じようなものかもしれないわね。"
+                                "\\n<Rui>I'm not intending to be a thief... but depending\non you, it might end up the same."
                             ]
                         },
                         {
@@ -17761,7 +17719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ワタシ次第とは？"
+                                "\\n<Monster>Depending on me?"
                             ]
                         },
                         {
@@ -17810,14 +17768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>貴方、それと貴方に似た他の化け物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界の鍵を持ってないかしら？"
+                                "\\n<Rui>You, and the other monsters like you. Do you have\nthe key to this world?"
                             ]
                         },
                         {
@@ -17845,7 +17796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……。"
+                                "\\n<Monster>..."
                             ]
                         },
                         {
@@ -17873,21 +17824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>二つの絶望ですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その情報なら少し前に脳裏に浮かびました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常に気持ち悪い感覚です。"
+                                "\\n<Monster>The two despairs, right? That information crossed\nmy mind a little while ago. It was a very\nunpleasant feeling."
                             ]
                         },
                         {
@@ -17904,7 +17841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……ですが、鍵は私ではありません。"
+                                "\\n<Monster>...However, I am not the key."
                             ]
                         },
                         {
@@ -17953,7 +17890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>それじゃぁ他の2匹が鍵を持ってるの？"
+                                "\\n<Rui>So the other two creatures have the key?"
                             ]
                         },
                         {
@@ -17981,21 +17918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>教えて差し上げてもいいですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはその両手の物騒なものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手放していただけませんか？"
+                                "\\n<Monster>I could tell you... but first, could you put down\nthose dangerous things in your hands?"
                             ]
                         },
                         {
@@ -18012,21 +17935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>私からすれば貴方は盗賊。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器を持った盗賊の言う事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直に聞くほど私もお人よしではありません。"
+                                "\\n<Monster>From my perspective, you are a thief. I'm not so\nnaive as to listen to a thief with weapons."
                             ]
                         },
                         {
@@ -18082,7 +17991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>それは……"
+                                "\\n<Rui>That's..."
                             ]
                         },
                         {
@@ -18090,8 +17999,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "言うとおりだ",
-                                    "あまりに危険だ"
+                                    "You're right",
+                                    "It's too dangerous"
                                 ],
                                 1,
                                 0,
@@ -18210,7 +18119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>悪いけどそれはできないわ。"
+                                "\\n<Rui>Sorry, but I can't do that."
                             ]
                         },
                         {
@@ -18241,21 +18150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>貴方の言う事も間違ってないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからと言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちも隙を見せられる状況じゃないの。"
+                                "\\n<Rui>You're not wrong, but that doesn't mean I can\nafford to show any vulnerability."
                             ]
                         },
                         {
@@ -18283,7 +18178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物>そうですか、残念です。"
+                                "\\n<Monster>Is that so? That's unfortunate."
                             ]
                         },
                         {
@@ -18387,7 +18282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物>マリー！ダマキ！後ろから襲いなさい！"
+                                "\\n<Monster>Mari! Damaki! Attack from behind!"
                             ]
                         },
                         {
@@ -18807,7 +18702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>逃げられた……ッ！"
+                                "\\n<Rui>They escaped...!"
                             ]
                         },
                         {
@@ -18987,14 +18882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>マリーにダマキ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "雪の世界で聞いた名前。"
+                                "\\n<Rui>Mari and Damaki. Names I heard in the world of\nsnow."
                             ]
                         },
                         {
@@ -19032,14 +18920,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>家族を……復讐の対象を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私に殺させようとしている？"
+                                "\\n<Rui>Are they trying to make me kill... targets of\nrevenge, my family?"
                             ]
                         },
                         {
@@ -19077,21 +18958,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>ううん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目玉本人はこの扉の世界は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知らないと言っていたわよね……。"
+                                "\\n<Rui>No, the Eye itself said it didn't know about this\ndoor's world..."
                             ]
                         },
                         {
@@ -19129,14 +18996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>どちらにしろこのまま進めば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は人殺しを……。"
+                                "\\n<Rui>Either way, if I keep going like this... I'll\nbecome a murderer..."
                             ]
                         },
                         {
@@ -19167,7 +19027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -19230,21 +19090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>だからって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私も自分の体を捧げるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "善人じゃないわ……。"
+                                "\\n<Rui>But then again... I'm not such a good person as to\nsacrifice my own body..."
                             ]
                         },
                         {
@@ -19303,7 +19149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>覚悟を決めましょう。"
+                                "\\n<Rui>Let's make up our minds."
                             ]
                         },
                         {
@@ -19375,14 +19221,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>それにしてもあの化け物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人の名前を呼んでたけど……。"
+                                "\\n<Rui>Even so, that monster was calling out human\nnames..."
                             ]
                         },
                         {
@@ -19413,7 +19252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -19458,7 +19297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……考えても仕方ないわ。"
+                                "\\n<Rui>...No point in thinking about it."
                             ]
                         },
                         {
@@ -19518,14 +19357,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……次は絶対逃がさない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それだけよ。"
+                                "\\n<Rui>...Next time, I won't let them escape. That's all\nthere is to it."
                             ]
                         },
                         {
@@ -19714,7 +19546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……わかったわ。"
+                                "\\n<Rui>...I understand."
                             ]
                         },
                         {
@@ -19784,7 +19616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>これでいいでしょ？"
+                                "\\n<Rui>Is this okay?"
                             ]
                         },
                         {
@@ -19812,14 +19644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>まだです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腕を後ろに回してください。"
+                                "\\n<Monster>Not yet. Please put your arms behind your back."
                             ]
                         },
                         {
@@ -19861,7 +19686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……え？"
+                                "\\n<Rui>...Eh?"
                             ]
                         },
                         {
@@ -19889,14 +19714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>私からすればまだ貴方は脅威です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解っていただけますよね？"
+                                "\\n<Monster>From my perspective, you are still a threat. You\nunderstand, don't you?"
                             ]
                         },
                         {
@@ -19945,7 +19763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -19953,8 +19771,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "言う事を聞く。",
-                                    "これ以上は聞けない。"
+                                    "I'll do as you say",
+                                    "I can't ask any more than this"
                                 ],
                                 1,
                                 0,
@@ -20038,7 +19856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>嫌な予感がするわね……。"
+                                "\\n<Rui>I have a bad feeling about this..."
                             ]
                         },
                         {
@@ -20101,7 +19919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>悪いけどそれはできないわ。"
+                                "\\n<Rui>Sorry, but I can't do that."
                             ]
                         },
                         {
@@ -20132,21 +19950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>貴方の言う事も間違ってないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからと言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちも隙を見せられる状況じゃないの。"
+                                "\\n<Rui>You're not wrong, but that doesn't mean I can\nafford to show any vulnerability."
                             ]
                         },
                         {
@@ -20174,7 +19978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物>そうですか、残念です。"
+                                "\\n<Monster>Is that so, what a pity."
                             ]
                         },
                         {
@@ -20278,7 +20082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物>マリー！ダマキ！後ろから襲いなさい！"
+                                "\\n<Monster>Mari! Damaki! Attack from behind!"
                             ]
                         },
                         {
@@ -20698,7 +20502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>逃げられた……ッ！"
+                                "\\n<Rui>They escaped...!"
                             ]
                         },
                         {
@@ -20878,14 +20682,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>マリーにダマキ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "雪の世界で聞いた名前。"
+                                "\\n<Rui>Mari and Damaki. Names I heard in the world of\nsnow."
                             ]
                         },
                         {
@@ -20923,14 +20720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>家族を……復讐の対象を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私に殺させようとしている？"
+                                "\\n<Rui>Are they trying to make me kill... my family... my\ntargets of revenge?"
                             ]
                         },
                         {
@@ -20968,21 +20758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>ううん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目玉本人はこの扉の世界は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知らないと言っていたわよね……。"
+                                "\\n<Rui>No. The Eye itself said it didn't know about the\nworld beyond this door..."
                             ]
                         },
                         {
@@ -21020,14 +20796,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>どちらにしろこのまま進めば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は人殺しを……。"
+                                "\\n<Rui>Either way, if I keep going like this... I'll\nbecome a murderer..."
                             ]
                         },
                         {
@@ -21058,7 +20827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -21121,21 +20890,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>だからって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私も自分の体を捧げるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "善人じゃないわ……。"
+                                "\\n<Rui>But that doesn't mean... I'm such a good person\nthat I'd sacrifice my own body..."
                             ]
                         },
                         {
@@ -21194,7 +20949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>覚悟を決めましょう。"
+                                "\\n<Rui>Let's make up our minds."
                             ]
                         },
                         {
@@ -21266,14 +21021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>それにしてもあの化け物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人の名前を呼んでたけど……。"
+                                "\\n<Rui>But still, that monster was calling human names..."
                             ]
                         },
                         {
@@ -21304,7 +21052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -21349,7 +21097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……考えても仕方ないわ。"
+                                "\\n<Rui>...No point in thinking about it now."
                             ]
                         },
                         {
@@ -21409,14 +21157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイ>……次は絶対逃がさない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それだけよ。"
+                                "\\n<Rui>...Next time, I won't let them escape. That's all\nthere is to it."
                             ]
                         },
                         {
@@ -21584,7 +21325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……はいはい。"
+                                "\\n<Rui>Yeah, yeah."
                             ]
                         },
                         {
@@ -21612,7 +21353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……。"
+                                "\\n<Monster>..."
                             ]
                         },
                         {
@@ -21661,7 +21402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>で、鍵について──"
+                                "\\n<Rui>So, about the key──"
                             ]
                         },
                         {
@@ -21849,7 +21590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>むぐぅ！！？"
+                                "\\n<Rui>Mmph!!?"
                             ]
                         },
                         {
@@ -21891,14 +21632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>アハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間抜けな小娘！"
+                                "\\n<Monster>Ahahaha! What a foolish girl!"
                             ]
                         },
                         {
@@ -21945,7 +21679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>もが！ふご！？"
+                                "\\n<Rui>Struggling! Mmph!?"
                             ]
                         },
                         {
@@ -21973,21 +21707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言葉を流暢に喋る魔物を殺すことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忌避感をもっていたルイは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その油断を突かれた。"
+                                "Rui, who felt averse to killing a monster that\nspoke fluently, was caught off guard."
                             ]
                         },
                         {
@@ -22034,7 +21754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いやっ、気持ち悪い！"
+                                "\\n<Rui>No, it's disgusting!"
                             ]
                         },
                         {
@@ -22062,21 +21782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物に顔を覆われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "視界は閉ざされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼吸はままならない。"
+                                "The monster covered her face, her vision was\nblocked, and she couldn't breathe."
                             ]
                         },
                         {
@@ -22123,7 +21829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>もご！！う”ぅ”！！！"
+                                "\\n<Rui>Mmph!! Ughh!!!"
                             ]
                         },
                         {
@@ -22151,7 +21857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "咄嗟に剣を持ち直せば何とかなったが……"
+                                "If she had quickly readjusted her grip on the\nsword, she might have managed..."
                             ]
                         },
                         {
@@ -22198,7 +21904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ふごっ！んお”！？"
+                                "\\n<Rui>Mmph! Nghh!?"
                             ]
                         },
                         {
@@ -22226,14 +21932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パニックに陥ってしまったルイに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その判断はできなかった。"
+                                "Rui, who had fallen into a panic, was unable to\nmake that decision."
                             ]
                         },
                         {
@@ -22250,21 +21949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして当然、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "混乱して反撃を忘れた獲物など"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は狩られるのを待つのみだ。"
+                                "And of course, prey that forgets to fight back in\nconfusion is just waiting to be hunted."
                             ]
                         },
                         {
@@ -22318,7 +22003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n<ルイ>なに！？\\|\\^"
+                                "\\>\\n<Rui>What!?"
                             ]
                         },
                         {
@@ -22335,7 +22020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n<ルイ>なにか、口に……ッ\\|\\.\\.\\^"
+                                "\\>\\n<Rui>Something in my mouth...!"
                             ]
                         },
                         {
@@ -22424,7 +22109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n<ルイ>お”ごぉ”ぉ”ぉ”ぉ”ッ！？\\|\\.\\.\\^"
+                                "\\>\\n<Rui>Ohh!! Nooo!!"
                             ]
                         },
                         {
@@ -22503,7 +22188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いや、苦しいっ"
+                                "\\n<Rui>No, it's suffocating!"
                             ]
                         },
                         {
@@ -22571,7 +22256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>息……できな……"
+                                "\\n<Rui>Can't... breathe..."
                             ]
                         },
                         {
@@ -22639,7 +22324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>だれか、これ……外し……"
+                                "\\n<Rui>Someone... take this off..."
                             ]
                         },
                         {
@@ -22707,7 +22392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>苦し……助け……"
+                                "\\n<Rui>Suffocating... help..."
                             ]
                         },
                         {
@@ -22905,7 +22590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n<ルイ>～～～～～～～～～～”ッ！？\\|\\^"
+                                "\\>\\n<Rui>~~~~~~~~~~~~!!?"
                             ]
                         },
                         {
@@ -22996,7 +22681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>アハハッ！シネ！シネ！"
+                                "\\n<Monster>Ahaha! Die! Die!"
                             ]
                         },
                         {
@@ -23113,7 +22798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -23144,7 +22829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -23161,7 +22846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -23178,7 +22863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -23524,7 +23209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……おや、どちら様ですか？"
+                                "\\n<Monster>\"Oh, who might you be?\""
                             ]
                         },
                         {
@@ -23594,7 +23279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -23622,14 +23307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうされたんですか？"
+                                "\\n<Monster>\"What seems to be the matter?\""
                             ]
                         },
                         {
@@ -23685,14 +23363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>しらばっくれても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうだまされないわ。"
+                                "\\n<Rui>\"I won't be fooled by your act anymore.\""
                             ]
                         },
                         {
@@ -23720,7 +23391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>そうですか……。"
+                                "\\n<Monster>\"Is that so...\""
                             ]
                         },
                         {
@@ -23824,7 +23495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>マリー！ダマキ！後ろから襲いなさい！"
+                                "\\n<Monster>\"Marie! Damaki! Attack from behind!\""
                             ]
                         },
                         {
@@ -24244,7 +23915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>逃げられた……ッ！"
+                                "\\n<Rui>\"They escaped...!\""
                             ]
                         },
                         {
@@ -24424,14 +24095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>マリーにダマキ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雪の世界で聞いた名前。"
+                                "\\n<Rui>\"Marie and Damaki... Names I heard in the world of\nsnow.\""
                             ]
                         },
                         {
@@ -24469,14 +24133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>家族を……復讐の対象を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私に殺させようとしている？"
+                                "\\n<Rui>\"Are they trying to make me kill... my own family,\nmy targets for revenge?\""
                             ]
                         },
                         {
@@ -24514,21 +24171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ううん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目玉本人はこの扉の世界は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知らないと言っていたわよね……。"
+                                "\\n<Rui>\"No, the Eye itself said it didn't know about the\nworld beyond this door...\""
                             ]
                         },
                         {
@@ -24566,14 +24209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>どちらにしろこのまま進めば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は人殺しを……。"
+                                "\\n<Rui>\"Either way, if I keep going like this... I'll\nbecome a murderer...\""
                             ]
                         },
                         {
@@ -24604,7 +24240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -24667,21 +24303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>だからって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も自分の体を捧げるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "善人じゃないわ……。"
+                                "\\n<Rui>\"But that doesn't mean... I'm such a good person\nthat I'd sacrifice my own body...\""
                             ]
                         },
                         {
@@ -24740,7 +24362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>覚悟を決めましょう。"
+                                "\\n<Rui>\"Let's make up our minds.\""
                             ]
                         },
                         {
@@ -24792,14 +24414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>それにしてもあの化け物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人の名前を呼んでたけど……。"
+                                "\\n<Rui>\"Even so, that monster was calling out human\nnames...\""
                             ]
                         },
                         {
@@ -24830,7 +24445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>\"...\""
                             ]
                         },
                         {
@@ -24875,7 +24490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……考えても仕方ないわ。"
+                                "\\n<Rui>\"No point in thinking about it now.\""
                             ]
                         },
                         {
@@ -24935,14 +24550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……次は絶対逃がさない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだけよ。"
+                                "\\n<Rui>\"...Next time, I definitely won't let them escape.\nThat's all there is to it.\""
                             ]
                         },
                         {

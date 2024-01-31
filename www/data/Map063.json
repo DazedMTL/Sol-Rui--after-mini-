@@ -27583,7 +27583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……子供？"
+                                "\\n<Rui>...A child?"
                             ]
                         },
                         {
@@ -27632,14 +27632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ここまで人の姿を全く見なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しこの子にいろいろ聞いてみましょう。"
+                                "\\n<Rui>I haven't seen a single person up to this point.\nLet's ask this child a few questions."
                             ]
                         },
                         {
@@ -27756,7 +27749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……お姉さん、だれ？"
+                                "\\n<Boy>...Sister, who are you?"
                             ]
                         },
                         {
@@ -27798,7 +27791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと。"
+                                "\\n<Rui>Well..."
                             ]
                         },
                         {
@@ -27854,7 +27847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……その恰好寒くないの？"
+                                "\\n<Boy>...Aren't you cold in that outfit?"
                             ]
                         },
                         {
@@ -27917,7 +27910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え、あぁ、そういえば寒くないわね。"
+                                "\\n<Rui>Eh, oh, now that you mention it, I'm not cold."
                             ]
                         },
                         {
@@ -27959,7 +27952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……そうなんだ、すごいね。"
+                                "\\n<Boy>...I see, that's amazing."
                             ]
                         },
                         {
@@ -28015,7 +28008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えぇ……。"
+                                "\\n<Rui>Yes..."
                             ]
                         },
                         {
@@ -28085,7 +28078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……。"
+                                "\\n<Boy>..."
                             ]
                         },
                         {
@@ -28141,7 +28134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -28186,7 +28179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ね、キミはなんでこんなところにいるの？"
+                                "\\n<Rui>Hey, why are you here in a place like this?"
                             ]
                         },
                         {
@@ -28228,7 +28221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……おうちに、入ったらだめだから。"
+                                "\\n<Boy>...Because I can't go inside the house."
                             ]
                         },
                         {
@@ -28277,7 +28270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ここはキミのおうちなの？"
+                                "\\n<Rui>Is this your house?"
                             ]
                         },
                         {
@@ -28326,21 +28319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い事したから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お外で反省しているの。"
+                                "\\n<Boy>...Yes. I did something bad, so I'm reflecting on\nit outside."
                             ]
                         },
                         {
@@ -28410,7 +28389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え……こんな雪の中で？"
+                                "\\n<Rui>Eh... in the snow?"
                             ]
                         },
                         {
@@ -28452,7 +28431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……うん。"
+                                "\\n<Boy>...Yes."
                             ]
                         },
                         {
@@ -28508,14 +28487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>雪がふる中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供を扉の外に追い出すなんて……"
+                                "\\n<Rui>To put a child out of the door in the falling\nsnow..."
                             ]
                         },
                         {
@@ -28553,7 +28525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……あれ……これって？"
+                                "\\n<Rui>...Huh...what's this?"
                             ]
                         },
                         {
@@ -28795,14 +28767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ねぇ……もしかして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミの名前……チュベロスだったりする？"
+                                "\\n<Rui>Hey... by any chance, is your name... Tuberose?"
                             ]
                         },
                         {
@@ -28872,14 +28837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少年>……？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うよ。僕はカパラ。"
+                                "\\n<Boy>...??? No, I'm Kapala."
                             ]
                         },
                         {
@@ -28942,14 +28900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え、あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そう……？"
+                                "\\n<Rui>Eh, what? Oh, is that so...?"
                             ]
                         },
                         {
@@ -28987,7 +28938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>んっと……カパラ君はどんな悪い事したの？"
+                                "\\n<Rui>Hmm... Kapala-kun, what kind of bad thing did you\ndo?"
                             ]
                         },
                         {
@@ -29029,7 +28980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……わかんない。"
+                                "\\n<Kapala>...I don't know."
                             ]
                         },
                         {
@@ -29064,21 +29015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれくらい、こうやってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風邪ひいちゃうよ？"
+                                "\\n<Rui>I see... How long have you been like this? You'll\ncatch a cold, you know?"
                             ]
                         },
                         {
@@ -29148,21 +29085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……わかんない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お父さんが死んじゃってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家の外で寝るほうが多くなっちゃった。"
+                                "\\n<Kapala>...I don't know. Ever since my father died, I've\nbeen sleeping outside more often."
                             ]
                         },
                         {
@@ -29232,7 +29155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……。"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -29281,7 +29204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>僕、いないほうがいいんだって。"
+                                "\\n<Kapala>They say it's better if I'm not around."
                             ]
                         },
                         {
@@ -29319,21 +29242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>マリーも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダマキお姉ちゃんも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カーミアお母さんも。"
+                                "\\n<Kapala>Mari-san, Damaki-oneechan, and Ka-mia-okaasan too."
                             ]
                         },
                         {
@@ -29364,14 +29273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>皆、僕の事が嫌いなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも痛い遊びしかしてくれない……。"
+                                "\\n<Kapala>Everyone hates me. They only play painful games\nwith me..."
                             ]
                         },
                         {
@@ -29434,7 +29336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なによそれ……なんでそんなひどいことを。"
+                                "\\n<Rui>What's that about... Why would they do such\nterrible things?"
                             ]
                         },
                         {
@@ -29504,7 +29406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……なんでお姉ちゃんが怒ってるの？"
+                                "\\n<Kapala>...Why is sister angry?"
                             ]
                         },
                         {
@@ -29560,14 +29462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>私にはカパラ君の境遇を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しくはわからない……"
+                                "\\n<Rui>I don't know the details of Kapala-kun's\nsituation..."
                             ]
                         },
                         {
@@ -29598,14 +29493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>けど、こんな雪の中に追い出して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほったらかしにしていいはずない。"
+                                "\\n<Rui>But there's no way it's okay to leave someone out\nin the snow like this."
                             ]
                         },
                         {
@@ -29661,7 +29549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……そっか。"
+                                "\\n<Kapala>...I see."
                             ]
                         },
                         {
@@ -29678,7 +29566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>なんだか、すごい勝手なことばだね。"
+                                "\\n<Kapala>That's quite a selfish thing to say, isn't it?"
                             ]
                         },
                         {
@@ -29741,7 +29629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……ッ。"
+                                "\\n<Rui>...!"
                             ]
                         },
                         {
@@ -29811,14 +29699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……そうね、無神経だったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさい。"
+                                "\\n<Rui>...You're right, that was thoughtless of me. I'm\nsorry."
                             ]
                         },
                         {
@@ -29888,21 +29769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>もやもや……する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒りたい気分なのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい気分もある……。"
+                                "\\n<Kapala>It's confusing... I feel like I want to be angry,\nbut at the same time, I'm also happy..."
                             ]
                         },
                         {
@@ -29940,7 +29807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……よくわかんないや。"
+                                "\\n<Kapala>...I don't really understand."
                             ]
                         },
                         {
@@ -30010,14 +29877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>女の人なんて皆いなくなればいいのにって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたんだけど……。"
+                                "\\n<Kapala>I thought all women should just disappear... but\nthen someone kind like sister would be gone too."
                             ]
                         },
                         {
@@ -30062,21 +29922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>それじゃぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉さんみたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やさしい人もいなくなっちゃうんだね。"
+                                "\\n<Kapala>Then... kind people like sister would be gone too."
                             ]
                         },
                         {
@@ -30146,14 +29992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺しちゃダメなんだ。"
+                                "\\n<Kapala>...I see. It's wrong to kill."
                             ]
                         },
                         {
@@ -30209,7 +30048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……カパラ君？"
+                                "\\n<Rui>...Kapala-kun?"
                             ]
                         },
                         {
@@ -30258,14 +30097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>でも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺さないでいたらまた……"
+                                "\\n<Kapala>But... if I don't kill them, then again..."
                             ]
                         },
                         {
@@ -30303,14 +30135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>あぁ、そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やり方……僕はいっぱい知ってるじゃないか。"
+                                "\\n<Kapala>Ah, that's right. The method... I know plenty of\nthem, don't I?"
                             ]
                         },
                         {
@@ -30334,21 +30159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>……屈服させればいいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心の底から……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日までの僕のように。"
+                                "\\n<Kapala>...I just need to make them submit. From the\nbottom of their hearts... just like I was until\nyesterday."
                             ]
                         },
                         {
@@ -30393,14 +30204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>うん、カミサマ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願い、決まったよ。"
+                                "\\n<Kapala>Yes, God. Please, it's decided."
                             ]
                         },
                         {
@@ -30463,7 +30267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……カパラ君……やっぱりキミは……"
+                                "\\n<Rui>...Kapala-kun... after all, you are..."
                             ]
                         },
                         {
@@ -30540,7 +30344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>ありがとう、お姉さん。"
+                                "\\n<Kapala>Thank you, sister."
                             ]
                         },
                         {
@@ -30571,7 +30375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カパラ>僕、行くね。"
+                                "\\n<Kapala>I'm going now."
                             ]
                         },
                         {
@@ -30851,14 +30655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>うお！？なんだなんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきなり障害がなくなったぞ。"
+                                "\\n<Golb>Whoa!? What's going on!? Suddenly there's no\ninterference."
                             ]
                         },
                         {
@@ -30914,7 +30711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ゴルブさん？"
+                                "\\n<Rui>Golb-san?"
                             ]
                         },
                         {
@@ -30942,14 +30739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>おう、ジェントルなゴルブさんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイさん、そっちはどうだ？"
+                                "\\n<Golb>Yeah, it's the gentle Golb-san. How's it going\nover there, Rui-san?"
                             ]
                         },
                         {
@@ -30991,7 +30781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>多分、調べることは終わったと思う。"
+                                "\\n<Rui>I think we're done investigating."
                             ]
                         },
                         {
@@ -31019,21 +30809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちから周りをスキャンしたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "建築オブジェクトしか無いようだな。"
+                                "\\n<Golb>Is that so? I've scanned the surroundings from\nhere, but it seems there are only architectural\nobjects."
                             ]
                         },
                         {
@@ -31061,7 +30837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴルブ>よし、それじゃぁ引っ張り上げるぜ。"
+                                "\\n<Golb>Alright, then let's pull it up."
                             ]
                         },
                         {
@@ -31110,7 +30886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>うん、お願い。"
+                                "\\n<Rui>Yes, please."
                             ]
                         },
                         {
@@ -31302,7 +31078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……本当に酷なお願いだわ。"
+                                "\\n<Rui>...It's really a cruel request."
                             ]
                         },
                         {

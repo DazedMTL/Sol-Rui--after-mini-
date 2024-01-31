@@ -3637,14 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゆど>諜報テストだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スイッチ55~58で、選択禁止を設定できるよ！"
+                                "\\n<Yudo>It's a reconnaissance test! You can set a\nselection ban with switches 55 to 58!"
                             ]
                         },
                         {
@@ -3684,7 +3677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n<ゆど>なぁに？\\^"
+                                "\\>\\n<Yudo>What is it?"
                             ]
                         },
                         {
@@ -3733,7 +3726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\n<ゆど>戻るを選択"
+                                "\\>\\n<Yudo>Choose to go back"
                             ]
                         },
                         {
@@ -3771,7 +3764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\n<ゆど>話しを選択"
+                                "\\>\\n<Yudo>Choose to talk"
                             ]
                         },
                         {
@@ -3809,7 +3802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゆど>協力を選択したよ！"
+                                "\\n<Yudo>I chose to cooperate!"
                             ]
                         },
                         {
@@ -3833,7 +3826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\n<ゆど>なあに？\\^"
+                                "\\>\\n<Yudo>What is it?"
                             ]
                         },
                         {
@@ -3868,7 +3861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>\\n<ゆど>戻るを選択＆再選択！"
+                                "\\>\\n<Yudo>Choose to go back & reselect!"
                             ]
                         },
                         {
@@ -3913,7 +3906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "21:会話"
+                                "21: Conversation"
                             ]
                         },
                         {
@@ -3951,7 +3944,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "22:袖下"
+                                "22: Bribery"
                             ]
                         },
                         {
@@ -3989,7 +3982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "23:色掛"
+                                "23: Flirting"
                             ]
                         },
                         {
@@ -4037,7 +4030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ゆど>諜報を選択したよ！"
+                                "\\n<Yudo>I chose reconnaissance!"
                             ]
                         },
                         {
@@ -4061,7 +4054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\n<ゆど>なぁに？\\^"
+                                "\\>\\n<Yudo>What is it?"
                             ]
                         },
                         {
@@ -4096,7 +4089,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>\\n<ゆど>戻るを選択＆再選択！"
+                                "\\>\\n<Yudo>Choose to go back & reselect!"
                             ]
                         },
                         {
@@ -4141,7 +4134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "21:会話"
+                                "21: Conversation"
                             ]
                         },
                         {
@@ -4179,7 +4172,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "22:袖下"
+                                "22: Bribery"
                             ]
                         },
                         {
@@ -4217,7 +4210,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "23:色掛"
+                                "23: Flirting"
                             ]
                         },
                         {
@@ -4398,14 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゆど>会話テストだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だよ～～～～～～～ん"
+                                "\\n<Yudo>It's a conversation test! Daaaan~~~~~~"
                             ]
                         },
                         {
@@ -5402,7 +5388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "首吊り中接敵行けやしたぜぇぇぇぇぇぇぇぇえぇぁおあｓｄふぁｆｈ"
+                                ""
                             ]
                         },
                         {
@@ -5595,7 +5581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "成功！！！"
+                                "Success!!!"
                             ]
                         },
                         {
@@ -5622,7 +5608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "失敗！！！"
+                                "Failure!!!"
                             ]
                         },
                         {
@@ -6204,7 +6190,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "首吊り中接敵行けやしたぜぇぇぇぇぇぇぇぇえぇぁおあｓｄふぁｆｈ"
+                                ""
                             ]
                         },
                         {
@@ -10556,7 +10542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>……ぁ”……ぇ”……"
+                                "\\n<Rui>\"...ah\"... \"eh\"..."
                             ]
                         },
                         {

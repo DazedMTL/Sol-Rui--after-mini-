@@ -23465,7 +23465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>え……？ここって。"
+                                "\\n<Rui>Eh...? Where is this place?"
                             ]
                         },
                         {
@@ -23641,14 +23641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　ヤット　ツナガッタ"
+                                "Finally connected."
                             ]
                         },
                         {
@@ -23746,14 +23739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　コッチ　コッチ"
+                                "This way, this way, this way!"
                             ]
                         },
                         {
@@ -23823,21 +23809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……落ち着かなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの魔族の言葉を信じるならこれは遊戯。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリアできないなんてことはないはず。"
+                                "\\n<Rui>...I need to calm down. If I believe what that\ndemon said, this is all a game. There shouldn't be\nsuch a thing as not being able to clear it."
                             ]
                         },
                         {
@@ -23893,14 +23865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>化け物の空間を抜けたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎回学校に戻っていたわね……。"
+                                "\\n<Rui>Every time I got through the monster's space, I\nended up back at school..."
                             ]
                         },
                         {
@@ -23931,7 +23896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>今私は玄関を通る直前だった……"
+                                "\\n<Rui>Right now, I was just about to pass through the\nentrance..."
                             ]
                         },
                         {
@@ -23962,14 +23927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>つまりここを抜けたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "玄関の外……ゴールのはず！"
+                                "\\n<Rui>Which means, if I get through here, I'll be\noutside the entrance... It should be the goal!"
                             ]
                         },
                         {
@@ -24025,7 +23983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……逃げ切って見せる。"
+                                "\\n<Rui>...I'll show them that I can escape."
                             ]
                         },
                         {
@@ -24056,7 +24014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ここまで来たんだもん、できるはずよ！"
+                                "\\n<Rui>I've come this far, I should be able to do it!"
                             ]
                         },
                         {
@@ -24465,7 +24423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あれ……あっちの鉄格子も空いた？"
+                                "\\n<Rui>Huh... that iron gate over there opened too?"
                             ]
                         },
                         {
@@ -24604,7 +24562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>どっちが正解なんだろう？"
+                                "\\n<Rui>Which one is the right way, I wonder?"
                             ]
                         },
                         {
@@ -24697,14 +24655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　コッチ　ダヨ"
+                                "This way."
                             ]
                         },
                         {
@@ -24760,7 +24711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……？"
+                                "\\n<Rui>...?"
                             ]
                         },
                         {
@@ -24788,14 +24739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　コッチ　　　キテ"
+                                "Come this way."
                             ]
                         },
                         {
@@ -24858,14 +24802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>何この声……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭に響いて……きもちわるい……"
+                                "\\n<Rui>What's this voice... it's resonating in my head...\nit feels nasty..."
                             ]
                         },
                         {
@@ -24893,14 +24830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ウゴケナイ　コウソク　トイテ"
+                                "Stay still, don't move."
                             ]
                         },
                         {
@@ -24956,7 +24886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>こう……そく？"
+                                "\\n<Rui>Don't... move?"
                             ]
                         },
                         {
@@ -25030,14 +24960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　エサ　縛ラレテ　食ベラレナイ"
+                                "If you're tied up, you can't be eaten."
                             ]
                         },
                         {
@@ -25102,7 +25025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>餌……。"
+                                "\\n<Rui>Bait..."
                             ]
                         },
                         {
@@ -25142,14 +25065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　ココニ　ジブンデ　クル"
+                                "Come here on your own."
                             ]
                         },
                         {
@@ -25166,14 +25082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　アナ　オカシテ　キモチイイ"
+                                "It feels good to open up a hole."
                             ]
                         },
                         {
@@ -25190,14 +25099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　テアシ　モイデ　ナキゴエ　タノシイ"
+                                "It's fun to hear you cry and struggle."
                             ]
                         },
                         {
@@ -25325,7 +25227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>餌……わたしの事だ。"
+                                "\\n<Rui>Bait... he's talking about me."
                             ]
                         },
                         {
@@ -25365,14 +25267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　ヤワラカソウ　キモチヨサソウ"
+                                "You seem soft, must feel nice."
                             ]
                         },
                         {
@@ -25471,14 +25366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　スゴク　イイニオイ　アァ　ハヤク"
+                                "You smell so good, hurry up."
                             ]
                         },
                         {
@@ -25534,14 +25422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>に、逃げなきゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレは話が通じない……。"
+                                "\\n<Rui>I have to run... That thing can't be reasoned\nwith..."
                             ]
                         },
                         {
@@ -25673,14 +25554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　オビエテル？？"
+                                "Are you scared??"
                             ]
                         },
                         {
@@ -25788,7 +25662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ッ！！？"
+                                "\\n<Rui>Ah!!?"
                             ]
                         },
                         {
@@ -25816,14 +25690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　オビエルホド　オイシク　ナル"
+                                "The more you're scared, the tastier you become."
                             ]
                         },
                         {
@@ -25851,14 +25718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　犯スホド　嬲ルホド　オイシクナル"
+                                "The more you're violated, the more delightful it\nbecomes."
                             ]
                         },
                         {
@@ -25875,14 +25735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　イッパイ　ナイテ　クレソウ……　アァ"
+                                "You seem like you'd cry a lot... Ahh."
                             ]
                         },
                         {
@@ -26005,7 +25858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ヒッ！？"
+                                "\\n<Rui>Eek!?"
                             ]
                         },
                         {
@@ -26055,14 +25908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　タベタイ　タベタイ　タベタイ　タベタイ"
+                                "I want to eat, eat, eat, eat!"
                             ]
                         },
                         {
@@ -26254,14 +26100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　ソッチジャナイ"
+                                "Not that way."
                             ]
                         },
                         {
@@ -26324,7 +26163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あれは、絶対捕まっちゃだめなやつだ。"
+                                "\\n<Rui>That one, I absolutely must not get caught by it."
                             ]
                         },
                         {
@@ -26423,14 +26262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　……？？　　？　　"
+                                "...???"
                             ]
                         },
                         {
@@ -26482,14 +26314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　ニゲルナ\\.\\^"
+                                "Don't run away."
                             ]
                         },
                         {
@@ -26549,14 +26374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　ニゲルナ\\.\\^"
+                                "Don't run away."
                             ]
                         },
                         {
@@ -26585,14 +26403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　ニゲルナ\\.\\^"
+                                "Don't run away."
                             ]
                         },
                         {
@@ -26646,14 +26457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　ニゲルナ\\.\\^"
+                                "Don't run away."
                             ]
                         },
                         {
@@ -26730,7 +26534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>イヤァァァァァァ！！！"
+                                "\\n<Rui>Noooooo!!!"
                             ]
                         },
                         {
@@ -27214,14 +27018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ニガサナイ"
+                                "I won't let you escape."
                             ]
                         },
                         {
@@ -27519,7 +27316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ハァ！ハァ！　ゼェ……ゼェ……"
+                                "\\n<Rui>Haah! Haah! Wheeze... Wheeze..."
                             ]
                         },
                         {
@@ -27589,14 +27386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ムリムリムリムリ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全にホラーなやつじゃない！！！"
+                                "\\n<Rui>Impossible, impossible, impossible, impossible!!!\nThis is totally a horror scenario!!!"
                             ]
                         },
                         {
@@ -27648,7 +27438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ハァ……ハァ……　ハァ……"
+                                "\\n<Rui>Haah... Haah... Haah..."
                             ]
                         },
                         {
@@ -27704,7 +27494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……　……　……ふぅ。"
+                                "\\n<Rui>...Phew."
                             ]
                         },
                         {
@@ -27802,14 +27592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>とりあえず学校に戻ってきたみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と言ってもココも学校と言えない場所だけど。"
+                                "\\n<Rui>For now, it seems like I've made it back to the\nschool. Though this place can hardly be called a\nschool anymore."
                             ]
                         },
                         {
@@ -27872,7 +27655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>は、早く脱出しなきゃ！"
+                                "\\n<Rui>I have to escape quickly!"
                             ]
                         },
                         {
@@ -30139,7 +29922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーはびくともしない。"
+                                "The lever doesn't budge at all."
                             ]
                         },
                         {
@@ -30256,7 +30039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーはびくともしない。"
+                                "The lever doesn't budge at all."
                             ]
                         },
                         {

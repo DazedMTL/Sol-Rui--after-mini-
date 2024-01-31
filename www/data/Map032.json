@@ -25492,14 +25492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プールに入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（プール入場中はセーブが開けません）"
+                                "Will you enter the pool? (You cannot save while\nentering the pool)"
                             ]
                         },
                         {
@@ -25507,8 +25500,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26107,7 +26100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>神田！待ってたぞ！"
+                                "\\n<Teacher>Kanda! I've been waiting for you!"
                             ]
                         },
                         {
@@ -26156,7 +26149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっと……おまたせしました？"
+                                "\\n<Rui>Umm... did I keep you waiting?"
                             ]
                         },
                         {
@@ -26184,14 +26177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>宝探しようのゴム球が5つ足らないんだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プールの中にあると思うから拾ってきてくれ。"
+                                "\\n<Teacher>We're short of five rubber balls for the treasure\nhunt, I think they're in the pool. Could you pick\nthem up for me?"
                             ]
                         },
                         {
@@ -26247,14 +26233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ゴム球……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、小学校の時やったあれ……。"
+                                "\\n<Rui>Rubber balls...? Ah, those things we used to play\nwith in elementary school..."
                             ]
                         },
                         {
@@ -26303,7 +26282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>いや、そもそもなんで私が……"
+                                "\\n<Rui>No, but why do I have to..."
                             ]
                         },
                         {
@@ -26331,14 +26310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>玄関の鍵がいるんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "5つ拾ってくれたら交換してやる。"
+                                "\\n<Teacher>You need the front door key, right? If you pick up\nfive, I'll trade you for it."
                             ]
                         },
                         {
@@ -26394,14 +26366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>……はぁ、わかったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクッと終らせてあげる。"
+                                "\\n<Rui>...sigh, alright, I got it. I'll finish this\nquickly for you."
                             ]
                         },
                         {
@@ -26429,7 +26394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>うむ、よい返事だ！では頼んだぞ！"
+                                "\\n<Teacher>Hmm, that's a good response! Then I'm counting on\nyou!"
                             ]
                         },
                         {
@@ -28532,7 +28497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>頼んだぞ！ゴム球は5つだ！"
+                                "\\n<Teacher>I'm counting on you! There are 5 rubber balls!"
                             ]
                         },
                         {
