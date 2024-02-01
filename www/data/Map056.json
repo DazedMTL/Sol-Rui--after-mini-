@@ -27762,7 +27762,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"20 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"20 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -38344,7 +38344,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
+                                "this.BLogAdd(120 , \"1 Bunny Point has been deposited\");"
                             ]
                         },
                         {
@@ -38542,7 +38542,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -85752,7 +85752,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
+                                "this.BLogAdd(120 , \"1 Bunny Point has been deposited\");"
                             ]
                         },
                         {
@@ -86050,7 +86050,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
+                                "this.BLogAdd(120 , \"1 Bunny Point has been deposited\");"
                             ]
                         },
                         {

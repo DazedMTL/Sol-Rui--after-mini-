@@ -79568,7 +79568,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -111501,7 +111501,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -117376,7 +117376,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -117422,7 +117422,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"12 Usapo Points have been deposited\");"
+                                "this.BLogAdd(120 , \"12 Bunny Points have been deposited\");"
                             ]
                         },
                         {
