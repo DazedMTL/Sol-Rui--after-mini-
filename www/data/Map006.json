@@ -19968,7 +19968,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(600 , \"\\\\C[10]ルイは戦う力を失った……。\");"
+                                "this.BLogAdd(600 , \"\\\\C[10]Rui has lost the power to fight\");"
                             ]
                         },
                         {

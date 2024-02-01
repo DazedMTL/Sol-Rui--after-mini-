@@ -19936,7 +19936,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -20128,7 +20128,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -20320,7 +20320,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -29029,7 +29029,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[88]VD端末を手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[88]Acquired the VD Terminal\");"
                             ]
                         },
                         {
@@ -30585,7 +30585,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ヘッドギアをつけた男が座っている。\");"
+                                "this.BLogAdd(300 , \"A man wearing a headgear is sitting\");"
                             ]
                         },
                         {
@@ -30661,7 +30661,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男は卑猥なダンスを肴に酒を飲んでいる。\");"
+                                "this.BLogAdd(300 , \"The man is drinking alcohol while enjoying a lewd dance\");"
                             ]
                         },
                         {
@@ -32533,7 +32533,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"30ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"30 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -33197,7 +33197,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"警備スタッフはフロア内の様子を見ている。\");"
+                                "this.BLogAdd(300 , \"The security staff is monitoring the situation on the floor\");"
                             ]
                         },
                         {
@@ -33280,7 +33280,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"警備スタッフはフロア内の様子を見ている。\");"
+                                "this.BLogAdd(300 , \"The security staff is monitoring the situation on the floor\");"
                             ]
                         },
                         {
@@ -33354,7 +33354,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"強そうな男だ。ボディガードだろうか。\");"
+                                "this.BLogAdd(300 , \"He looks strong Perhaps a bodyguard\");"
                             ]
                         },
                         {
@@ -33590,7 +33590,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"強そうな男だ。ボディガードだろうか。\");"
+                                "this.BLogAdd(300 , \"He looks strong Perhaps a bodyguard?\");"
                             ]
                         },
                         {
@@ -33949,7 +33949,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ボディガードがいる。\");"
+                                "this.BLogAdd(300 , \"There's a bodyguard\");"
                             ]
                         },
                         {
@@ -34031,7 +34031,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ボディガードがいる。\");"
+                                "this.BLogAdd(300 , \"There's a bodyguard\");"
                             ]
                         },
                         {
@@ -34113,7 +34113,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ボディガードがいる。\");"
+                                "this.BLogAdd(300 , \"There's a bodyguard\");"
                             ]
                         },
                         {
@@ -39208,7 +39208,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"バニーは完全に伸びている。\");"
+                                "this.BLogAdd(300 , \"The bunny is fully stretched out\");"
                             ]
                         },
                         {
@@ -39317,7 +39317,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(30 , \"フンフンフンフンフンフンフンフン！！！\");"
+                                "this.BLogAdd(30 , \"Hnngh, hnngh, hnngh, hnngh, hnngh, hnngh, hnngh, hnngh!!!\");"
                             ]
                         },
                         {
@@ -44890,7 +44890,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"70ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"70 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -47034,7 +47034,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"警備スタッフはフロア内の様子を見ている。\");"
+                                "this.BLogAdd(300 , \"The security staff is monitoring the situation on the floor\");"
                             ]
                         },
                         {
@@ -47117,7 +47117,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"警備スタッフはフロア内の様子を見ている。\");"
+                                "this.BLogAdd(300 , \"The security staff is watching the situation on the floor\");"
                             ]
                         },
                         {
@@ -47234,7 +47234,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -47395,7 +47395,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {

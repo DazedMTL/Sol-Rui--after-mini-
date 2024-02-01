@@ -31361,7 +31361,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -31553,7 +31553,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -31752,7 +31752,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You don't have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -35262,7 +35262,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -35308,7 +35308,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -35354,7 +35354,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -35389,7 +35389,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -35728,7 +35728,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -35774,7 +35774,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -35820,7 +35820,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -35855,7 +35855,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -40025,7 +40025,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]エッチクオーターを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]Acquired the Ecchi Quota\");"
                             ]
                         },
                         {
@@ -40094,7 +40094,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]エッジランナーを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]Acquired the Edge Runner\");"
                             ]
                         },
                         {
@@ -40163,7 +40163,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]リッチウォッカを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]Acquired Rich Vodka\");"
                             ]
                         },
                         {
@@ -40232,7 +40232,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]エッジウォーターを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]Acquired the Edgewater\");"
                             ]
                         },
                         {
@@ -40301,7 +40301,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]ヘッジコーナーを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]You've obtained the Hedge Corner\");"
                             ]
                         },
                         {
@@ -44090,7 +44090,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"5ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"5 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -44136,7 +44136,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"6ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"6 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -44182,7 +44182,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"7ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"7 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -44217,7 +44217,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"8ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"8 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -45356,7 +45356,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男は女の口にペニスを入れて扱いている。\");"
+                                "this.BLogAdd(300 , \"The man is thrusting his penis into the woman's mouth\");"
                             ]
                         },
                         {
@@ -45432,7 +45432,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男は女の腰を叩き付けるのに夢中だ。\");"
+                                "this.BLogAdd(300 , \"The man is engrossed in slamming against the woman's hips\");"
                             ]
                         },
                         {
@@ -46515,7 +46515,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"酒代報酬\\\\I[87]\\\\C[6]500\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A payment of \\\\I[87]\\\\C[6]500\\\\C[0] for the alcohol expenses\\nhas been deposited\");"
                             ]
                         },
                         {
@@ -46891,7 +46891,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"酒代報酬\\\\I[87]\\\\C[6]500\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Alcohol Expense Reward \\\\I[87]\\\\C[6]500\\\\C[0] has been\\ndeposited\");"
                             ]
                         },
                         {
@@ -47258,7 +47258,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"酒代報酬\\\\I[87]\\\\C[6]500\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A payment of \\\\I[87]\\\\C[6]500\\\\C[0] for the alcohol expenses\\nhas been deposited\");"
                             ]
                         },
                         {
@@ -47770,7 +47770,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"酒代報酬\\\\I[87]\\\\C[6]7000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Alcohol Expense Reward \\\\I[87]\\\\C[6]7000\\\\C[0] has been\\ndeposited\");"
                             ]
                         },
                         {
@@ -48383,7 +48383,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"酒代報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Alcohol Expense Reward \\\\I[87]\\\\C[6]20000\\\\C[0] has been\\ndeposited\");"
                             ]
                         },
                         {
@@ -51046,7 +51046,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -52020,7 +52020,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]10000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]10000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -55385,7 +55385,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55431,7 +55431,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55477,7 +55477,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -55512,7 +55512,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -55851,7 +55851,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55897,7 +55897,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55943,7 +55943,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -55978,7 +55978,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -59898,7 +59898,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -60060,7 +60060,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -63858,7 +63858,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"3ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"3 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -65117,7 +65117,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"3ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"3 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -70430,7 +70430,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -71088,7 +71088,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -72132,7 +72132,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[88]キンタMAXを入手しました。\");"
+                                "this.BLogAdd(300 , \"\\\\I[88]You've obtained Max Gold\");"
                             ]
                         },
                         {
@@ -72316,7 +72316,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"3ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"3 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -76746,7 +76746,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -76792,7 +76792,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -76838,7 +76838,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -76873,7 +76873,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -79624,7 +79624,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -79670,7 +79670,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -79716,7 +79716,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -79751,7 +79751,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {

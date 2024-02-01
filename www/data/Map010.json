@@ -44722,7 +44722,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"70ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(300 , \"70 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -59130,7 +59130,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(200 , \"リセットしました。\");"
+                                "this.BLogAdd(200 , \"Reset complete\");"
                             ]
                         },
                         {
@@ -79568,7 +79568,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -90466,7 +90466,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"バニーは完全に伸びている。\");"
+                                "this.BLogAdd(300 , \"The bunny is fully stretched out\");"
                             ]
                         },
                         {
@@ -92483,7 +92483,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"ハリボテだ。\");"
+                                "this.BLogAdd(200 , \"It's a sham\");"
                             ]
                         },
                         {
@@ -94537,7 +94537,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ルイのソルヒール！\");"
+                                "this.BLogAdd(600 , \"Rui's Sol Heal!\");"
                             ]
                         },
                         {
@@ -96812,7 +96812,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ルイのソルヒール！\");"
+                                "this.BLogAdd(600 , \"Rui's Sol Heal!\");"
                             ]
                         },
                         {
@@ -102785,7 +102785,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"バニーは完全に伸びている。\");"
+                                "this.BLogAdd(300 , \"The bunny is fully stretched out\");"
                             ]
                         },
                         {
@@ -102903,7 +102903,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"バニーは完全に伸びている。\");"
+                                "this.BLogAdd(300 , \"The bunny is fully stretched out\");"
                             ]
                         },
                         {
@@ -103021,7 +103021,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"バニーは完全に伸びている。\");"
+                                "this.BLogAdd(300 , \"The bunny is fully stretched out\");"
                             ]
                         },
                         {
@@ -111501,7 +111501,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -111547,7 +111547,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"12ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"12 Bunny Points have been credited\");"
                             ]
                         },
                         {
@@ -111593,7 +111593,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"14ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"14 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -111628,7 +111628,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"16ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"16 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -117376,7 +117376,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -117422,7 +117422,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"12ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"12 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -117468,7 +117468,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"14ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"14 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -117503,7 +117503,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"16ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"16 Bunny Points have been deposited\");"
                             ]
                         },
                         {

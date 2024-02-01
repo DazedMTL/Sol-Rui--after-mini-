@@ -26274,7 +26274,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"女は白目を向いて震えている。\");"
+                                "this.BLogAdd(120 , \"The woman is rolling her eyes back and trembling\");"
                             ]
                         },
                         {
@@ -26341,7 +26341,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"男は腰を振っている。\");"
+                                "this.BLogAdd(120 , \"The man is thrusting his hips\");"
                             ]
                         },
                         {
@@ -27762,7 +27762,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"20ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"20 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -28003,7 +28003,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男はルイをみてニヤニヤしている。\");"
+                                "this.BLogAdd(300 , \"The man is grinning at Rui\");"
                             ]
                         },
                         {
@@ -34981,7 +34981,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"女性がみっともない恰好で倒れている。\");"
+                                "this.BLogAdd(300 , \"A woman is lying down in an unseemly manner\");"
                             ]
                         },
                         {
@@ -35108,7 +35108,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ひどいありさまだ……。\");"
+                                "this.BLogAdd(300 , \"What a terrible state of affairs\");"
                             ]
                         },
                         {
@@ -38228,7 +38228,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]お客に飲み物を渡しました。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]You handed a drink to the customer\");"
                             ]
                         },
                         {
@@ -38344,7 +38344,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -38454,7 +38454,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[89]お客に飲み物を渡しました。\");"
+                                "this.BLogAdd(300 , \"\\\\I[89]You handed a drink to the customer\");"
                             ]
                         },
                         {
@@ -38542,7 +38542,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -38928,7 +38928,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"股から精液をたれ流した女性が横たわっている。\");"
+                                "this.BLogAdd(300 , \"A woman lies sprawled, semen dripping from her crotch\");"
                             ]
                         },
                         {
@@ -48999,7 +48999,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -51557,7 +51557,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -53756,7 +53756,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[88]ヤクヌークを手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[88]Acquired the Yacnook\");"
                             ]
                         },
                         {
@@ -53968,7 +53968,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"20ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"20 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -59371,7 +59371,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]20000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -59417,7 +59417,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]25000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward \\\\I[87]\\\\C[6]25000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -59463,7 +59463,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -59509,7 +59509,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]40000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]40000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -64291,7 +64291,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]20000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -64337,7 +64337,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]25000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]25000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -64383,7 +64383,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -64429,7 +64429,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]40000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]40000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -70592,7 +70592,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -70638,7 +70638,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]35000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]35000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -70684,7 +70684,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]45000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]45000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -70730,7 +70730,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]50000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]50000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -73369,7 +73369,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]20000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -73415,7 +73415,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]25000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]25000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -73461,7 +73461,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -73507,7 +73507,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]40000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]40000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -74562,7 +74562,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]20000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -74608,7 +74608,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]25000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]25000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -74654,7 +74654,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]30000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]30000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -74700,7 +74700,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]40000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]40000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -78413,7 +78413,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]300000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]300000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83534,7 +83534,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]10000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]10000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83580,7 +83580,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]12000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward \\\\I[87]\\\\C[6]12000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83626,7 +83626,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]16000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]16000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83672,7 +83672,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]20000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]20000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83728,7 +83728,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]5000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"A reward of \\\\I[87]\\\\C[6]5000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83774,7 +83774,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]6000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]6000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83820,7 +83820,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]8000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]8000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -83866,7 +83866,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]10000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]10000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -84870,7 +84870,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]10000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]10000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -85752,7 +85752,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -86050,7 +86050,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {

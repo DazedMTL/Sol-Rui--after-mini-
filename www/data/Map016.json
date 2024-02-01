@@ -33215,7 +33215,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -33407,7 +33407,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -33666,7 +33666,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"このフロアに入るにはウサギランクが足りません。\");"
+                                "this.BLogAdd(120 , \"You do not have enough Rabbit Rank to enter this floor\");"
                             ]
                         },
                         {
@@ -39329,7 +39329,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ルイのソルヒール！\");"
+                                "this.BLogAdd(600 , \"Rui's Sol Heal!\");"
                             ]
                         },
                         {
@@ -41604,7 +41604,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ルイのソルヒール！\");"
+                                "this.BLogAdd(600 , \"Rui's Sol Heal!\");"
                             ]
                         },
                         {
@@ -54742,7 +54742,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55261,7 +55261,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -55898,7 +55898,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -56521,7 +56521,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -57235,7 +57235,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -57642,7 +57642,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -58544,7 +58544,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男はバニーに男根をしゃぶらせている。\");"
+                                "this.BLogAdd(300 , \"The man is making the bunny suck his cock\");"
                             ]
                         },
                         {
@@ -64155,7 +64155,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -64201,7 +64201,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"12ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"12 Bunny Points have been credited\");"
                             ]
                         },
                         {
@@ -64247,7 +64247,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"14ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"14 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -64282,7 +64282,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"16ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"16 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -70394,7 +70394,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"10ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"10 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -70440,7 +70440,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"12ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"12 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -70486,7 +70486,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"14ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"14 Bunny Points have been credited to your account\");"
                             ]
                         },
                         {
@@ -70521,7 +70521,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(120 , \"16ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"16 Bunny Points have been deposited\");"
                             ]
                         },
                         {
@@ -72501,7 +72501,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男は卑猥なダンスに夢中だ。\");"
+                                "this.BLogAdd(300 , \"The man is engrossed in a lewd dance\");"
                             ]
                         },
                         {
@@ -73141,7 +73141,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -73381,7 +73381,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男はダンサーに汚いヤジを飛ばしている。\");"
+                                "this.BLogAdd(300 , \"The man is hurling dirty jeers at the dancer\");"
                             ]
                         },
                         {
@@ -73687,7 +73687,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(120 , \"3ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"3 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -73969,7 +73969,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"男は腕を組みながらうなずいている。\");"
+                                "this.BLogAdd(300 , \"The man nods while crossing his arms\");"
                             ]
                         },
                         {
@@ -74914,7 +74914,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"男の手を振り払った。\");"
+                                "this.BLogAdd(120 , \"She shook off the man's hand\");"
                             ]
                         },
                         {
@@ -81113,7 +81113,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -81159,7 +81159,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -81205,7 +81205,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -81240,7 +81240,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -83644,7 +83644,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -83690,7 +83690,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -83736,7 +83736,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -83771,7 +83771,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -86175,7 +86175,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -86221,7 +86221,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -86267,7 +86267,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -86302,7 +86302,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -88706,7 +88706,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -88752,7 +88752,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -88798,7 +88798,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -88833,7 +88833,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -91237,7 +91237,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -91283,7 +91283,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -91329,7 +91329,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -91364,7 +91364,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -94529,7 +94529,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -94575,7 +94575,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -94621,7 +94621,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -94656,7 +94656,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been credited\");"
                             ]
                         },
                         {
@@ -97052,7 +97052,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]1000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]1000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {
@@ -100225,7 +100225,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -100271,7 +100271,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(120 , \"1ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"1 Usapo Point has been deposited\");"
                             ]
                         },
                         {
@@ -100317,7 +100317,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {
@@ -100352,7 +100352,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(120 , \"2ウサポイント振り込まれました。\");"
+                                "this.BLogAdd(120 , \"2 Usapo Points have been deposited\");"
                             ]
                         },
                         {

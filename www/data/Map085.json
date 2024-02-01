@@ -24602,7 +24602,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[87]鍵を手に入れた！\");"
+                                "this.BLogAdd(300 , \"\\\\I[87]Obtained the key!\");"
                             ]
                         },
                         {
@@ -25192,7 +25192,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(600 , \"\\\\C[10]ルイは戦う力を失った……。\");"
+                                "this.BLogAdd(600 , \"\\\\C[10]Rui has lost the power to fight\");"
                             ]
                         },
                         {
@@ -28441,7 +28441,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[87]鍵を手に入れた！\");"
+                                "this.BLogAdd(300 , \"\\\\I[87]Obtained the key!\");"
                             ]
                         },
                         {

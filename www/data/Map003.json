@@ -27021,7 +27021,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"\\\\C[2]ルイは\\\\I[111]催眠状態【Lv1】になった！\");"
+                                "this.BLogAdd(600 , \"\\\\C[2]Rui has become \\\\I[111]Hypnotized【Lv1】!\");"
                             ]
                         },
                         {
@@ -27349,7 +27349,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(360 , \"侵食度判定──50未満で回避可能！\");"
+                                "this.BLogAdd(360 , \"Corruption Level Assessment—Evasion possible under 50!\");"
                             ]
                         },
                         {
@@ -28727,7 +28727,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"侵食度判定──60以下で回避可能。\");"
+                                "this.BLogAdd(300 , \"Corruption Level Assessment—Evasion possible below 60\");"
                             ]
                         },
                         {
@@ -29498,7 +29498,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"侵食度判定──70以下で回避可能。\");"
+                                "this.BLogAdd(300 , \"Corruption Level Assessment—Evasion possible below 70\");"
                             ]
                         },
                         {
@@ -29770,7 +29770,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\C[2]ルイは淫紋に操られ興奮している。\");"
+                                "this.BLogAdd(300 , \"\\\\C[2]Rui is being manipulated by the lewd crest and is\\nexcited\");"
                             ]
                         },
                         {
@@ -31552,7 +31552,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"侵食度判定──80以下で回避可能。\");"
+                                "this.BLogAdd(300 , \"Corruption Level Assessment—Evasion possible below 80\");"
                             ]
                         },
                         {
@@ -31837,7 +31837,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"侵食度判定──90以下で回避可能。\");"
+                                "this.BLogAdd(300 , \"Corruption Level Assessment—Evasion possible below 90\");"
                             ]
                         },
                         {
@@ -32129,7 +32129,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"侵食度判定──100未満で回避可能。\");"
+                                "this.BLogAdd(300 , \"Corruption Level Assessment—Evasion possible if under 100\");"
                             ]
                         },
                         {
@@ -41501,7 +41501,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"\\\\C[2]ルイは\\\\I[111]催眠状態【LvMAX】になった！\");"
+                                "this.BLogAdd(600 , \"\\\\C[2]Rui has become \\\\I[111]Hypnotized【LvMAX】!\");"
                             ]
                         },
                         {

@@ -17674,7 +17674,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[87]鍵を手に入れた！\");"
+                                "this.BLogAdd(300 , \"\\\\I[87]Obtained the key!\");"
                             ]
                         },
                         {

@@ -26074,7 +26074,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"ルイはダメージを受けた！\");"
+                                "this.BLogAdd(300 , \"Rui took damage!\");"
                             ]
                         },
                         {
@@ -26640,7 +26640,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"ゴブリンが背後から飛び掛かってくる！\");"
+                                "this.BLogAdd(200 , \"A goblin leaps from behind!\");"
                             ]
                         },
                         {
@@ -30760,7 +30760,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"ゴブリンが背後から飛び掛かってくる！\");"
+                                "this.BLogAdd(200 , \"A goblin leaps from behind!\");"
                             ]
                         },
                         {

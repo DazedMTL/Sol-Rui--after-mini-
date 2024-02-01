@@ -27279,7 +27279,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -27346,7 +27346,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"呼吸をしていない……。\");"
+                                "this.BLogAdd(200 , \"Not breathing\");"
                             ]
                         },
                         {
@@ -27413,7 +27413,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -27480,7 +27480,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -27681,14 +27681,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"箱の中身は薬草だった！\");"
+                                "this.BLogAdd(200 , \"The contents of the box were herbs!\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"\\\\C[6]ルイの\\\\I[32]体力が2回復した！\");"
+                                "this.BLogAdd(200 , \"\\\\C[6]Rui's\\\\I[32] HP has been restored by 2!\");"
                             ]
                         },
                         {
@@ -28029,7 +28029,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -28096,7 +28096,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -28225,7 +28225,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -28292,7 +28292,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {
@@ -28788,7 +28788,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(200 , \"女性のお腹は膨らんでいる。\");"
+                                "this.BLogAdd(200 , \"The woman's belly is swollen\");"
                             ]
                         },
                         {

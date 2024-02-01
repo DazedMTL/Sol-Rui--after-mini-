@@ -52357,7 +52357,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が20％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 20% complete\");"
                             ]
                         },
                         {
@@ -52397,7 +52397,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が40％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 40% complete\");"
                             ]
                         },
                         {
@@ -52437,7 +52437,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が60％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 60% complete\");"
                             ]
                         },
                         {
@@ -52477,7 +52477,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が80％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 80% complete\");"
                             ]
                         },
                         {
@@ -52506,7 +52506,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が100％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 100% complete\");"
                             ]
                         },
                         {
@@ -52772,7 +52772,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が20％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 20%\");"
                             ]
                         },
                         {
@@ -52812,7 +52812,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が40％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 40%\");"
                             ]
                         },
                         {
@@ -52852,7 +52852,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が60％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 60%\");"
                             ]
                         },
                         {
@@ -52892,7 +52892,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が80％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 80%\");"
                             ]
                         },
                         {
@@ -52921,7 +52921,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が100％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charging has reached 100%\");"
                             ]
                         },
                         {
@@ -53397,7 +53397,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が20％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 20% complete\");"
                             ]
                         },
                         {
@@ -53437,7 +53437,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が40％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 40% complete\");"
                             ]
                         },
                         {
@@ -53477,7 +53477,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が60％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 60% complete\");"
                             ]
                         },
                         {
@@ -53517,7 +53517,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が80％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 80% complete\");"
                             ]
                         },
                         {
@@ -53546,7 +53546,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が100％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 100% complete\");"
                             ]
                         },
                         {
@@ -53812,7 +53812,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が20％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 20%\");"
                             ]
                         },
                         {
@@ -53852,7 +53852,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が40％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 40%\");"
                             ]
                         },
                         {
@@ -53892,7 +53892,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が60％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 60%\");"
                             ]
                         },
                         {
@@ -53932,7 +53932,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が80％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 80%\");"
                             ]
                         },
                         {
@@ -53961,7 +53961,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が100％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charging has reached 100%\");"
                             ]
                         },
                         {
@@ -54437,7 +54437,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が20％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 20% complete\");"
                             ]
                         },
                         {
@@ -54477,7 +54477,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が40％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 40% complete\");"
                             ]
                         },
                         {
@@ -54517,7 +54517,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が60％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 60% complete\");"
                             ]
                         },
                         {
@@ -54557,7 +54557,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が80％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 80% complete\");"
                             ]
                         },
                         {
@@ -54586,7 +54586,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が100％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 100% complete\");"
                             ]
                         },
                         {
@@ -54852,7 +54852,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が20％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 20%\");"
                             ]
                         },
                         {
@@ -54892,7 +54892,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が40％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 40%\");"
                             ]
                         },
                         {
@@ -54932,7 +54932,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が60％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 60%\");"
                             ]
                         },
                         {
@@ -54972,7 +54972,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が80％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 80%\");"
                             ]
                         },
                         {
@@ -55001,7 +55001,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が100％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charging has reached 100%\");"
                             ]
                         },
                         {
@@ -55477,7 +55477,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が20％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 20% complete\");"
                             ]
                         },
                         {
@@ -55517,7 +55517,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が40％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 40% complete\");"
                             ]
                         },
                         {
@@ -55557,7 +55557,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が60％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 60% complete\");"
                             ]
                         },
                         {
@@ -55597,7 +55597,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が80％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 80% complete\");"
                             ]
                         },
                         {
@@ -55626,7 +55626,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(150 , \"充電が100％完了しました。\");"
+                                "this.BLogAdd(150 , \"Charging is 100% complete\");"
                             ]
                         },
                         {
@@ -55892,7 +55892,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が20％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charge has reached 20%\");"
                             ]
                         },
                         {
@@ -55932,7 +55932,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が40％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 40%\");"
                             ]
                         },
                         {
@@ -55972,7 +55972,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が60％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 60%\");"
                             ]
                         },
                         {
@@ -56012,7 +56012,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が80％たまりました。\");"
+                                "this.BLogAdd(300 , \"The charge has reached 80%\");"
                             ]
                         },
                         {
@@ -56041,7 +56041,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "this.BLogAdd(300 , \"充電が100％たまりました。\");"
+                                "this.BLogAdd(300 , \"Charging has reached 100%\");"
                             ]
                         },
                         {

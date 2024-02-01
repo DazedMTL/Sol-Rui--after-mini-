@@ -31066,7 +31066,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(360 , \"敵に捕まってしまった！\\\\C[2]入力ミスダメージ増加\");"
+                                "this.BLogAdd(360 , \"Captured by the enemy! \\\\C[2]Input Error Damage Increased\");"
                             ]
                         },
                         {
@@ -32811,7 +32811,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(360 , \"敵に捕まってしまった！\\\\C[2]入力ミスダメージ増加\");"
+                                "this.BLogAdd(360 , \"Captured by the enemy! \\\\C[2]Input Error Damage Increased\");"
                             ]
                         },
                         {
@@ -35790,7 +35790,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(360 , \"敵に捕まってしまった！\\\\C[2]入力ミスダメージ増加\");"
+                                "this.BLogAdd(360 , \"Captured by the enemy! \\\\C[2]Input error damage increased\");"
                             ]
                         },
                         {
@@ -37424,7 +37424,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "this.BLogAdd(360 , \"敵に捕まってしまった！\\\\C[2]入力ミスダメージ増加\");"
+                                "this.BLogAdd(360 , \"Captured by the enemy! \\\\C[2]Input error damage increased\");"
                             ]
                         },
                         {

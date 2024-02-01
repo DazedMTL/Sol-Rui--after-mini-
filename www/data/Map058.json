@@ -37944,7 +37944,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(300 , \"\\\\I[88]飲料水を手に入れた。\");"
+                                "this.BLogAdd(300 , \"\\\\I[88]Obtained drinking water\");"
                             ]
                         },
                         {
@@ -53347,7 +53347,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(120 , \"報酬\\\\I[87]\\\\C[6]1000\\\\C[0]が入金されました。\");"
+                                "this.BLogAdd(120 , \"Reward\\\\I[87]\\\\C[6]1000\\\\C[0] has been deposited\");"
                             ]
                         },
                         {

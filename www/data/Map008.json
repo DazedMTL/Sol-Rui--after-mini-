@@ -17542,14 +17542,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"背後から気配がする。\");"
+                                "this.BLogAdd(600 , \"I sense a presence from behind\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ゴブリンたちが戻ってきたようだ。\");"
+                                "this.BLogAdd(600 , \"It seems the goblins have returned\");"
                             ]
                         },
                         {
@@ -17642,14 +17642,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"背後から気配がする。\");"
+                                "this.BLogAdd(600 , \"I sense a presence from behind\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ゴブリンたちが戻ってきたようだ。\");"
+                                "this.BLogAdd(600 , \"It seems the goblins have returned\");"
                             ]
                         },
                         {
@@ -17742,14 +17742,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"背後から気配がする。\");"
+                                "this.BLogAdd(600 , \"I sense a presence from behind\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.BLogAdd(600 , \"ゴブリンたちが戻ってきたようだ。\");"
+                                "this.BLogAdd(600 , \"It seems the goblins have returned\");"
                             ]
                         },
                         {

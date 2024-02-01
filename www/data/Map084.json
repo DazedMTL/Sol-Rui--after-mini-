@@ -28437,7 +28437,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[2]【ダメージ過多】\\\\C[0]ルイの魔眼に対する抵抗力が低下した……\");"
+                                "this.BLogAdd(480 , \"\\\\C[2][Overwhelmed by Damage]\\\\C[0] Rui's resistance to\\nmagical attacks has decreased\");"
                             ]
                         },
                         {
@@ -28523,7 +28523,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[2]【ダメージ限界】\\\\C[0]ルイの魔眼に対する抵抗力がなくなってしまった……\");"
+                                "this.BLogAdd(480 , \"\\\\C[2][Damage Limit]\\\\C[0] Rui's resistance to the magic eye\\nhas disappeared\");"
                             ]
                         },
                         {
@@ -31578,7 +31578,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -31618,7 +31618,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -31658,7 +31658,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -31698,7 +31698,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -31738,7 +31738,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -31860,7 +31860,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -31888,7 +31888,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -31916,7 +31916,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -31944,7 +31944,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -31972,7 +31972,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -32553,7 +32553,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[2]【ダメージ過多】\\\\C[0]ルイの魔眼に対する抵抗力が低下した……\");"
+                                "this.BLogAdd(480 , \"\\\\C[2][Overwhelmed by Damage]\\\\C[0] Rui's resistance to\\nmagical eyes has decreased\");"
                             ]
                         },
                         {
@@ -32639,7 +32639,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[2]【ダメージ限界】\\\\C[0]ルイの魔眼に対する抵抗力がなくなってしまった……\");"
+                                "this.BLogAdd(480 , \"\\\\C[2][Damage Limit]\\\\C[0] Rui's resistance to the magic eye\\nhas disappeared\");"
                             ]
                         },
                         {
@@ -34509,7 +34509,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -34549,7 +34549,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -34589,7 +34589,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -34629,7 +34629,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -34669,7 +34669,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -34791,7 +34791,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -34819,7 +34819,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -34847,7 +34847,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -34875,7 +34875,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -34903,7 +34903,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -35090,7 +35090,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -35130,7 +35130,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -35170,7 +35170,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -35210,7 +35210,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -35250,7 +35250,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -35372,7 +35372,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] Remaining 4/5 pieces\");"
                             ]
                         },
                         {
@@ -35400,7 +35400,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -35428,7 +35428,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -35456,7 +35456,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -35484,7 +35484,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -35671,7 +35671,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained a rubber ball!\\\\C[0] Remaining 4/5\\npieces\");"
                             ]
                         },
                         {
@@ -35711,7 +35711,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -35751,7 +35751,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -35791,7 +35791,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -35831,7 +35831,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -35953,7 +35953,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 4/5 pieces\");"
                             ]
                         },
                         {
@@ -35981,7 +35981,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -36009,7 +36009,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -36037,7 +36037,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -36065,7 +36065,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -36252,7 +36252,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained a rubber ball!\\\\C[0] Remaining 4/5\\npieces\");"
                             ]
                         },
                         {
@@ -36292,7 +36292,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -36332,7 +36332,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -36372,7 +36372,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -36412,7 +36412,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -36534,7 +36534,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] Remaining 4/5 pieces\");"
                             ]
                         },
                         {
@@ -36562,7 +36562,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -36590,7 +36590,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -36618,7 +36618,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -36646,7 +36646,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -40444,7 +40444,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -40484,7 +40484,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -40524,7 +40524,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -40564,7 +40564,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -40604,7 +40604,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've collected all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -40726,7 +40726,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 4/5 remaining\");"
                             ]
                         },
                         {
@@ -40754,7 +40754,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 3/5 pieces\");"
                             ]
                         },
                         {
@@ -40782,7 +40782,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -40810,7 +40810,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -40838,7 +40838,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -41025,7 +41025,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] Remaining 4/5 pieces\");"
                             ]
                         },
                         {
@@ -41065,7 +41065,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -41105,7 +41105,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -41145,7 +41145,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -41185,7 +41185,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
@@ -41307,7 +41307,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り4/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] Remaining 4/5 pieces\");"
                             ]
                         },
                         {
@@ -41335,7 +41335,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り3/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a rubber ball!\\\\C[0] 3/5 remaining\");"
                             ]
                         },
                         {
@@ -41363,7 +41363,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り2/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 2/5 remaining\");"
                             ]
                         },
                         {
@@ -41391,7 +41391,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]ゴム球を手に入れた！\\\\C[0]残り1/5個\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]Acquired a Rubber Ball!\\\\C[0] 1/5 remaining\");"
                             ]
                         },
                         {
@@ -41419,7 +41419,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "this.BLogAdd(480 , \"\\\\C[6]すべてのゴム球を手に入れた！\\\\C[0]\");"
+                                "this.BLogAdd(480 , \"\\\\C[6]You've obtained all the rubber balls!\\\\C[0]\");"
                             ]
                         },
                         {
